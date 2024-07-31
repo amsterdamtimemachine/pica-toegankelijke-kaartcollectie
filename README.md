@@ -18,5 +18,5 @@ In dit pilotproject hebben we 25 kaarten geselecteerd uit de collectie van de Bi
 
 De kaartselectie is opgenomen in [`selectie.csv`](selectie.csv) en is als één IIIF Manifest [`manifest.json`](manifest.json) gemodelleerd zodat de kaarten eenvoudig in een viewer kunnen worden getoond én waardoor de kaarten gegeorefereerd kunnen worden in Allmaps (https://allmaps.org/).
 
-Bekijk de selectie in de [Universal Viewer](https://uv-v4.netlify.app/#?manifest=https://amsterdamtimemachine.github.io/pica-toegankelijke-kaartcollectie/manifest.json).
+Bekijk de selectie in [Mirador](https://projectmirador.org/embed/?iiif-content=https://amsterdamtimemachine.github.io/pica-toegankelijke-kaartcollectie/manifest.json).
 
