@@ -1,0 +1,2237 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://amsterdamtimemachine.github.io/pica-toegankelijke-kaartcollectie/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Selectie kaarten voor het PICA-project 'Toegankelijke Kaartencollectie' van de Universiteit van Amsterdam"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40099/pages/1/canvas/",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "A1 - Amstelodamum celebre emporium forma plana. "
+        ]
+      },
+      "height": 6240,
+      "width": 7408,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Titel"
+            ]
+          },
+          "value": {
+            "nl": [
+              "A1 - Amstelodamum celebre emporium forma plana. "
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/11245/3.40099\">https://hdl.handle.net/11245/3.40099</a>"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URI (Catalogus)"
+            ]
+          },
+          "value": {
+            "en": [
+              "<a href=\"https://pid.uba.uva.nl/ark:/88238/b1990037778300205131\">https://pid.uba.uva.nl/ark:/88238/b1990037778300205131</a>"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Origineel manifest"
+            ]
+          },
+          "value": {
+            "en": [
+              "<a href=\"https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40099/manifest/\">https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40099/manifest/</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "http://example.org/iiif/2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.uba.uva.nl/iiif/2/default!1!3!1!990037778300205131!HB-KZL-1809-A-3.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 6240,
+                "width": 7408,
+                "service": [
+                  {
+                    "@id": "https://images.uba.uva.nl/iiif/2/default!1!3!1!990037778300205131!HB-KZL-1809-A-3.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40099/pages/1/canvas/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2514/pages/1/canvas/",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "A2 - Amsteldam "
+        ]
+      },
+      "height": 8665,
+      "width": 10393,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Titel"
+            ]
+          },
+          "value": {
+            "nl": [
+              "A2 - Amsteldam "
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/11245/3.2514\">https://hdl.handle.net/11245/3.2514</a>"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URI (Catalogus)"
+            ]
+          },
+          "value": {
+            "en": [
+              "<a href=\"https://pid.uba.uva.nl/ark:/88238/b1990009296490205131\">https://pid.uba.uva.nl/ark:/88238/b1990009296490205131</a>"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Origineel manifest"
+            ]
+          },
+          "value": {
+            "en": [
+              "<a href=\"https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2514/manifest/\">https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2514/manifest/</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "http://example.org/iiif/4",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.uba.uva.nl/iiif/2/erfgoed!kaarten!9!4!6!990009296490205131!100-12-02.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 8665,
+                "width": 10393,
+                "service": [
+                  {
+                    "@id": "https://images.uba.uva.nl/iiif/2/erfgoed!kaarten!9!4!6!990009296490205131!100-12-02.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2514/pages/1/canvas/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3163/pages/1/canvas/",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "A3 - A new map of the city of Amsterdam : most humbly inscrib'd to Iohn Hedworth Esqr. "
+        ]
+      },
+      "height": 6314,
+      "width": 7475,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Titel"
+            ]
+          },
+          "value": {
+            "nl": [
+              "A3 - A new map of the city of Amsterdam : most humbly inscrib'd to Iohn Hedworth Esqr. "
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/11245/3.3163\">https://hdl.handle.net/11245/3.3163</a>"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URI (Catalogus)"
+            ]
+          },
+          "value": {
+            "en": [
+              "<a href=\"https://pid.uba.uva.nl/ark:/88238/b1990009297720205131\">https://pid.uba.uva.nl/ark:/88238/b1990009297720205131</a>"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Origineel manifest"
+            ]
+          },
+          "value": {
+            "en": [
+              "<a href=\"https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3163/manifest/\">https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3163/manifest/</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "http://example.org/iiif/6",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.uba.uva.nl/iiif/2/erfgoed!kaarten!2!7!7!990009297720205131!102-16-13.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 6314,
+                "width": 7475,
+                "service": [
+                  {
+                    "@id": "https://images.uba.uva.nl/iiif/2/erfgoed!kaarten!2!7!7!990009297720205131!102-16-13.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3163/pages/1/canvas/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_321/pages/1/canvas/",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "A4 - Amsterdam "
+        ]
+      },
+      "height": 11460,
+      "width": 13648,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Titel"
+            ]
+          },
+          "value": {
+            "nl": [
+              "A4 - Amsterdam "
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/11245/3.321\">https://hdl.handle.net/11245/3.321</a>"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URI (Catalogus)"
+            ]
+          },
+          "value": {
+            "en": [
+              "<a href=\"https://pid.uba.uva.nl/ark:/88238/b1990016218050205131\">https://pid.uba.uva.nl/ark:/88238/b1990016218050205131</a>"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Origineel manifest"
+            ]
+          },
+          "value": {
+            "en": [
+              "<a href=\"https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_321/manifest/\">https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_321/manifest/</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "http://example.org/iiif/8",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.uba.uva.nl/iiif/2/erfgoed!kaarten!5!0!8!990016218050205131!WX012.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 11460,
+                "width": 13648,
+                "service": [
+                  {
+                    "@id": "https://images.uba.uva.nl/iiif/2/erfgoed!kaarten!5!0!8!990016218050205131!WX012.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_321/pages/1/canvas/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_881/pages/1/canvas/",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "A5 - Amsterdam "
+        ]
+      },
+      "height": 6261,
+      "width": 8811,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Titel"
+            ]
+          },
+          "value": {
+            "nl": [
+              "A5 - Amsterdam "
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/11245/3.881\">https://hdl.handle.net/11245/3.881</a>"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URI (Catalogus)"
+            ]
+          },
+          "value": {
+            "en": [
+              "<a href=\"https://pid.uba.uva.nl/ark:/88238/b1990009329240205131\">https://pid.uba.uva.nl/ark:/88238/b1990009329240205131</a>"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Origineel manifest"
+            ]
+          },
+          "value": {
+            "en": [
+              "<a href=\"https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_881/manifest/\">https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_881/manifest/</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "http://example.org/iiif/10",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.uba.uva.nl/iiif/2/erfgoed!kaarten!4!2!9!990009329240205131!101-04-VIE25-26.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 6261,
+                "width": 8811,
+                "service": [
+                  {
+                    "@id": "https://images.uba.uva.nl/iiif/2/erfgoed!kaarten!4!2!9!990009329240205131!101-04-VIE25-26.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_881/pages/1/canvas/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2714/pages/1/canvas/",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "A6 - Nieuwe kaart van Amsterdam : waarop zijn gebragt alle de voorgevallen veranderingen : benevens de uitgevoerd wordende kapitale werken van afsluiting der haven door een dijk met sluizen voorzien ... "
+        ]
+      },
+      "height": 7240,
+      "width": 10702,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Titel"
+            ]
+          },
+          "value": {
+            "nl": [
+              "A6 - Nieuwe kaart van Amsterdam : waarop zijn gebragt alle de voorgevallen veranderingen : benevens de uitgevoerd wordende kapitale werken van afsluiting der haven door een dijk met sluizen voorzien ... "
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/11245/3.2714\">https://hdl.handle.net/11245/3.2714</a>"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URI (Catalogus)"
+            ]
+          },
+          "value": {
+            "en": [
+              "<a href=\"https://pid.uba.uva.nl/ark:/88238/b1990009339970205131\">https://pid.uba.uva.nl/ark:/88238/b1990009339970205131</a>"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Origineel manifest"
+            ]
+          },
+          "value": {
+            "en": [
+              "<a href=\"https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2714/manifest/\">https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2714/manifest/</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "http://example.org/iiif/12",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.uba.uva.nl/iiif/2/erfgoed!kaarten!7!9!9!990009339970205131!101-04-VI-E-25-33.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 7240,
+                "width": 10702,
+                "service": [
+                  {
+                    "@id": "https://images.uba.uva.nl/iiif/2/erfgoed!kaarten!7!9!9!990009339970205131!101-04-VI-E-25-33.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2714/pages/1/canvas/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1468/pages/1/canvas/",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "A7 - Omnibus kaart, of Nieuwe platte grond der stad Amsterdam : waarop alle de omnibus liniën zijn aangetekend = Carte des omnibus, ou Nouveau plan de la ville d'Amsterdam. "
+        ]
+      },
+      "height": 5247,
+      "width": 6526,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Titel"
+            ]
+          },
+          "value": {
+            "nl": [
+              "A7 - Omnibus kaart, of Nieuwe platte grond der stad Amsterdam : waarop alle de omnibus liniën zijn aangetekend = Carte des omnibus, ou Nouveau plan de la ville d'Amsterdam. "
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/11245/3.1468\">https://hdl.handle.net/11245/3.1468</a>"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URI (Catalogus)"
+            ]
+          },
+          "value": {
+            "en": [
+              "<a href=\"https://pid.uba.uva.nl/ark:/88238/b1990009349710205131\">https://pid.uba.uva.nl/ark:/88238/b1990009349710205131</a>"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Origineel manifest"
+            ]
+          },
+          "value": {
+            "en": [
+              "<a href=\"https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1468/manifest/\">https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1468/manifest/</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "http://example.org/iiif/14",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.uba.uva.nl/iiif/2/erfgoed!kaarten!1!7!9!990009349710205131!101-04-VI-E-25-38.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 5247,
+                "width": 6526,
+                "service": [
+                  {
+                    "@id": "https://images.uba.uva.nl/iiif/2/erfgoed!kaarten!1!7!9!990009349710205131!101-04-VI-E-25-38.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1468/pages/1/canvas/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40100/pages/1/canvas/",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "A8 - Plan tot uitbreiding van Amsterdam. "
+        ]
+      },
+      "height": 7201,
+      "width": 9004,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Titel"
+            ]
+          },
+          "value": {
+            "nl": [
+              "A8 - Plan tot uitbreiding van Amsterdam. "
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/11245/3.40100\">https://hdl.handle.net/11245/3.40100</a>"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URI (Catalogus)"
+            ]
+          },
+          "value": {
+            "en": [
+              "<a href=\"https://pid.uba.uva.nl/ark:/88238/b1990011488790205131\">https://pid.uba.uva.nl/ark:/88238/b1990011488790205131</a>"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Origineel manifest"
+            ]
+          },
+          "value": {
+            "en": [
+              "<a href=\"https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40100/manifest/\">https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40100/manifest/</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "http://example.org/iiif/16",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.uba.uva.nl/iiif/2/default!1!3!1!990011488790205131!HB-KZL-109-12-57.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 7201,
+                "width": 9004,
+                "service": [
+                  {
+                    "@id": "https://images.uba.uva.nl/iiif/2/default!1!3!1!990011488790205131!HB-KZL-109-12-57.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40100/pages/1/canvas/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1005/pages/1/canvas/",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "A9 - Amsterdam in 1882 "
+        ]
+      },
+      "height": 6327,
+      "width": 8272,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Titel"
+            ]
+          },
+          "value": {
+            "nl": [
+              "A9 - Amsterdam in 1882 "
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/11245/3.1005\">https://hdl.handle.net/11245/3.1005</a>"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URI (Catalogus)"
+            ]
+          },
+          "value": {
+            "en": [
+              "<a href=\"https://pid.uba.uva.nl/ark:/88238/b1990009373460205131\">https://pid.uba.uva.nl/ark:/88238/b1990009373460205131</a>"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Origineel manifest"
+            ]
+          },
+          "value": {
+            "en": [
+              "<a href=\"https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1005/manifest/\">https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1005/manifest/</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "http://example.org/iiif/18",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.uba.uva.nl/iiif/2/erfgoed!kaarten!6!4!3!990009373460205131!101-05-VI-E-25-62.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 6327,
+                "width": 8272,
+                "service": [
+                  {
+                    "@id": "https://images.uba.uva.nl/iiif/2/erfgoed!kaarten!6!4!3!990009373460205131!101-05-VI-E-25-62.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1005/pages/1/canvas/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1246/pages/1/canvas/",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "A10 - Kaart van Amsterdam en omstreken "
+        ]
+      },
+      "height": 8724,
+      "width": 7373,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Titel"
+            ]
+          },
+          "value": {
+            "nl": [
+              "A10 - Kaart van Amsterdam en omstreken "
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/11245/3.1246\">https://hdl.handle.net/11245/3.1246</a>"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URI (Catalogus)"
+            ]
+          },
+          "value": {
+            "en": [
+              "<a href=\"https://pid.uba.uva.nl/ark:/88238/b1990009382110205131\">https://pid.uba.uva.nl/ark:/88238/b1990009382110205131</a>"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Origineel manifest"
+            ]
+          },
+          "value": {
+            "en": [
+              "<a href=\"https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1246/manifest/\">https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1246/manifest/</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "http://example.org/iiif/20",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.uba.uva.nl/iiif/2/erfgoed!kaarten!1!1!2!990009382110205131!101-05-VI-E-25-69.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 8724,
+                "width": 7373,
+                "service": [
+                  {
+                    "@id": "https://images.uba.uva.nl/iiif/2/erfgoed!kaarten!1!1!2!990009382110205131!101-05-VI-E-25-69.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1246/pages/1/canvas/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40073/pages/1/canvas/",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "A11 - Plattegrond der stad Amsterdam "
+        ]
+      },
+      "height": 5368,
+      "width": 6000,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Titel"
+            ]
+          },
+          "value": {
+            "nl": [
+              "A11 - Plattegrond der stad Amsterdam "
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/11245/3.40073 \">https://hdl.handle.net/11245/3.40073 </a>"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URI (Catalogus)"
+            ]
+          },
+          "value": {
+            "en": [
+              "<a href=\"https://pid.uba.uva.nl/ark:/88238/b19941413329105131\">https://pid.uba.uva.nl/ark:/88238/b19941413329105131</a>"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Origineel manifest"
+            ]
+          },
+          "value": {
+            "en": [
+              "<a href=\"https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40073/manifest/\">https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40073/manifest/</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "http://example.org/iiif/22",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/21",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.uba.uva.nl/iiif/2/default!1!3!1!9941413329105131!HB-KZL_101_09_11_0001.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 5368,
+                "width": 6000,
+                "service": [
+                  {
+                    "@id": "https://images.uba.uva.nl/iiif/2/default!1!3!1!9941413329105131!HB-KZL_101_09_11_0001.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40073/pages/1/canvas/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40101/pages/1/canvas/",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "A12 - Kaart van Amsterdam 1:10.000 "
+        ]
+      },
+      "height": 12224,
+      "width": 12448,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Titel"
+            ]
+          },
+          "value": {
+            "nl": [
+              "A12 - Kaart van Amsterdam 1:10.000 "
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/11245/3.40101\">https://hdl.handle.net/11245/3.40101</a>"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URI (Catalogus)"
+            ]
+          },
+          "value": {
+            "en": [
+              "<a href=\"https://pid.uba.uva.nl/ark:/88238/b1990009413700205131\">https://pid.uba.uva.nl/ark:/88238/b1990009413700205131</a>"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Origineel manifest"
+            ]
+          },
+          "value": {
+            "en": [
+              "<a href=\"https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40101/manifest/\">https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40101/manifest/</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "http://example.org/iiif/24",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/23",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.uba.uva.nl/iiif/2/default!1!3!1!990009413700205131!HB-KZL-25-02-04.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 12224,
+                "width": 12448,
+                "service": [
+                  {
+                    "@id": "https://images.uba.uva.nl/iiif/2/default!1!3!1!990009413700205131!HB-KZL-25-02-04.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40101/pages/1/canvas/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40093/pages/1/canvas/",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "VOC1 - Asiae in tabula geographica delineatio "
+        ]
+      },
+      "height": 6722,
+      "width": 7864,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Titel"
+            ]
+          },
+          "value": {
+            "nl": [
+              "VOC1 - Asiae in tabula geographica delineatio "
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/11245/3.40093\">https://hdl.handle.net/11245/3.40093</a>"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URI (Catalogus)"
+            ]
+          },
+          "value": {
+            "en": [
+              "<a href=\"https://pid.uba.uva.nl/ark:/88238/b1990016825380205131\">https://pid.uba.uva.nl/ark:/88238/b1990016825380205131</a>"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Origineel manifest"
+            ]
+          },
+          "value": {
+            "en": [
+              "<a href=\"https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40093/manifest/\">https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40093/manifest/</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "http://example.org/iiif/26",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/25",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.uba.uva.nl/iiif/2/default!1!3!1!990016825380205131!HB-KZL-I-1-A-6-2.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 6722,
+                "width": 7864,
+                "service": [
+                  {
+                    "@id": "https://images.uba.uva.nl/iiif/2/default!1!3!1!990016825380205131!HB-KZL-I-1-A-6-2.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40093/pages/1/canvas/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40094/pages/1/canvas/",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "VOC2 - Carte des Indes et de la Chine "
+        ]
+      },
+      "height": 7687,
+      "width": 7868,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Titel"
+            ]
+          },
+          "value": {
+            "nl": [
+              "VOC2 - Carte des Indes et de la Chine "
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/11245/3.40094\">https://hdl.handle.net/11245/3.40094</a>"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URI (Catalogus)"
+            ]
+          },
+          "value": {
+            "en": [
+              "<a href=\"https://pid.uba.uva.nl/ark:/88238/b1990016001050205131\">https://pid.uba.uva.nl/ark:/88238/b1990016001050205131</a>"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Origineel manifest"
+            ]
+          },
+          "value": {
+            "en": [
+              "<a href=\"https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40094/manifest/\">https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40094/manifest/</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "http://example.org/iiif/28",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/27",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.uba.uva.nl/iiif/2/default!1!3!1!990016001050205131!HB-KZL-I-1-A-6-18.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 7687,
+                "width": 7868,
+                "service": [
+                  {
+                    "@id": "https://images.uba.uva.nl/iiif/2/default!1!3!1!990016001050205131!HB-KZL-I-1-A-6-18.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40094/pages/1/canvas/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40095/pages/1/canvas/",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "VOC3 - Le royaume de Siam : auec les royaumes qui luy sont tributaires "
+        ]
+      },
+      "height": 6554,
+      "width": 7795,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Titel"
+            ]
+          },
+          "value": {
+            "nl": [
+              "VOC3 - Le royaume de Siam : auec les royaumes qui luy sont tributaires "
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/11245/3.40095\">https://hdl.handle.net/11245/3.40095</a>"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URI (Catalogus)"
+            ]
+          },
+          "value": {
+            "en": [
+              "<a href=\"https://pid.uba.uva.nl/ark:/88238/b1990030285240205131\">https://pid.uba.uva.nl/ark:/88238/b1990030285240205131</a>"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Origineel manifest"
+            ]
+          },
+          "value": {
+            "en": [
+              "<a href=\"https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40095/manifest/\">https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40095/manifest/</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "http://example.org/iiif/30",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/29",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.uba.uva.nl/iiif/2/default!1!3!1!990030285240205131!HB-KZL-I-1-A-6-31.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 6554,
+                "width": 7795,
+                "service": [
+                  {
+                    "@id": "https://images.uba.uva.nl/iiif/2/default!1!3!1!990030285240205131!HB-KZL-I-1-A-6-31.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40095/pages/1/canvas/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40096/pages/1/canvas/",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "VOC4 - Insulae Iavae pars orientalis "
+        ]
+      },
+      "height": 6584,
+      "width": 7792,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Titel"
+            ]
+          },
+          "value": {
+            "nl": [
+              "VOC4 - Insulae Iavae pars orientalis "
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/11245/3.40096\">https://hdl.handle.net/11245/3.40096</a>"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URI (Catalogus)"
+            ]
+          },
+          "value": {
+            "en": [
+              "<a href=\"https://pid.uba.uva.nl/ark:/88238/b1990014421080205131\">https://pid.uba.uva.nl/ark:/88238/b1990014421080205131</a>"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Origineel manifest"
+            ]
+          },
+          "value": {
+            "en": [
+              "<a href=\"https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40096/manifest/\">https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40096/manifest/</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "http://example.org/iiif/32",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/31",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.uba.uva.nl/iiif/2/default!1!3!1!990014421080205131!HB-KZL-I-1-A-6-32.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 6584,
+                "width": 7792,
+                "service": [
+                  {
+                    "@id": "https://images.uba.uva.nl/iiif/2/default!1!3!1!990014421080205131!HB-KZL-I-1-A-6-32.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40096/pages/1/canvas/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40097/pages/1/canvas/",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "VOC5 - Insulae Iavae Pars Occidentalis "
+        ]
+      },
+      "height": 6704,
+      "width": 8112,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Titel"
+            ]
+          },
+          "value": {
+            "nl": [
+              "VOC5 - Insulae Iavae Pars Occidentalis "
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/11245/3.40097\">https://hdl.handle.net/11245/3.40097</a>"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URI (Catalogus)"
+            ]
+          },
+          "value": {
+            "en": [
+              "<a href=\"https://pid.uba.uva.nl/ark:/88238/b1990014421030205131\">https://pid.uba.uva.nl/ark:/88238/b1990014421030205131</a>"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Origineel manifest"
+            ]
+          },
+          "value": {
+            "en": [
+              "<a href=\"https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40097/manifest/\">https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40097/manifest/</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "http://example.org/iiif/34",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/33",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.uba.uva.nl/iiif/2/default!1!3!1!990014421030205131!HB-KZL-I-1-A-6-33.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 6704,
+                "width": 8112,
+                "service": [
+                  {
+                    "@id": "https://images.uba.uva.nl/iiif/2/default!1!3!1!990014421030205131!HB-KZL-I-1-A-6-33.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40097/pages/1/canvas/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40098/pages/1/canvas/",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "VOC6 - Het Koninkryk Japan, verdeelt in acht en zestig provintien "
+        ]
+      },
+      "height": 6589,
+      "width": 7816,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Titel"
+            ]
+          },
+          "value": {
+            "nl": [
+              "VOC6 - Het Koninkryk Japan, verdeelt in acht en zestig provintien "
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/11245/3.40098\">https://hdl.handle.net/11245/3.40098</a>"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URI (Catalogus)"
+            ]
+          },
+          "value": {
+            "en": [
+              "<a href=\"https://pid.uba.uva.nl/ark:/88238/b1990020504540205131\">https://pid.uba.uva.nl/ark:/88238/b1990020504540205131</a>"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Origineel manifest"
+            ]
+          },
+          "value": {
+            "en": [
+              "<a href=\"https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40098/manifest/\">https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40098/manifest/</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "http://example.org/iiif/36",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/35",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.uba.uva.nl/iiif/2/default!1!3!1!990020504540205131!HB-KZL-I-1-A-6-39.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 6589,
+                "width": 7816,
+                "service": [
+                  {
+                    "@id": "https://images.uba.uva.nl/iiif/2/default!1!3!1!990020504540205131!HB-KZL-I-1-A-6-39.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40098/pages/1/canvas/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_39625/pages/46/canvas/",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "VOC7 - Asia "
+        ]
+      },
+      "height": 5272,
+      "width": 6668,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Titel"
+            ]
+          },
+          "value": {
+            "nl": [
+              "VOC7 - Asia "
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/11245/3.39625\">https://hdl.handle.net/11245/3.39625</a>"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URI (Catalogus)"
+            ]
+          },
+          "value": {
+            "en": [
+              "<a href=\"https://pid.uba.uva.nl/ark:/88238/b1990011196990205131\">https://pid.uba.uva.nl/ark:/88238/b1990011196990205131</a>"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Origineel manifest"
+            ]
+          },
+          "value": {
+            "en": [
+              "<a href=\"https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_39625/manifest/\">https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_39625/manifest/</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "http://example.org/iiif/38",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/37",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.uba.uva.nl/iiif/2/default!1!3!1!990011196990205131!hb-kzl-viii-b-25-44.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 5272,
+                "width": 6668,
+                "service": [
+                  {
+                    "@id": "https://images.uba.uva.nl/iiif/2/default!1!3!1!990011196990205131!hb-kzl-viii-b-25-44.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_39625/pages/46/canvas/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_39625/pages/50/canvas/",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "VOC8 - India "
+        ]
+      },
+      "height": 3612,
+      "width": 4558,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Titel"
+            ]
+          },
+          "value": {
+            "nl": [
+              "VOC8 - India "
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/11245/3.39625\">https://hdl.handle.net/11245/3.39625</a>"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URI (Catalogus)"
+            ]
+          },
+          "value": {
+            "en": [
+              "<a href=\"https://pid.uba.uva.nl/ark:/88238/b1990011196990205131\">https://pid.uba.uva.nl/ark:/88238/b1990011196990205131</a>"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Origineel manifest"
+            ]
+          },
+          "value": {
+            "en": [
+              "<a href=\"https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_39625/manifest/\">https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_39625/manifest/</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "http://example.org/iiif/40",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/39",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.uba.uva.nl/iiif/2/default!1!3!1!990011196990205131!hb-kzl-viii-b-25-48.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 3612,
+                "width": 4558,
+                "service": [
+                  {
+                    "@id": "https://images.uba.uva.nl/iiif/2/default!1!3!1!990011196990205131!hb-kzl-viii-b-25-48.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_39625/pages/50/canvas/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_39625/pages/52/canvas/",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "VOC9 - Eiland Ceilon "
+        ]
+      },
+      "height": 3508,
+      "width": 4421,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Titel"
+            ]
+          },
+          "value": {
+            "nl": [
+              "VOC9 - Eiland Ceilon "
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/11245/3.39625\">https://hdl.handle.net/11245/3.39625</a>"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URI (Catalogus)"
+            ]
+          },
+          "value": {
+            "en": [
+              "<a href=\"https://pid.uba.uva.nl/ark:/88238/b1990011196990205131\">https://pid.uba.uva.nl/ark:/88238/b1990011196990205131</a>"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Origineel manifest"
+            ]
+          },
+          "value": {
+            "en": [
+              "<a href=\"https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_39625/manifest/\">https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_39625/manifest/</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "http://example.org/iiif/42",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/41",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.uba.uva.nl/iiif/2/default!1!3!1!990011196990205131!hb-kzl-viii-b-25-49.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 3508,
+                "width": 4421,
+                "service": [
+                  {
+                    "@id": "https://images.uba.uva.nl/iiif/2/default!1!3!1!990011196990205131!hb-kzl-viii-b-25-49.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_39625/pages/52/canvas/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_39625/pages/54/canvas/",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "VOC10 - Japan "
+        ]
+      },
+      "height": 3499,
+      "width": 3931,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Titel"
+            ]
+          },
+          "value": {
+            "nl": [
+              "VOC10 - Japan "
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/11245/3.39625\">https://hdl.handle.net/11245/3.39625</a>"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URI (Catalogus)"
+            ]
+          },
+          "value": {
+            "en": [
+              "<a href=\"https://pid.uba.uva.nl/ark:/88238/b1990011196990205131\">https://pid.uba.uva.nl/ark:/88238/b1990011196990205131</a>"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Origineel manifest"
+            ]
+          },
+          "value": {
+            "en": [
+              "<a href=\"https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_39625/manifest/\">https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_39625/manifest/</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "http://example.org/iiif/44",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/43",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.uba.uva.nl/iiif/2/default!1!3!1!990011196990205131!hb-kzl-viii-b-25-51.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 3499,
+                "width": 3931,
+                "service": [
+                  {
+                    "@id": "https://images.uba.uva.nl/iiif/2/default!1!3!1!990011196990205131!hb-kzl-viii-b-25-51.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_39625/pages/54/canvas/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_20867/pages/135/canvas/",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "VOC11 - Indiae "
+        ]
+      },
+      "height": 6409,
+      "width": 8879,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Titel"
+            ]
+          },
+          "value": {
+            "nl": [
+              "VOC11 - Indiae "
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/11245/3.20867\">https://hdl.handle.net/11245/3.20867</a>"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URI (Catalogus)"
+            ]
+          },
+          "value": {
+            "en": [
+              "<a href=\"https://pid.uba.uva.nl/ark:/88238/b1990011183160205131\">https://pid.uba.uva.nl/ark:/88238/b1990011183160205131</a>"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Origineel manifest"
+            ]
+          },
+          "value": {
+            "en": [
+              "<a href=\"https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_20867/manifest/\">https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_20867/manifest/</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "http://example.org/iiif/46",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/45",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.uba.uva.nl/iiif/2/default!1!3!1!990011183160205131!otm_hb_kzl_xi_a_10_135.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 6409,
+                "width": 8879,
+                "service": [
+                  {
+                    "@id": "https://images.uba.uva.nl/iiif/2/default!1!3!1!990011183160205131!otm_hb_kzl_xi_a_10_135.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_20867/pages/135/canvas/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_20867/pages/99/canvas/",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "VOC12 - Asiae "
+        ]
+      },
+      "height": 6432,
+      "width": 8868,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Titel"
+            ]
+          },
+          "value": {
+            "nl": [
+              "VOC12 - Asiae "
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/11245/3.20867\">https://hdl.handle.net/11245/3.20867</a>"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URI (Catalogus)"
+            ]
+          },
+          "value": {
+            "en": [
+              "<a href=\"https://pid.uba.uva.nl/ark:/88238/b1990011183160205131\">https://pid.uba.uva.nl/ark:/88238/b1990011183160205131</a>"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Origineel manifest"
+            ]
+          },
+          "value": {
+            "en": [
+              "<a href=\"https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_20867/manifest/\">https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_20867/manifest/</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "http://example.org/iiif/48",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/47",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.uba.uva.nl/iiif/2/default!1!3!1!990011183160205131!otm_hb_kzl_xi_a_10_099.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 6432,
+                "width": 8868,
+                "service": [
+                  {
+                    "@id": "https://images.uba.uva.nl/iiif/2/default!1!3!1!990011183160205131!otm_hb_kzl_xi_a_10_099.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_20867/pages/99/canvas/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_19271/pages/35/canvas/",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "VOC13 - Oost-Indien "
+        ]
+      },
+      "height": 6126,
+      "width": 8078,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Titel"
+            ]
+          },
+          "value": {
+            "nl": [
+              "VOC13 - Oost-Indien "
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/11245/3.19271\">https://hdl.handle.net/11245/3.19271</a>"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URI (Catalogus)"
+            ]
+          },
+          "value": {
+            "en": [
+              "<a href=\"https://pid.uba.uva.nl/ark:/88238/b1990011227590205131\">https://pid.uba.uva.nl/ark:/88238/b1990011227590205131</a>"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Origineel manifest"
+            ]
+          },
+          "value": {
+            "en": [
+              "<a href=\"https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_19271/manifest/\">https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_19271/manifest/</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "http://example.org/iiif/50",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/iiif/49",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.uba.uva.nl/iiif/2/default!1!3!1!990011227590205131!otm-hb-kzl-x-b-12_035.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 6126,
+                "width": 8078,
+                "service": [
+                  {
+                    "@id": "https://images.uba.uva.nl/iiif/2/default!1!3!1!990011227590205131!otm-hb-kzl-x-b-12_035.jpg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_19271/pages/35/canvas/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
