@@ -1,0 +1,215 @@
+{
+  "id": "https://amsterdamtimemachine.github.io/pica-toegankelijke-kaartcollectie/annotations/georeferencing/VOC10.json",
+  "type": "AnnotationPage",
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "items": [
+    {
+      "id": "https://annotations.allmaps.org/maps/6c9bdf6d2c0950a4",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "created": "2024-08-06T13:01:40.957Z",
+      "modified": "2024-08-06T13:01:40.957Z",
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://images.uba.uva.nl/iiif/2/default!1!3!1!990011196990205131!hb-kzl-viii-b-25-51.jpg",
+          "type": "ImageService2",
+          "height": 3499,
+          "width": 3931,
+          "partOf": [
+            {
+              "id": "https://images.uba.uva.nl/iiif/2/default!1!3!1!990011196990205131!hb-kzl-viii-b-25-51.jpg/info.json",
+              "type": "Canvas",
+              "partOf": [
+                {
+                  "id": "https://sammeltassen.nl/iiif-manifests/uva/tirion.json",
+                  "type": "Manifest",
+                  "label": {
+                    "nl": [
+                      "Nieuwe en beknopte hand-atlas, bestaande in eene verzameling van eenige der algemeenste en noodigste landkaarten ... , na de alderlaatste ontdekkingen van de l'Isle en anderen opgesteld .."
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_39625/pages/54/canvas/",
+              "type": "Canvas",
+              "label": {
+                "none": [
+                  "-"
+                ]
+              },
+              "partOf": [
+                {
+                  "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_39625/manifest/",
+                  "type": "Manifest",
+                  "label": {
+                    "none": [
+                      "\n              Nieuwe en beknopte hand-atlas, bestaande in eene verzameling van eenige der algemeenste en noodigste land...\n        "
+                    ]
+                  }
+                },
+                {
+                  "id": "https://amsterdamtimemachine.github.io/pica-toegankelijke-kaartcollectie/manifest.json",
+                  "type": "Manifest",
+                  "label": {
+                    "nl": [
+                      "Selectie kaarten voor het PICA-project 'Toegankelijke Kaartencollectie' van de Universiteit van Amsterdam"
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"3931\" height=\"3499\"><polygon points=\"228,237 224,3221 295,3175 553,3312 1974,3308 1974,2971 2622,2971 2618,3295 3748,3295 3761,241\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "polynomial",
+          "options": {
+            "order": 1
+          }
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                957,
+                2039
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                130.9232306,
+                33.9013362
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                3150,
+                585
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                140.100281,
+                41.4936227
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                1256,
+                2413
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                132.6239968,
+                32.8418084
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                3165,
+                1903
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                139.8275214,
+                35.6532496
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2500,
+                1132
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                137.3468543,
+                37.4635298
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2258,
+                1817
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                136.1378185,
+                35.498208
+              ]
+            }
+          }
+        ],
+        "_allmaps": {
+          "id": "https://annotations.allmaps.org/maps/6c9bdf6d2c0950a4",
+          "version": "https://annotations.allmaps.org/maps/6c9bdf6d2c0950a4@49401de0e41ec30b",
+          "image": {
+            "id": "https://annotations.allmaps.org/images/3d89204fc79690e4",
+            "version": "https://annotations.allmaps.org/images/3d89204fc79690e4@865ac534733021f4",
+            "canvases": [
+              {
+                "id": "https://annotations.allmaps.org/canvases/6bf62c68582949ab",
+                "manifests": [
+                  {
+                    "id": "https://annotations.allmaps.org/manifests/a5902b2afd95a39d"
+                  }
+                ]
+              },
+              {
+                "id": "https://annotations.allmaps.org/canvases/7d8bc5f96edd76c0",
+                "manifests": [
+                  {
+                    "id": "https://annotations.allmaps.org/manifests/15a26137ff4733bb"
+                  },
+                  {
+                    "id": "https://annotations.allmaps.org/manifests/c644ddad8dda24b6"
+                  }
+                ]
+              }
+            ]
+          },
+          "scale": 0.002523,
+          "area": 1661811385438.57
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "id": "https://amsterdamtimemachine.github.io/pica-toegankelijke-kaartcollectie/annotations/georeferencing/A12.json",
+  "type": "AnnotationPage",
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "items": [
+    {
+      "id": "https://annotations.allmaps.org/maps/eaa990689f45a090",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "created": "2024-08-07T08:38:09.636Z",
+      "modified": "2024-08-07T08:38:09.636Z",
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://images.uba.uva.nl/iiif/2/default!1!3!1!990009413700205131!HB-KZL-25-02-04.jpg",
+          "type": "ImageService2",
+          "height": 12224,
+          "width": 12448,
+          "partOf": [
+            {
+              "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40101/pages/1/canvas/",
+              "type": "Canvas",
+              "label": {
+                "none": [
+                  "-"
+                ]
+              },
+              "partOf": [
+                {
+                  "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40101/manifest/",
+                  "type": "Manifest",
+                  "label": {
+                    "none": [
+                      "\n              Kaart van Amsterdam 1:10.000 /\n              Stadsontwikkeling, Dienst der Publieke Werken.\n            "
+                    ]
+                  }
+                },
+                {
+                  "id": "https://amsterdamtimemachine.github.io/pica-toegankelijke-kaartcollectie/manifest.json",
+                  "type": "Manifest",
+                  "label": {
+                    "nl": [
+                      "Selectie kaarten voor het PICA-project 'Toegankelijke Kaartencollectie' van de Universiteit van Amsterdam"
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"12448\" height=\"12224\"><polygon points=\"0,0 0,12224 12448,12224 12448,0\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "polynomial",
+          "options": {
+            "order": 1
+          }
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                8192,
+                11872
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.9155216,
+                52.3349859
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                10773,
+                6385
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.948737,
+                52.3750039
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                7555,
+                11036
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.9088251,
+                52.3392984
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                5383,
+                4880
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.8815882,
+                52.3864679
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                3271,
+                8808
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.8550236,
+                52.3564409
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                7104,
+                5466
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.903118,
+                52.3822228
+              ]
+            }
+          }
+        ],
+        "_allmaps": {
+          "id": "https://annotations.allmaps.org/maps/eaa990689f45a090",
+          "version": "https://annotations.allmaps.org/maps/eaa990689f45a090@b1d17836713dce40",
+          "image": {
+            "id": "https://annotations.allmaps.org/images/19a7ce2d6e293faf",
+            "version": "https://annotations.allmaps.org/images/19a7ce2d6e293faf@ab8cdb2bd9de16c1",
+            "canvases": [
+              {
+                "id": "https://annotations.allmaps.org/canvases/52f23a1446968c2c",
+                "manifests": [
+                  {
+                    "id": "https://annotations.allmaps.org/manifests/82949aaecf712344"
+                  },
+                  {
+                    "id": "https://annotations.allmaps.org/manifests/c644ddad8dda24b6"
+                  }
+                ]
+              }
+            ]
+          },
+          "scale": 1.188533,
+          "area": 107718478.85
+        }
+      }
+    }
+  ]
+}

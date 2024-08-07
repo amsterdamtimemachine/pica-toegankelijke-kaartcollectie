@@ -1,0 +1,148 @@
+{
+  "id": "https://amsterdamtimemachine.github.io/pica-toegankelijke-kaartcollectie/annotations/georeferencing/VOC4.json",
+  "type": "AnnotationPage",
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "items": [
+    {
+      "id": "https://annotations.allmaps.org/maps/b8d42eba1fd406e3",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "created": "2024-08-07T08:51:45.349Z",
+      "modified": "2024-08-07T08:51:45.349Z",
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://images.uba.uva.nl/iiif/2/default!1!3!1!990014421080205131!HB-KZL-I-1-A-6-32.jpg",
+          "type": "ImageService2",
+          "height": 6584,
+          "width": 7792,
+          "partOf": [
+            {
+              "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40096/pages/1/canvas/",
+              "type": "Canvas",
+              "label": {
+                "nl": [
+                  "VOC4 - Insulae Iavae pars orientalis\u00a0"
+                ]
+              },
+              "partOf": [
+                {
+                  "id": "https://amsterdamtimemachine.github.io/pica-toegankelijke-kaartcollectie/manifest.json",
+                  "type": "Manifest",
+                  "label": {
+                    "nl": [
+                      "Selectie kaarten voor het PICA-project 'Toegankelijke Kaartencollectie' van de Universiteit van Amsterdam"
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"7792\" height=\"6584\"><polygon points=\"468,1516 7218,1516 7229,6149 452,6126\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "polynomial",
+          "options": {
+            "order": 1
+          }
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                1393,
+                3088
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                110.4147831,
+                -6.9915346
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                4269,
+                3359
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                112.7387876,
+                -7.2996556
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                1788,
+                2497
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                110.6742628,
+                -6.5928941
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                6761,
+                5441
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                114.5839619,
+                -8.7654828
+              ]
+            }
+          }
+        ],
+        "_allmaps": {
+          "id": "https://annotations.allmaps.org/maps/b8d42eba1fd406e3",
+          "version": "https://annotations.allmaps.org/maps/b8d42eba1fd406e3@50f032d9d887aa5e",
+          "image": {
+            "id": "https://annotations.allmaps.org/images/5da909a0c31782aa",
+            "version": "https://annotations.allmaps.org/images/5da909a0c31782aa@db2f6857728c9b0d",
+            "canvases": [
+              {
+                "id": "https://annotations.allmaps.org/canvases/a3eef5f307aa100f",
+                "manifests": [
+                  {
+                    "id": "https://annotations.allmaps.org/manifests/c644ddad8dda24b6"
+                  }
+                ]
+              }
+            ]
+          },
+          "scale": 0.012356,
+          "area": 204746139955.08
+        }
+      }
+    }
+  ]
+}

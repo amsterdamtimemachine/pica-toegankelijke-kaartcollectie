@@ -1,0 +1,267 @@
+{
+  "id": "https://amsterdamtimemachine.github.io/pica-toegankelijke-kaartcollectie/annotations/georeferencing/A10.json",
+  "type": "AnnotationPage",
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "items": [
+    {
+      "id": "https://annotations.allmaps.org/maps/2fcf8bfc03d6790a",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "created": "2024-08-05T12:56:13.545Z",
+      "modified": "2024-08-05T12:56:13.545Z",
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://images.uba.uva.nl/iiif/2/erfgoed!kaarten!1!1!2!990009382110205131!101-05-VI-E-25-69.jpg",
+          "type": "ImageService2",
+          "height": 8724,
+          "width": 7373,
+          "partOf": [
+            {
+              "id": "https://images.uba.uva.nl/iiif/2/erfgoed!kaarten!1!1!2!990009382110205131!101-05-VI-E-25-69.jpg/info.json",
+              "type": "Canvas",
+              "partOf": [
+                {
+                  "id": "https://sammeltassen.nl/iiif-manifests/uva/maps.json",
+                  "type": "Manifest",
+                  "label": {
+                    "nl": [
+                      "Alle UvA kaarten zonder metadata"
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1246/pages/1/canvas/",
+              "type": "Canvas",
+              "label": {
+                "nl": [
+                  "A10 - Kaart van Amsterdam en omstreken\u00a0"
+                ]
+              },
+              "partOf": [
+                {
+                  "id": "https://amsterdamtimemachine.github.io/pica-toegankelijke-kaartcollectie/manifest.json",
+                  "type": "Manifest",
+                  "label": {
+                    "nl": [
+                      "Selectie kaarten voor het PICA-project 'Toegankelijke Kaartencollectie' van de Universiteit van Amsterdam"
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"7373\" height=\"8724\"><polygon points=\"157,186 137,8488 7191,8522 7190,150\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "polynomial",
+          "options": {
+            "order": 1
+          }
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                1064,
+                6420
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.8594154,
+                52.3565927
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                3000,
+                4747
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.8917772,
+                52.3739464
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                5077,
+                5373
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.9269547,
+                52.3667286
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2541,
+                4712
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.8839248,
+                52.3745286
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2745,
+                3722
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.8875831,
+                52.3844778
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                3491,
+                4837
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.900327,
+                52.3727716
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                3362,
+                4701
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.8981056,
+                52.3743721
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                5801,
+                7294
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.9401749,
+                52.3477626
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2644,
+                6004
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.8863006,
+                52.3607753
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                3727,
+                6016
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.9040327,
+                52.3603555
+              ]
+            }
+          }
+        ],
+        "_allmaps": {
+          "id": "https://annotations.allmaps.org/maps/2fcf8bfc03d6790a",
+          "version": "https://annotations.allmaps.org/maps/2fcf8bfc03d6790a@c9ab5a8c3d93bbe4",
+          "image": {
+            "id": "https://annotations.allmaps.org/images/68066f5d52bfe57a",
+            "version": "https://annotations.allmaps.org/images/68066f5d52bfe57a@504e9e73ec0f8f76",
+            "canvases": [
+              {
+                "id": "https://annotations.allmaps.org/canvases/3d54031a3dc34db9",
+                "manifests": [
+                  {
+                    "id": "https://annotations.allmaps.org/manifests/501ad62b00d729b7"
+                  }
+                ]
+              },
+              {
+                "id": "https://annotations.allmaps.org/canvases/7cb66fa51f94cb45",
+                "manifests": [
+                  {
+                    "id": "https://annotations.allmaps.org/manifests/c644ddad8dda24b6"
+                  }
+                ]
+              }
+            ]
+          },
+          "scale": 0.868799,
+          "area": 77796446.87
+        }
+      }
+    }
+  ]
+}
