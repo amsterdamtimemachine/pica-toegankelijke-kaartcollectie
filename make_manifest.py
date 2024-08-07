@@ -72,6 +72,9 @@ def get_georeferencing_annotations(identifier, iiif_service_info):
     ap = r.json()
     ap = {"id": annotation_page_id, **ap}
 
+    # Change target from image to Canvas
+    ap["items"][0]["target"]["source"] = ap["items"][0]["target"]["source"]["partOf"][0]
+
     with open(f"annotations/georeferencing/{identifier}.json", "w") as outfile:
         json.dump(ap, outfile, indent=2)
 
@@ -103,6 +106,7 @@ def main():
 
         for c in manifest.items:
             if c.id == canvas_id:
+
                 if not c.annotations:
                     c.annotations = []
 

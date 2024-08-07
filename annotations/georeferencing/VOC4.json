@@ -16,30 +16,22 @@
       "target": {
         "type": "SpecificResource",
         "source": {
-          "id": "https://images.uba.uva.nl/iiif/2/default!1!3!1!990014421080205131!HB-KZL-I-1-A-6-32.jpg",
-          "type": "ImageService2",
-          "height": 6584,
-          "width": 7792,
+          "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40096/pages/1/canvas/",
+          "type": "Canvas",
+          "label": {
+            "nl": [
+              "VOC4 - Insulae Iavae pars orientalis\u00a0"
+            ]
+          },
           "partOf": [
             {
-              "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40096/pages/1/canvas/",
-              "type": "Canvas",
+              "id": "https://amsterdamtimemachine.github.io/pica-toegankelijke-kaartcollectie/manifest.json",
+              "type": "Manifest",
               "label": {
                 "nl": [
-                  "VOC4 - Insulae Iavae pars orientalis\u00a0"
+                  "Selectie kaarten voor het PICA-project 'Toegankelijke Kaartencollectie' van de Universiteit van Amsterdam"
                 ]
-              },
-              "partOf": [
-                {
-                  "id": "https://amsterdamtimemachine.github.io/pica-toegankelijke-kaartcollectie/manifest.json",
-                  "type": "Manifest",
-                  "label": {
-                    "nl": [
-                      "Selectie kaarten voor het PICA-project 'Toegankelijke Kaartencollectie' van de Universiteit van Amsterdam"
-                    ]
-                  }
-                }
-              ]
+              }
             }
           ]
         },

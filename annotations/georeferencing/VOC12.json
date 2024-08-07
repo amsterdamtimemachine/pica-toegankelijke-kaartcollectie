@@ -16,30 +16,22 @@
       "target": {
         "type": "SpecificResource",
         "source": {
-          "id": "https://images.uba.uva.nl/iiif/2/default!1!3!1!990011183160205131!otm_hb_kzl_xi_a_10_099.jpg",
-          "type": "ImageService2",
-          "height": 6432,
-          "width": 8868,
+          "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_20867/pages/99/canvas/",
+          "type": "Canvas",
+          "label": {
+            "nl": [
+              "VOC12 - Asiae\u00a0"
+            ]
+          },
           "partOf": [
             {
-              "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_20867/pages/99/canvas/",
-              "type": "Canvas",
+              "id": "https://amsterdamtimemachine.github.io/pica-toegankelijke-kaartcollectie/manifest.json",
+              "type": "Manifest",
               "label": {
                 "nl": [
-                  "VOC12 - Asiae\u00a0"
+                  "Selectie kaarten voor het PICA-project 'Toegankelijke Kaartencollectie' van de Universiteit van Amsterdam"
                 ]
-              },
-              "partOf": [
-                {
-                  "id": "https://amsterdamtimemachine.github.io/pica-toegankelijke-kaartcollectie/manifest.json",
-                  "type": "Manifest",
-                  "label": {
-                    "nl": [
-                      "Selectie kaarten voor het PICA-project 'Toegankelijke Kaartencollectie' van de Universiteit van Amsterdam"
-                    ]
-                  }
-                }
-              ]
+              }
             }
           ]
         },

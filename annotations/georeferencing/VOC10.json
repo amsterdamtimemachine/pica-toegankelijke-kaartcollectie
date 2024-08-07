@@ -16,54 +16,17 @@
       "target": {
         "type": "SpecificResource",
         "source": {
-          "id": "https://images.uba.uva.nl/iiif/2/default!1!3!1!990011196990205131!hb-kzl-viii-b-25-51.jpg",
-          "type": "ImageService2",
-          "height": 3499,
-          "width": 3931,
+          "id": "https://images.uba.uva.nl/iiif/2/default!1!3!1!990011196990205131!hb-kzl-viii-b-25-51.jpg/info.json",
+          "type": "Canvas",
           "partOf": [
             {
-              "id": "https://images.uba.uva.nl/iiif/2/default!1!3!1!990011196990205131!hb-kzl-viii-b-25-51.jpg/info.json",
-              "type": "Canvas",
-              "partOf": [
-                {
-                  "id": "https://sammeltassen.nl/iiif-manifests/uva/tirion.json",
-                  "type": "Manifest",
-                  "label": {
-                    "nl": [
-                      "Nieuwe en beknopte hand-atlas, bestaande in eene verzameling van eenige der algemeenste en noodigste landkaarten ... , na de alderlaatste ontdekkingen van de l'Isle en anderen opgesteld .."
-                    ]
-                  }
-                }
-              ]
-            },
-            {
-              "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_39625/pages/54/canvas/",
-              "type": "Canvas",
+              "id": "https://sammeltassen.nl/iiif-manifests/uva/tirion.json",
+              "type": "Manifest",
               "label": {
-                "none": [
-                  "-"
+                "nl": [
+                  "Nieuwe en beknopte hand-atlas, bestaande in eene verzameling van eenige der algemeenste en noodigste landkaarten ... , na de alderlaatste ontdekkingen van de l'Isle en anderen opgesteld .."
                 ]
-              },
-              "partOf": [
-                {
-                  "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_39625/manifest/",
-                  "type": "Manifest",
-                  "label": {
-                    "none": [
-                      "\n              Nieuwe en beknopte hand-atlas, bestaande in eene verzameling van eenige der algemeenste en noodigste land...\n        "
-                    ]
-                  }
-                },
-                {
-                  "id": "https://amsterdamtimemachine.github.io/pica-toegankelijke-kaartcollectie/manifest.json",
-                  "type": "Manifest",
-                  "label": {
-                    "nl": [
-                      "Selectie kaarten voor het PICA-project 'Toegankelijke Kaartencollectie' van de Universiteit van Amsterdam"
-                    ]
-                  }
-                }
-              ]
+              }
             }
           ]
         },

@@ -16,65 +16,17 @@
       "target": {
         "type": "SpecificResource",
         "source": {
-          "id": "https://images.uba.uva.nl/iiif/2/erfgoed!kaarten!5!0!8!990016218050205131!WX012.jpg",
-          "type": "ImageService2",
-          "height": 11460,
-          "width": 13648,
+          "id": "https://images.uba.uva.nl/iiif/2/erfgoed!kaarten!5!0!8!990016218050205131!WX012.jpg/info.json",
+          "type": "Canvas",
           "partOf": [
             {
-              "id": "https://images.uba.uva.nl/iiif/2/erfgoed!kaarten!5!0!8!990016218050205131!WX012.jpg/info.json",
-              "type": "Canvas",
-              "partOf": [
-                {
-                  "id": "https://sammeltassen.nl/iiif-manifests/uva/maps.json",
-                  "type": "Manifest",
-                  "label": {
-                    "nl": [
-                      "Alle UvA kaarten zonder metadata"
-                    ]
-                  }
-                }
-              ]
-            },
-            {
-              "id": "https://hdl.handle.net/11245/3.321#page/0",
-              "type": "Canvas",
-              "label": {
-                "none": [
-                  "Amsterdam, G. de Broen jun. fecit. Image 1"
-                ]
-              },
-              "partOf": [
-                {
-                  "id": "https://www.uvaerfgoed.nl/beeldbank/iiif/11245/3.321/manifest",
-                  "type": "Manifest",
-                  "label": {
-                    "none": [
-                      "Amsterdam, G. de Broen jun. fecit"
-                    ]
-                  }
-                }
-              ]
-            },
-            {
-              "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_321/pages/1/canvas/",
-              "type": "Canvas",
+              "id": "https://sammeltassen.nl/iiif-manifests/uva/maps.json",
+              "type": "Manifest",
               "label": {
                 "nl": [
-                  "A4 - Amsterdam\u00a0"
+                  "Alle UvA kaarten zonder metadata"
                 ]
-              },
-              "partOf": [
-                {
-                  "id": "https://amsterdamtimemachine.github.io/pica-toegankelijke-kaartcollectie/manifest.json",
-                  "type": "Manifest",
-                  "label": {
-                    "nl": [
-                      "Selectie kaarten voor het PICA-project 'Toegankelijke Kaartencollectie' van de Universiteit van Amsterdam"
-                    ]
-                  }
-                }
-              ]
+              }
             }
           ]
         },
