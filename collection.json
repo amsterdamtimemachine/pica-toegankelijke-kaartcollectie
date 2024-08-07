@@ -1,0 +1,237 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://amsterdamtimemachine.github.io/pica-toegankelijke-kaartcollectie/collection.json",
+  "type": "Collection",
+  "label": {
+    "nl": [
+      "Selectie kaarten voor het PICA-project 'Toegankelijke Kaartencollectie' van de Universiteit van Amsterdam"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40099/manifest/",
+      "label": {
+        "nl": [
+          "A1 - Amstelodamum celebre emporium forma plana."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2514/manifest/",
+      "label": {
+        "nl": [
+          "A2 - Amsteldam"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3163/manifest/",
+      "label": {
+        "nl": [
+          "A3 - A new map of the city of Amsterdam : most humbly inscrib'd to Iohn Hedworth Esqr."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_321/manifest/",
+      "label": {
+        "nl": [
+          "A4 - Amsterdam"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_881/manifest/",
+      "label": {
+        "nl": [
+          "A5 - Amsterdam"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2714/manifest/",
+      "label": {
+        "nl": [
+          "A6 - Nieuwe kaart van Amsterdam : waarop zijn gebragt alle de voorgevallen veranderingen : benevens de uitgevoerd wordende kapitale werken van afsluiting der haven door een dijk met sluizen voorzien ..."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1468/manifest/",
+      "label": {
+        "nl": [
+          "A7 - Omnibus kaart, of Nieuwe platte grond der stad Amsterdam : waarop alle de omnibus liniën zijn aangetekend = Carte des omnibus, ou Nouveau plan de la ville d'Amsterdam."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40100/manifest/",
+      "label": {
+        "nl": [
+          "A8 - Plan tot uitbreiding van Amsterdam."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1005/manifest/",
+      "label": {
+        "nl": [
+          "A9 - Amsterdam in 1882"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1246/manifest/",
+      "label": {
+        "nl": [
+          "A10 - Kaart van Amsterdam en omstreken"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40073/manifest/",
+      "label": {
+        "nl": [
+          "A11 - Plattegrond der stad Amsterdam"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40101/manifest/",
+      "label": {
+        "nl": [
+          "A12 - Kaart van Amsterdam 1:10.000"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40093/manifest/",
+      "label": {
+        "nl": [
+          "VOC1 - Asiae in tabula geographica delineatio"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40094/manifest/",
+      "label": {
+        "nl": [
+          "VOC2 - Carte des Indes et de la Chine"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40095/manifest/",
+      "label": {
+        "nl": [
+          "VOC3 - Le royaume de Siam : auec les royaumes qui luy sont tributaires"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40096/manifest/",
+      "label": {
+        "nl": [
+          "VOC4 - Insulae Iavae pars orientalis"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40097/manifest/",
+      "label": {
+        "nl": [
+          "VOC5 - Insulae Iavae Pars Occidentalis"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40098/manifest/",
+      "label": {
+        "nl": [
+          "VOC6 - Het Koninkryk Japan, verdeelt in acht en zestig provintien"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_39625/manifest/",
+      "label": {
+        "nl": [
+          "VOC7 - Asia"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_39625/manifest/",
+      "label": {
+        "nl": [
+          "VOC8 - India"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_39625/manifest/",
+      "label": {
+        "nl": [
+          "VOC9 - Eiland Ceilon"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_39625/manifest/",
+      "label": {
+        "nl": [
+          "VOC10 - Japan"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_20867/manifest/",
+      "label": {
+        "nl": [
+          "VOC11 - Indiae"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_20867/manifest/",
+      "label": {
+        "nl": [
+          "VOC12 - Asiae"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_19271/manifest/",
+      "label": {
+        "nl": [
+          "VOC13 - Oost-Indien"
+        ]
+      },
+      "type": "Manifest"
+    }
+  ]
+}
