@@ -1,0 +1,124 @@
+{
+  "id": "https://amsterdamtimemachine.github.io/pica-toegankelijke-kaartcollectie/annotations/georeferencing/A8.json",
+  "type": "AnnotationPage",
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "items": [
+    {
+      "id": "https://annotations.allmaps.org/maps/fb81263d704ae1c6",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "created": "2024-08-08T20:20:45.374Z",
+      "modified": "2024-08-08T20:20:45.374Z",
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40100/pages/1/canvas/",
+          "type": "Canvas",
+          "label": {
+            "nl": [
+              "A8 - Plan tot uitbreiding van Amsterdam.\u00a0"
+            ]
+          },
+          "partOf": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/pica-toegankelijke-kaartcollectie/manifest.json",
+              "type": "Manifest",
+              "label": {
+                "nl": [
+                  "Selectie kaarten voor het PICA-project 'Toegankelijke Kaartencollectie' van de Universiteit van Amsterdam"
+                ]
+              }
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"9004\" height=\"7201\"><polygon points=\"0,0 0,7201 9004,7201 9004,0\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "polynomial",
+          "options": {
+            "order": 1
+          }
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                4458,
+                3091
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.9003873,
+                52.3726566
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2409,
+                2509
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.8838151,
+                52.384626
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                5295,
+                4485
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.8993993,
+                52.3610323
+              ]
+            }
+          }
+        ],
+        "_allmaps": {
+          "id": "https://annotations.allmaps.org/maps/fb81263d704ae1c6",
+          "version": "https://annotations.allmaps.org/maps/fb81263d704ae1c6@11e6222a058f0a5f",
+          "image": {
+            "id": "https://annotations.allmaps.org/images/019416efb27fec59",
+            "version": "https://annotations.allmaps.org/images/019416efb27fec59@fdc84f4b98fc33e4",
+            "canvases": [
+              {
+                "id": "https://annotations.allmaps.org/canvases/e64ef45a90c0a401",
+                "manifests": [
+                  {
+                    "id": "https://annotations.allmaps.org/manifests/c644ddad8dda24b6"
+                  }
+                ]
+              }
+            ]
+          },
+          "scale": 1.236463,
+          "area": 42409768.96
+        }
+      }
+    }
+  ]
+}

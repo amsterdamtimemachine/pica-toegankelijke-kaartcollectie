@@ -1,0 +1,146 @@
+{
+  "id": "https://amsterdamtimemachine.github.io/pica-toegankelijke-kaartcollectie/annotations/georeferencing/VOC8.json",
+  "type": "AnnotationPage",
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "items": [
+    {
+      "id": "https://annotations.allmaps.org/maps/fa59e52ecd21f8e1",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "created": "2024-08-07T12:20:44.763Z",
+      "modified": "2024-08-07T12:20:44.763Z",
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://images.uba.uva.nl/iiif/2/default!1!3!1!990011196990205131!hb-kzl-viii-b-25-48.jpg/info.json",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://sammeltassen.nl/iiif-manifests/uva/tirion.json",
+              "type": "Manifest",
+              "label": {
+                "nl": [
+                  "Nieuwe en beknopte hand-atlas, bestaande in eene verzameling van eenige der algemeenste en noodigste landkaarten ... , na de alderlaatste ontdekkingen van de l'Isle en anderen opgesteld .."
+                ]
+              }
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"4558\" height=\"3612\"><polygon points=\"242,230 3635,236 3636,611 4320,619 4354,3394 243,3384\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "polynomial",
+          "options": {
+            "order": 1
+          }
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                1583,
+                2789
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                95.3223137,
+                5.5596954
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2371,
+                3119
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                102.2449727,
+                2.1899974
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                3816,
+                2585
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.7800011,
+                6.4966245
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                948,
+                682
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                90.4136835,
+                23.7375063
+              ]
+            }
+          }
+        ],
+        "_allmaps": {
+          "id": "https://annotations.allmaps.org/maps/fa59e52ecd21f8e1",
+          "version": "https://annotations.allmaps.org/maps/fa59e52ecd21f8e1@8e2dcd2fb6d0220e",
+          "image": {
+            "id": "https://annotations.allmaps.org/images/28b34a3feb1c4ddf",
+            "version": "https://annotations.allmaps.org/images/28b34a3feb1c4ddf@1aac3804c0c204e9",
+            "canvases": [
+              {
+                "id": "https://annotations.allmaps.org/canvases/5c2701f200342420",
+                "manifests": [
+                  {
+                    "id": "https://annotations.allmaps.org/manifests/a5902b2afd95a39d"
+                  }
+                ]
+              },
+              {
+                "id": "https://annotations.allmaps.org/canvases/59244c1c40b0c872",
+                "manifests": [
+                  {
+                    "id": "https://annotations.allmaps.org/manifests/15a26137ff4733bb"
+                  },
+                  {
+                    "id": "https://annotations.allmaps.org/manifests/c644ddad8dda24b6"
+                  }
+                ]
+              }
+            ]
+          },
+          "scale": 0.000998,
+          "area": 12693674761420.36
+        }
+      }
+    }
+  ]
+}

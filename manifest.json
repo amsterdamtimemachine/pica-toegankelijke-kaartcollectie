@@ -195,6 +195,17 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/pica-toegankelijke-kaartcollectie/annotations/georeferencing/A2.json",
+          "label": {
+            "nl": [
+              "Georeferencing Annotations made with Allmaps"
+            ]
+          },
+          "type": "AnnotationPage"
+        }
       ]
     },
     {
@@ -651,6 +662,17 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/pica-toegankelijke-kaartcollectie/annotations/georeferencing/A7.json",
+          "label": {
+            "nl": [
+              "Georeferencing Annotations made with Allmaps"
+            ]
+          },
+          "type": "AnnotationPage"
+        }
       ]
     },
     {
@@ -739,6 +761,17 @@
               "target": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40100/pages/1/canvas/"
             }
           ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/pica-toegankelijke-kaartcollectie/annotations/georeferencing/A8.json",
+          "label": {
+            "nl": [
+              "Georeferencing Annotations made with Allmaps"
+            ]
+          },
+          "type": "AnnotationPage"
         }
       ]
     },
@@ -1574,6 +1607,17 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/pica-toegankelijke-kaartcollectie/annotations/georeferencing/VOC5.json",
+          "label": {
+            "nl": [
+              "Georeferencing Annotations made with Allmaps"
+            ]
+          },
+          "type": "AnnotationPage"
+        }
       ]
     },
     {
@@ -1840,6 +1884,17 @@
               "target": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_39625/pages/50/canvas/"
             }
           ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/pica-toegankelijke-kaartcollectie/annotations/georeferencing/VOC8.json",
+          "label": {
+            "nl": [
+              "Georeferencing Annotations made with Allmaps"
+            ]
+          },
+          "type": "AnnotationPage"
         }
       ]
     },
