@@ -1,35 +1,30 @@
 {
-  "id": "https://amsterdamtimemachine.github.io/pica-toegankelijke-kaartcollectie/annotations/georeferencing/A8.json",
+  "id": "https://amsterdamtimemachine.github.io/pica-toegankelijke-kaartcollectie/annotations/georeferencing/A5.json",
   "type": "AnnotationPage",
   "@context": "http://www.w3.org/ns/anno.jsonld",
   "items": [
     {
-      "id": "https://annotations.allmaps.org/maps/fb81263d704ae1c6",
+      "id": "https://annotations.allmaps.org/maps/7e26e2d10fb53451",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
         "http://iiif.io/api/presentation/3/context.json"
       ],
-      "created": "2024-08-09T10:05:29.025Z",
-      "modified": "2024-08-09T10:05:29.025Z",
+      "created": "2024-08-12T07:38:53.795Z",
+      "modified": "2024-08-12T07:38:53.795Z",
       "motivation": "georeferencing",
       "target": {
         "type": "SpecificResource",
         "source": {
-          "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40100/pages/1/canvas/",
+          "id": "https://images.uba.uva.nl/iiif/2/erfgoed!kaarten!4!2!9!990009329240205131!101-04-VIE25-26.jpg/info.json",
           "type": "Canvas",
-          "label": {
-            "nl": [
-              "A8 - Plan tot uitbreiding van Amsterdam.\u00a0"
-            ]
-          },
           "partOf": [
             {
-              "id": "https://amsterdamtimemachine.github.io/pica-toegankelijke-kaartcollectie/manifest.json",
+              "id": "https://sammeltassen.nl/iiif-manifests/uva/maps.json",
               "type": "Manifest",
               "label": {
                 "nl": [
-                  "Selectie kaarten voor het PICA-project 'Toegankelijke Kaartencollectie' van de Universiteit van Amsterdam"
+                  "Alle UvA kaarten zonder metadata"
                 ]
               }
             }
@@ -37,7 +32,7 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"9004\" height=\"7201\"><polygon points=\"669,329 637,6742 8335,6753 8356,383\" /></svg>"
+          "value": "<svg width=\"8811\" height=\"6261\"><polygon points=\"0,0 0,6261 8811,6261 8811,0\" /></svg>"
         }
       },
       "body": {
@@ -53,15 +48,15 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                4458,
-                3091
+                5422,
+                3131
               ]
             },
             "geometry": {
               "type": "Point",
               "coordinates": [
-                4.9003873,
-                52.3726566
+                4.8913322,
+                52.3731586
               ]
             }
           },
@@ -69,15 +64,15 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                2409,
-                2509
+                3935,
+                3857
               ]
             },
             "geometry": {
               "type": "Point",
               "coordinates": [
-                4.8838151,
-                52.384626
+                4.9055039,
+                52.372048
               ]
             }
           },
@@ -85,15 +80,15 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                3193,
-                3667
+                6277,
+                2840
               ]
             },
             "geometry": {
               "type": "Point",
               "coordinates": [
-                4.883943,
-                52.3745303
+                4.8838209,
+                52.3744662
               ]
             }
           },
@@ -101,15 +96,15 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                5295,
-                4485
+                4721,
+                4384
               ]
             },
             "geometry": {
               "type": "Point",
               "coordinates": [
-                4.8993993,
-                52.3610323
+                4.9023057,
+                52.3764545
               ]
             }
           },
@@ -117,44 +112,36 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                3788,
-                3361
+                7463,
+                4365
               ]
             },
             "geometry": {
               "type": "Point",
               "coordinates": [
-                4.8917884,
-                52.3739249
-              ]
-            }
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "resourceCoords": [
-                4183,
-                3015
-              ]
-            },
-            "geometry": {
-              "type": "Point",
-              "coordinates": [
-                4.8980925,
-                52.3743773
+                4.8837622,
+                52.3846394
               ]
             }
           }
         ],
         "_allmaps": {
-          "id": "https://annotations.allmaps.org/maps/fb81263d704ae1c6",
-          "version": "https://annotations.allmaps.org/maps/fb81263d704ae1c6@0da01c44df0e321e",
+          "id": "https://annotations.allmaps.org/maps/7e26e2d10fb53451",
+          "version": "https://annotations.allmaps.org/maps/7e26e2d10fb53451@b0e2db2c39d81ca1",
           "image": {
-            "id": "https://annotations.allmaps.org/images/019416efb27fec59",
-            "version": "https://annotations.allmaps.org/images/019416efb27fec59@f274bdad7694a12e",
+            "id": "https://annotations.allmaps.org/images/8c0b963269e17b95",
+            "version": "https://annotations.allmaps.org/images/8c0b963269e17b95@6e18c4a8e5dfc992",
             "canvases": [
               {
-                "id": "https://annotations.allmaps.org/canvases/e64ef45a90c0a401",
+                "id": "https://annotations.allmaps.org/canvases/0c4d308b64bf0cf7",
+                "manifests": [
+                  {
+                    "id": "https://annotations.allmaps.org/manifests/501ad62b00d729b7"
+                  }
+                ]
+              },
+              {
+                "id": "https://annotations.allmaps.org/canvases/2844535994e32bc1",
                 "manifests": [
                   {
                     "id": "https://annotations.allmaps.org/manifests/c644ddad8dda24b6"
@@ -163,8 +150,8 @@
               }
             ]
           },
-          "scale": 1.235983,
-          "area": 32184966.35
+          "scale": 1.710635,
+          "area": 18851854.25
         }
       }
     }

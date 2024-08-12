@@ -1,0 +1,594 @@
+{
+  "id": "https://amsterdamtimemachine.github.io/pica-toegankelijke-kaartcollectie/annotations/georeferencing/A9.json",
+  "type": "AnnotationPage",
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "items": [
+    {
+      "id": "https://annotations.allmaps.org/maps/1fcfa9487433b97f",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "created": "2024-08-09T10:19:46.291Z",
+      "modified": "2024-08-09T10:19:46.291Z",
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://images.uba.uva.nl/iiif/2/erfgoed!kaarten!6!4!3!990009373460205131!101-05-VI-E-25-62.jpg/info.json",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://sammeltassen.nl/iiif-manifests/uva/maps.json",
+              "type": "Manifest",
+              "label": {
+                "nl": [
+                  "Alle UvA kaarten zonder metadata"
+                ]
+              }
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"8272\" height=\"6327\"><polygon points=\"5823,5196 8160,5208 8155,6206 7870,6203 7934,6029 5729,6007 5754,5278\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "polynomial",
+          "options": {
+            "order": 1
+          }
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                7179,
+                5786
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.916909,
+                52.3654217
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                7303,
+                5786
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.9172901,
+                52.3652855
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                7795,
+                5965
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.9184851,
+                52.3643826
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                6369,
+                5486
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.9147143,
+                52.3668198
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                5915,
+                5837
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.9127099,
+                52.3666538
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                6352,
+                5751
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.9141395,
+                52.3663702
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                5819,
+                5651
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.912633,
+                52.3671377
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                5823,
+                5575
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.9127581,
+                52.3672732
+              ]
+            }
+          }
+        ],
+        "_allmaps": {
+          "id": "https://annotations.allmaps.org/maps/1fcfa9487433b97f",
+          "version": "https://annotations.allmaps.org/maps/1fcfa9487433b97f@3bb31ff58b657b42",
+          "image": {
+            "id": "https://annotations.allmaps.org/images/4e37eae758c51625",
+            "version": "https://annotations.allmaps.org/images/4e37eae758c51625@aeb6cbab78ba95f7",
+            "canvases": [
+              {
+                "id": "https://annotations.allmaps.org/canvases/499d8223a075821b",
+                "manifests": [
+                  {
+                    "id": "https://annotations.allmaps.org/manifests/501ad62b00d729b7"
+                  }
+                ]
+              },
+              {
+                "id": "https://annotations.allmaps.org/canvases/84ab9b55feca0d07",
+                "manifests": [
+                  {
+                    "id": "https://annotations.allmaps.org/manifests/c0da4638704b5258"
+                  },
+                  {
+                    "id": "https://annotations.allmaps.org/manifests/c644ddad8dda24b6"
+                  }
+                ]
+              }
+            ]
+          },
+          "scale": 4.076092,
+          "area": 121315.15
+        }
+      }
+    },
+    {
+      "id": "https://annotations.allmaps.org/maps/397da8db637896f3",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "created": "2024-08-09T10:19:46.291Z",
+      "modified": "2024-08-09T10:19:46.291Z",
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://images.uba.uva.nl/iiif/2/erfgoed!kaarten!6!4!3!990009373460205131!101-05-VI-E-25-62.jpg",
+          "type": "ImageService2",
+          "height": 6327,
+          "width": 8272,
+          "partOf": [
+            {
+              "id": "https://images.uba.uva.nl/iiif/2/erfgoed!kaarten!6!4!3!990009373460205131!101-05-VI-E-25-62.jpg/info.json",
+              "type": "Canvas",
+              "partOf": [
+                {
+                  "id": "https://sammeltassen.nl/iiif-manifests/uva/maps.json",
+                  "type": "Manifest",
+                  "label": {
+                    "nl": [
+                      "Alle UvA kaarten zonder metadata"
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1005/pages/1/canvas/",
+              "type": "Canvas",
+              "label": {
+                "none": [
+                  "-"
+                ]
+              },
+              "partOf": [
+                {
+                  "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1005/manifest/",
+                  "type": "Manifest",
+                  "label": {
+                    "none": [
+                      "\n              Amsterdam in 1882 /\n              A. Braakensiek ; Tresling & Co. Hof Lith. Amst.\n            "
+                    ]
+                  }
+                },
+                {
+                  "id": "https://amsterdamtimemachine.github.io/pica-toegankelijke-kaartcollectie/manifest.json",
+                  "type": "Manifest",
+                  "label": {
+                    "nl": [
+                      "Selectie kaarten voor het PICA-project 'Toegankelijke Kaartencollectie' van de Universiteit van Amsterdam"
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"8272\" height=\"6327\"><polygon points=\"167,1938 152,6208 1180,6217 1167,1943\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "polynomial",
+          "options": {
+            "order": 1
+          }
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                1037,
+                2858
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.8776205,
+                52.3594296
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                873,
+                6062
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.8557896,
+                52.354942
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                422,
+                3233
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.8737337,
+                52.3612824
+              ]
+            }
+          }
+        ],
+        "_allmaps": {
+          "id": "https://annotations.allmaps.org/maps/397da8db637896f3",
+          "version": "https://annotations.allmaps.org/maps/397da8db637896f3@92b0ee9e8e890c72",
+          "image": {
+            "id": "https://annotations.allmaps.org/images/4e37eae758c51625",
+            "version": "https://annotations.allmaps.org/images/4e37eae758c51625@aeb6cbab78ba95f7",
+            "canvases": [
+              {
+                "id": "https://annotations.allmaps.org/canvases/499d8223a075821b",
+                "manifests": [
+                  {
+                    "id": "https://annotations.allmaps.org/manifests/501ad62b00d729b7"
+                  }
+                ]
+              },
+              {
+                "id": "https://annotations.allmaps.org/canvases/84ab9b55feca0d07",
+                "manifests": [
+                  {
+                    "id": "https://annotations.allmaps.org/manifests/c0da4638704b5258"
+                  },
+                  {
+                    "id": "https://annotations.allmaps.org/manifests/c644ddad8dda24b6"
+                  }
+                ]
+              }
+            ]
+          },
+          "scale": 2.085625,
+          "area": 995858.07
+        }
+      }
+    },
+    {
+      "id": "https://annotations.allmaps.org/maps/8dfa7c0a36f7336a",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "created": "2024-08-09T10:19:46.291Z",
+      "modified": "2024-08-09T10:19:46.291Z",
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://images.uba.uva.nl/iiif/2/erfgoed!kaarten!6!4!3!990009373460205131!101-05-VI-E-25-62.jpg",
+          "type": "ImageService2",
+          "height": 6327,
+          "width": 8272,
+          "partOf": [
+            {
+              "id": "https://images.uba.uva.nl/iiif/2/erfgoed!kaarten!6!4!3!990009373460205131!101-05-VI-E-25-62.jpg/info.json",
+              "type": "Canvas",
+              "partOf": [
+                {
+                  "id": "https://sammeltassen.nl/iiif-manifests/uva/maps.json",
+                  "type": "Manifest",
+                  "label": {
+                    "nl": [
+                      "Alle UvA kaarten zonder metadata"
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1005/pages/1/canvas/",
+              "type": "Canvas",
+              "label": {
+                "none": [
+                  "-"
+                ]
+              },
+              "partOf": [
+                {
+                  "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1005/manifest/",
+                  "type": "Manifest",
+                  "label": {
+                    "none": [
+                      "\n              Amsterdam in 1882 /\n              A. Braakensiek ; Tresling & Co. Hof Lith. Amst.\n            "
+                    ]
+                  }
+                },
+                {
+                  "id": "https://amsterdamtimemachine.github.io/pica-toegankelijke-kaartcollectie/manifest.json",
+                  "type": "Manifest",
+                  "label": {
+                    "nl": [
+                      "Selectie kaarten voor het PICA-project 'Toegankelijke Kaartencollectie' van de Universiteit van Amsterdam"
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"8272\" height=\"6327\"><polygon points=\"152,128 8205,128 8186,4795 6907,4778 6052,4767 5739,5279 5417,5696 4952,6170 1195,6180 1180,1928 165,1929\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "polynomial",
+          "options": {
+            "order": 1
+          }
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                4131,
+                3501
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.8932062,
+                52.3670535
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                3425,
+                2646
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.891762,
+                52.3739175
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                4255,
+                2308
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.9003272,
+                52.3727585
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2727,
+                3003
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.8838691,
+                52.3745219
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                3897,
+                2234
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.8980927,
+                52.3743473
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                3450,
+                2777
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.8913071,
+                52.3731498
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                5276,
+                3453
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.9023433,
+                52.3635764
+              ]
+            }
+          }
+        ],
+        "_allmaps": {
+          "id": "https://annotations.allmaps.org/maps/8dfa7c0a36f7336a",
+          "version": "https://annotations.allmaps.org/maps/8dfa7c0a36f7336a@edf9f8052b943570",
+          "image": {
+            "id": "https://annotations.allmaps.org/images/4e37eae758c51625",
+            "version": "https://annotations.allmaps.org/images/4e37eae758c51625@aeb6cbab78ba95f7",
+            "canvases": [
+              {
+                "id": "https://annotations.allmaps.org/canvases/499d8223a075821b",
+                "manifests": [
+                  {
+                    "id": "https://annotations.allmaps.org/manifests/501ad62b00d729b7"
+                  }
+                ]
+              },
+              {
+                "id": "https://annotations.allmaps.org/canvases/84ab9b55feca0d07",
+                "manifests": [
+                  {
+                    "id": "https://annotations.allmaps.org/manifests/c0da4638704b5258"
+                  },
+                  {
+                    "id": "https://annotations.allmaps.org/manifests/c644ddad8dda24b6"
+                  }
+                ]
+              }
+            ]
+          },
+          "scale": 1.48028,
+          "area": 18504463.35
+        }
+      }
+    }
+  ]
+}

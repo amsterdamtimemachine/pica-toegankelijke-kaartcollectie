@@ -484,6 +484,17 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/pica-toegankelijke-kaartcollectie/annotations/georeferencing/A5.json",
+          "label": {
+            "nl": [
+              "Georeferencing Annotations made with Allmaps"
+            ]
+          },
+          "type": "AnnotationPage"
+        }
       ]
     },
     {
@@ -572,6 +583,17 @@
               "target": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2714/pages/1/canvas/"
             }
           ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/pica-toegankelijke-kaartcollectie/annotations/georeferencing/A6.json",
+          "label": {
+            "nl": [
+              "Georeferencing Annotations made with Allmaps"
+            ]
+          },
+          "type": "AnnotationPage"
         }
       ]
     },
@@ -862,6 +884,17 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/pica-toegankelijke-kaartcollectie/annotations/georeferencing/A9.json",
+          "label": {
+            "nl": [
+              "Georeferencing Annotations made with Allmaps"
+            ]
+          },
+          "type": "AnnotationPage"
+        }
       ]
     },
     {
@@ -1051,6 +1084,17 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/pica-toegankelijke-kaartcollectie/annotations/georeferencing/A11.json",
+          "label": {
+            "nl": [
+              "Georeferencing Annotations made with Allmaps"
+            ]
+          },
+          "type": "AnnotationPage"
+        }
       ]
     },
     {
@@ -1239,6 +1283,17 @@
               "target": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40093/pages/1/canvas/"
             }
           ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/pica-toegankelijke-kaartcollectie/annotations/georeferencing/VOC1.json",
+          "label": {
+            "nl": [
+              "Georeferencing Annotations made with Allmaps"
+            ]
+          },
+          "type": "AnnotationPage"
         }
       ]
     },
@@ -1796,6 +1851,17 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/pica-toegankelijke-kaartcollectie/annotations/georeferencing/VOC7.json",
+          "label": {
+            "nl": [
+              "Georeferencing Annotations made with Allmaps"
+            ]
+          },
+          "type": "AnnotationPage"
+        }
       ]
     },
     {
@@ -1985,6 +2051,17 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/pica-toegankelijke-kaartcollectie/annotations/georeferencing/VOC9.json",
+          "label": {
+            "nl": [
+              "Georeferencing Annotations made with Allmaps"
+            ]
+          },
+          "type": "AnnotationPage"
+        }
       ]
     },
     {
@@ -2173,6 +2250,17 @@
               "target": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_20867/pages/135/canvas/"
             }
           ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/pica-toegankelijke-kaartcollectie/annotations/georeferencing/VOC11.json",
+          "label": {
+            "nl": [
+              "Georeferencing Annotations made with Allmaps"
+            ]
+          },
+          "type": "AnnotationPage"
         }
       ]
     },
