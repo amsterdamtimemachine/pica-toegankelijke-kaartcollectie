@@ -1,0 +1,188 @@
+{
+  "id": "https://amsterdamtimemachine.github.io/pica-toegankelijke-kaartcollectie/annotations/georeferencing/VOC6.json",
+  "type": "AnnotationPage",
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "items": [
+    {
+      "id": "https://annotations.allmaps.org/maps/3f608c285c712cde",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "created": "2024-08-13T14:20:25.808Z",
+      "modified": "2024-08-13T14:20:25.808Z",
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40098/pages/1/canvas/",
+          "type": "Canvas",
+          "label": {
+            "nl": [
+              "VOC6 - Het Koninkryk Japan, verdeelt in acht en zestig provintien\u00a0"
+            ]
+          },
+          "partOf": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/pica-toegankelijke-kaartcollectie/manifest.json",
+              "type": "Manifest",
+              "label": {
+                "nl": [
+                  "Selectie kaarten voor het PICA-project 'Toegankelijke Kaartencollectie' van de Universiteit van Amsterdam"
+                ]
+              }
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"7816\" height=\"6589\"><polygon points=\"1007,2962 2743,2958 2796,2252 3601,2222 3643,869 6736,888 6760,5645 992,5697\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "polynomial",
+          "options": {
+            "order": 1
+          }
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                4675,
+                3944
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                136.9074539,
+                35.1762088
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                3693,
+                4466
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                135.1734052,
+                34.1906761
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                5200,
+                2236
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                138.4017323,
+                38.0442319
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2777,
+                3979
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                132.7131062,
+                33.8858051
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                4581,
+                4046
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                136.6353599,
+                34.9963496
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                1741,
+                5050
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                129.7743944,
+                32.5961968
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                1874,
+                4796
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                130.0000226,
+                32.8408852
+              ]
+            }
+          }
+        ],
+        "_allmaps": {
+          "id": "https://annotations.allmaps.org/maps/3f608c285c712cde",
+          "version": "https://annotations.allmaps.org/maps/3f608c285c712cde@2878cba87310de44",
+          "image": {
+            "id": "https://annotations.allmaps.org/images/faf9e73f7cfa549e",
+            "version": "https://annotations.allmaps.org/images/faf9e73f7cfa549e@62d20dc24ec9f2a9",
+            "canvases": [
+              {
+                "id": "https://annotations.allmaps.org/canvases/0fbd84dc7cbb5aa2",
+                "manifests": [
+                  {
+                    "id": "https://annotations.allmaps.org/manifests/c644ddad8dda24b6"
+                  }
+                ]
+              }
+            ]
+          },
+          "scale": 0.005542,
+          "area": 739282043541.62
+        }
+      }
+    }
+  ]
+}

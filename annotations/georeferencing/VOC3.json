@@ -1,0 +1,188 @@
+{
+  "id": "https://amsterdamtimemachine.github.io/pica-toegankelijke-kaartcollectie/annotations/georeferencing/VOC3.json",
+  "type": "AnnotationPage",
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "items": [
+    {
+      "id": "https://annotations.allmaps.org/maps/3e09692925f672c1",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "created": "2024-08-13T14:10:00.951Z",
+      "modified": "2024-08-13T14:10:00.951Z",
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40095/pages/1/canvas/",
+          "type": "Canvas",
+          "label": {
+            "nl": [
+              "VOC3 - Le royaume de Siam : auec les royaumes qui luy sont tributaires\u00a0"
+            ]
+          },
+          "partOf": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/pica-toegankelijke-kaartcollectie/manifest.json",
+              "type": "Manifest",
+              "label": {
+                "nl": [
+                  "Selectie kaarten voor het PICA-project 'Toegankelijke Kaartencollectie' van de Universiteit van Amsterdam"
+                ]
+              }
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"7795\" height=\"6554\"><polygon points=\"716,517 7046,404 7100,5872 815,5949\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "polynomial",
+          "options": {
+            "order": 1
+          }
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                6186,
+                2594
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                114.574115,
+                -3.3404328
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                4373,
+                2824
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                106.7160824,
+                -3.0641062
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                3530,
+                3654
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                104.6684417,
+                -5.9131493
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                3358,
+                2375
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                103.6251953,
+                -1.6783717
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                6428,
+                2693
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                116.0863653,
+                -4.0325693
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                3920,
+                3653
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                106.0513792,
+                -5.898107
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                6977,
+                3894
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                114.4490366,
+                -8.1075164
+              ]
+            }
+          }
+        ],
+        "_allmaps": {
+          "id": "https://annotations.allmaps.org/maps/3e09692925f672c1",
+          "version": "https://annotations.allmaps.org/maps/3e09692925f672c1@ab44ec2932a1c936",
+          "image": {
+            "id": "https://annotations.allmaps.org/images/f95498e8d0e5e710",
+            "version": "https://annotations.allmaps.org/images/f95498e8d0e5e710@5b9034807b01455e",
+            "canvases": [
+              {
+                "id": "https://annotations.allmaps.org/canvases/18c73515c83b8b61",
+                "manifests": [
+                  {
+                    "id": "https://annotations.allmaps.org/manifests/c644ddad8dda24b6"
+                  }
+                ]
+              }
+            ]
+          },
+          "scale": 0.002611,
+          "area": 5043898894602.63
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "id": "https://amsterdamtimemachine.github.io/pica-toegankelijke-kaartcollectie/annotations/georeferencing/A3.json",
+  "type": "AnnotationPage",
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "items": [
+    {
+      "id": "https://annotations.allmaps.org/maps/0f4edc27d838d9a1",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "created": "2024-08-13T15:44:12.726Z",
+      "modified": "2024-08-13T15:44:12.726Z",
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://images.uba.uva.nl/iiif/2/erfgoed!kaarten!2!7!7!990009297720205131!102-16-13.jpg/info.json",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://sammeltassen.nl/iiif-manifests/uva/maps.json",
+              "type": "Manifest",
+              "label": {
+                "nl": [
+                  "Alle UvA kaarten zonder metadata"
+                ]
+              }
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"7475\" height=\"6314\"><polygon points=\"3916,531 3314,511 2644,842 1964,1512 818,2910 478,4736 528,4864 1119,5202 1954,4930 4065,4069 7131,5319 6606,2794 6431,2347 5907,1405 4916,725\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "polynomial",
+          "options": {
+            "order": 1
+          }
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                5388,
+                2511
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.8834879,
+                52.3745261
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                6599,
+                3885
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.8830867,
+                52.3849577
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2259,
+                4008
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.9148155,
+                52.3716914
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                4152,
+                3387
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.897802,
+                52.3742959
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2453,
+                1926
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.9030436,
+                52.3622193
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                3715,
+                3255
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.9003428,
+                52.3727662
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                4563,
+                2838
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.8917906,
+                52.373134
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                3047,
+                2403
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.9008815,
+                52.3663537
+              ]
+            }
+          }
+        ],
+        "_allmaps": {
+          "id": "https://annotations.allmaps.org/maps/0f4edc27d838d9a1",
+          "version": "https://annotations.allmaps.org/maps/0f4edc27d838d9a1@c10a98a431c142ce",
+          "image": {
+            "id": "https://annotations.allmaps.org/images/e4ed1db039ee6e11",
+            "version": "https://annotations.allmaps.org/images/e4ed1db039ee6e11@8113eb68e81d8d00",
+            "canvases": [
+              {
+                "id": "https://annotations.allmaps.org/canvases/7d21cf8ec7ec7934",
+                "manifests": [
+                  {
+                    "id": "https://annotations.allmaps.org/manifests/501ad62b00d729b7"
+                  }
+                ]
+              },
+              {
+                "id": "https://annotations.allmaps.org/canvases/44525776e8f32c7a",
+                "manifests": [
+                  {
+                    "id": "https://annotations.allmaps.org/manifests/c644ddad8dda24b6"
+                  }
+                ]
+              }
+            ]
+          },
+          "scale": 1.587948,
+          "area": 8204400.31
+        }
+      }
+    }
+  ]
+}
