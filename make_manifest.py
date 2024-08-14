@@ -56,7 +56,7 @@ def make_manifest(df):
     return manifest
 
 
-def get_georeferencing_annotations(identifier, iiif_service_info):
+def get_georeferencing_annotations(identifier, iiif_service_info, canvas_id, manifest):
 
     annotation_page_id = f"{PREFIX}annotations/georeferencing/{identifier}.json"
 
@@ -73,7 +73,13 @@ def get_georeferencing_annotations(identifier, iiif_service_info):
     ap = {"id": annotation_page_id, **ap}
 
     # Change target from image to Canvas
-    ap["items"][0]["target"]["source"] = ap["items"][0]["target"]["source"]["partOf"][0]
+    # ap["items"][0]["target"]["source"] = ap["items"][0]["target"]["source"]["partOf"][0]
+    for item in ap["items"]:
+        item["target"]["source"] = {
+            "id": canvas_id,
+            "type": "Canvas",
+            "partOf": {"id": manifest.id, "type": "Manifest", "label": manifest.label},
+        }
 
     with open(f"annotations/georeferencing/{identifier}.json", "w") as outfile:
         json.dump(ap, outfile, indent=2)
@@ -99,7 +105,9 @@ def main():
         iiif_service_info = i.Beeldbank_iiif_info
         canvas_id = i.Beeldbank_iiif_canvas
 
-        ap = get_georeferencing_annotations(identifier, iiif_service_info)
+        ap = get_georeferencing_annotations(
+            identifier, iiif_service_info, canvas_id, manifest
+        )
 
         if ap is None:
             continue

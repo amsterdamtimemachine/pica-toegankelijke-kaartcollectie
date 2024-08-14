@@ -16,19 +16,17 @@
       "target": {
         "type": "SpecificResource",
         "source": {
-          "id": "https://images.uba.uva.nl/iiif/2/erfgoed!kaarten!7!9!9!990009339970205131!101-04-VI-E-25-33.jpg/info.json",
+          "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2714/pages/1/canvas/",
           "type": "Canvas",
-          "partOf": [
-            {
-              "id": "https://sammeltassen.nl/iiif-manifests/uva/maps.json",
-              "type": "Manifest",
-              "label": {
-                "nl": [
-                  "Alle UvA kaarten zonder metadata"
-                ]
-              }
+          "partOf": {
+            "id": "https://amsterdamtimemachine.github.io/pica-toegankelijke-kaartcollectie/manifest.json",
+            "type": "Manifest",
+            "label": {
+              "nl": [
+                "Selectie kaarten voor het PICA-project 'Toegankelijke Kaartencollectie' van de Universiteit van Amsterdam"
+              ]
             }
-          ]
+          }
         },
         "selector": {
           "type": "SvgSelector",

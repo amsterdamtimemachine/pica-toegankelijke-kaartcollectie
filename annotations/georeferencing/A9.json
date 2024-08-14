@@ -16,19 +16,17 @@
       "target": {
         "type": "SpecificResource",
         "source": {
-          "id": "https://images.uba.uva.nl/iiif/2/erfgoed!kaarten!6!4!3!990009373460205131!101-05-VI-E-25-62.jpg/info.json",
+          "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1005/pages/1/canvas/",
           "type": "Canvas",
-          "partOf": [
-            {
-              "id": "https://sammeltassen.nl/iiif-manifests/uva/maps.json",
-              "type": "Manifest",
-              "label": {
-                "nl": [
-                  "Alle UvA kaarten zonder metadata"
-                ]
-              }
+          "partOf": {
+            "id": "https://amsterdamtimemachine.github.io/pica-toegankelijke-kaartcollectie/manifest.json",
+            "type": "Manifest",
+            "label": {
+              "nl": [
+                "Selectie kaarten voor het PICA-project 'Toegankelijke Kaartencollectie' van de Universiteit van Amsterdam"
+              ]
             }
-          ]
+          }
         },
         "selector": {
           "type": "SvgSelector",
@@ -219,56 +217,17 @@
       "target": {
         "type": "SpecificResource",
         "source": {
-          "id": "https://images.uba.uva.nl/iiif/2/erfgoed!kaarten!6!4!3!990009373460205131!101-05-VI-E-25-62.jpg",
-          "type": "ImageService2",
-          "height": 6327,
-          "width": 8272,
-          "partOf": [
-            {
-              "id": "https://images.uba.uva.nl/iiif/2/erfgoed!kaarten!6!4!3!990009373460205131!101-05-VI-E-25-62.jpg/info.json",
-              "type": "Canvas",
-              "partOf": [
-                {
-                  "id": "https://sammeltassen.nl/iiif-manifests/uva/maps.json",
-                  "type": "Manifest",
-                  "label": {
-                    "nl": [
-                      "Alle UvA kaarten zonder metadata"
-                    ]
-                  }
-                }
-              ]
-            },
-            {
-              "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1005/pages/1/canvas/",
-              "type": "Canvas",
-              "label": {
-                "none": [
-                  "-"
-                ]
-              },
-              "partOf": [
-                {
-                  "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1005/manifest/",
-                  "type": "Manifest",
-                  "label": {
-                    "none": [
-                      "\n              Amsterdam in 1882 /\n              A. Braakensiek ; Tresling & Co. Hof Lith. Amst.\n            "
-                    ]
-                  }
-                },
-                {
-                  "id": "https://amsterdamtimemachine.github.io/pica-toegankelijke-kaartcollectie/manifest.json",
-                  "type": "Manifest",
-                  "label": {
-                    "nl": [
-                      "Selectie kaarten voor het PICA-project 'Toegankelijke Kaartencollectie' van de Universiteit van Amsterdam"
-                    ]
-                  }
-                }
+          "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1005/pages/1/canvas/",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://amsterdamtimemachine.github.io/pica-toegankelijke-kaartcollectie/manifest.json",
+            "type": "Manifest",
+            "label": {
+              "nl": [
+                "Selectie kaarten voor het PICA-project 'Toegankelijke Kaartencollectie' van de Universiteit van Amsterdam"
               ]
             }
-          ]
+          }
         },
         "selector": {
           "type": "SvgSelector",
@@ -379,56 +338,17 @@
       "target": {
         "type": "SpecificResource",
         "source": {
-          "id": "https://images.uba.uva.nl/iiif/2/erfgoed!kaarten!6!4!3!990009373460205131!101-05-VI-E-25-62.jpg",
-          "type": "ImageService2",
-          "height": 6327,
-          "width": 8272,
-          "partOf": [
-            {
-              "id": "https://images.uba.uva.nl/iiif/2/erfgoed!kaarten!6!4!3!990009373460205131!101-05-VI-E-25-62.jpg/info.json",
-              "type": "Canvas",
-              "partOf": [
-                {
-                  "id": "https://sammeltassen.nl/iiif-manifests/uva/maps.json",
-                  "type": "Manifest",
-                  "label": {
-                    "nl": [
-                      "Alle UvA kaarten zonder metadata"
-                    ]
-                  }
-                }
-              ]
-            },
-            {
-              "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1005/pages/1/canvas/",
-              "type": "Canvas",
-              "label": {
-                "none": [
-                  "-"
-                ]
-              },
-              "partOf": [
-                {
-                  "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1005/manifest/",
-                  "type": "Manifest",
-                  "label": {
-                    "none": [
-                      "\n              Amsterdam in 1882 /\n              A. Braakensiek ; Tresling & Co. Hof Lith. Amst.\n            "
-                    ]
-                  }
-                },
-                {
-                  "id": "https://amsterdamtimemachine.github.io/pica-toegankelijke-kaartcollectie/manifest.json",
-                  "type": "Manifest",
-                  "label": {
-                    "nl": [
-                      "Selectie kaarten voor het PICA-project 'Toegankelijke Kaartencollectie' van de Universiteit van Amsterdam"
-                    ]
-                  }
-                }
+          "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1005/pages/1/canvas/",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://amsterdamtimemachine.github.io/pica-toegankelijke-kaartcollectie/manifest.json",
+            "type": "Manifest",
+            "label": {
+              "nl": [
+                "Selectie kaarten voor het PICA-project 'Toegankelijke Kaartencollectie' van de Universiteit van Amsterdam"
               ]
             }
-          ]
+          }
         },
         "selector": {
           "type": "SvgSelector",

@@ -18,31 +18,15 @@
         "source": {
           "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40101/pages/1/canvas/",
           "type": "Canvas",
-          "label": {
-            "none": [
-              "-"
-            ]
-          },
-          "partOf": [
-            {
-              "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40101/manifest/",
-              "type": "Manifest",
-              "label": {
-                "none": [
-                  "\n              Kaart van Amsterdam 1:10.000 /\n              Stadsontwikkeling, Dienst der Publieke Werken.\n            "
-                ]
-              }
-            },
-            {
-              "id": "https://amsterdamtimemachine.github.io/pica-toegankelijke-kaartcollectie/manifest.json",
-              "type": "Manifest",
-              "label": {
-                "nl": [
-                  "Selectie kaarten voor het PICA-project 'Toegankelijke Kaartencollectie' van de Universiteit van Amsterdam"
-                ]
-              }
+          "partOf": {
+            "id": "https://amsterdamtimemachine.github.io/pica-toegankelijke-kaartcollectie/manifest.json",
+            "type": "Manifest",
+            "label": {
+              "nl": [
+                "Selectie kaarten voor het PICA-project 'Toegankelijke Kaartencollectie' van de Universiteit van Amsterdam"
+              ]
             }
-          ]
+          }
         },
         "selector": {
           "type": "SvgSelector",

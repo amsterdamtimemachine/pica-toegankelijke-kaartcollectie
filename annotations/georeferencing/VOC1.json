@@ -18,22 +18,15 @@
         "source": {
           "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40093/pages/1/canvas/",
           "type": "Canvas",
-          "label": {
-            "nl": [
-              "VOC1 - Asiae in tabula geographica delineatio\u00a0"
-            ]
-          },
-          "partOf": [
-            {
-              "id": "https://amsterdamtimemachine.github.io/pica-toegankelijke-kaartcollectie/manifest.json",
-              "type": "Manifest",
-              "label": {
-                "nl": [
-                  "Selectie kaarten voor het PICA-project 'Toegankelijke Kaartencollectie' van de Universiteit van Amsterdam"
-                ]
-              }
+          "partOf": {
+            "id": "https://amsterdamtimemachine.github.io/pica-toegankelijke-kaartcollectie/manifest.json",
+            "type": "Manifest",
+            "label": {
+              "nl": [
+                "Selectie kaarten voor het PICA-project 'Toegankelijke Kaartencollectie' van de Universiteit van Amsterdam"
+              ]
             }
-          ]
+          }
         },
         "selector": {
           "type": "SvgSelector",
