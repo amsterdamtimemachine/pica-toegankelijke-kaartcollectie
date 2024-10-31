@@ -13,7 +13,7 @@ Dit project wordt uitgevoerd door de Bibliotheek UvA/HvA en het Allard Pierson m
 * Ervaring met het open en 'FAIR' ontsluiten van gedigitaliseerde kaartencollecties
 
 ## Datamodel en LOD-template
-Nieuw in dit project is dat we de notitie van het individuele item in de linked data van de UB introduceren. Het is immers het individuele item waarvan een gedigitaliseerde kopie te zien is via een IIIF Manifest. Aanvullend maken we ook een aanzet tot het modelleren van de individuele kaarten, waarvoor mogelijk andere metadata voorhanden is dan voor het hele werk waar de kaarten onderdeel van uitmaken. Hiervoor hebben we een model in schema.org opgesteld waarin we onderscheid maken tussen het niveau van Manifestation, Item en Kaart, waarmee het in de toekomst mogelijk wordt om meerdere versies van dezelfde kaart (bijvoorbeeld in verschillende collecties) eenvoudig met elkaar te kunnen verbinden.
+Nieuw in dit project is dat we de notie van het individuele item in de linked data van de UB introduceren. Het is immers het individuele item waarvan een gedigitaliseerde kopie te zien is via een IIIF Manifest. Aanvullend maken we ook een aanzet tot het modelleren van de individuele kaarten, waarvoor mogelijk andere metadata voorhanden is dan voor het hele werk waar de kaarten onderdeel van uitmaken. Hiervoor hebben we een model in schema.org opgesteld waarin we onderscheid maken tussen het niveau van Manifestation, Item en Kaart, waarmee het in de toekomst mogelijk wordt om meerdere versies van dezelfde kaart (bijvoorbeeld in verschillende collecties) eenvoudig met elkaar te kunnen verbinden.
 
 Zie [`template.md`](docs/template.md) voor ons model in schema.org. 
 
