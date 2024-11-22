@@ -1,9 +1,11 @@
 import json
+import hashlib
 import requests
 import pandas as pd
 import iiif_prezi3
 
 iiif_prezi3.config.configs["helpers.auto_fields.AutoLang"].auto_lang = "nl"
+iiif_prezi3.load_bundled_extensions()
 
 PREFIX = "https://amsterdamtimemachine.github.io/pica-toegankelijke-kaartcollectie/"
 
@@ -91,6 +93,27 @@ def get_georeferencing_annotations(identifier, iiif_service_info, canvas_id, man
     )
 
 
+def get_navplace_feature(iiif_service_info):
+
+    allmaps_image_id = hashlib.sha1(iiif_service_info.encode()).hexdigest()[:16]
+
+    try:
+        r = requests.get(
+            f"https://annotations.allmaps.org/images/{allmaps_image_id}.geojson"
+        )
+        r.raise_for_status()
+    except requests.exceptions.RequestException as e:
+        print(e)
+        return
+
+    feature_collection = r.json()
+
+    for feature in feature_collection["features"]:
+        del feature["properties"]
+
+    return feature_collection
+
+
 def main():
 
     df = pd.read_csv("selectie.csv")
@@ -112,6 +135,8 @@ def main():
         if ap is None:
             continue
 
+        navPlace = iiif_prezi3.NavPlace(**get_navplace_feature(iiif_service_info))
+
         for c in manifest.items:
             if c.id == canvas_id:
 
@@ -120,9 +145,18 @@ def main():
 
                 c.annotations.append(ap)
 
+                c.navPlace = navPlace
+
+    # Edit context
+    manifest_jsonld = manifest.jsonld_dict()
+    manifest_jsonld["@context"] = [
+        "http://iiif.io/api/extension/navplace/context.json",
+        "http://iiif.io/api/presentation/3/context.json",
+    ]
+
     # Save the manifest
     with open("manifest.json", "w") as outfile:
-        outfile.write(manifest.json(indent=2))
+        json.dump(manifest_jsonld, outfile, indent=2)
 
 
 if __name__ == "__main__":
