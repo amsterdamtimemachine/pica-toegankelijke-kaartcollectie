@@ -25,7 +25,7 @@ graph LR
 
 ## Overwegingen
 
-- We hebben toch onderscheid gemaakt tussen Manifestation, Item én visuele voorstelling op basis van de informatie die we voor een samengesteld werk (Atlas) hebben. Moeten we voor de consistentie dit niet ook doorvoeren voor de losse kaartbladen? Dan trekken we materiële drager en visuele voorstelling deels uit elkaar.
+- We hebben toch onderscheid gemaakt tussen Manifestation (of 'Staat' van een kaart), Item én visuele voorstelling op basis van de informatie die we voor een samengesteld werk (Atlas) hebben. Moeten we voor de consistentie dit niet ook doorvoeren voor de losse kaartbladen? Dan trekken we materiële drager en visuele voorstelling deels uit elkaar.
   - We modelleren dit uniform, ook al wringt dit wat bij losse bladen.
 - Hoe maken we URIs voor de kaarten? Dit is sterk gerelateerd aan de URIs van de Canvassen in een Manifest.
   - We onderzoeken of de crowdsourcingsmodule van Goobi gebruikt kan worden om de data te bewerken. URIs kunnen toegekend worden als de data omgewerkt worden naar schema:Map voor in het LOD-endpoint. Mogelijk kan het Canvas-target (her)gebruikt worden in zo'n URI.
