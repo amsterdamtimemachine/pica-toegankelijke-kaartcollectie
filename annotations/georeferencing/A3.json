@@ -191,6 +191,9 @@
                 "manifests": [
                   {
                     "id": "https://annotations.allmaps.org/manifests/c644ddad8dda24b6"
+                  },
+                  {
+                    "id": "https://annotations.allmaps.org/manifests/fae49303df6b4d8d"
                   }
                 ]
               }
