@@ -58,7 +58,9 @@ def make_manifest(df):
     return manifest
 
 
-def get_georeferencing_annotations(identifier, iiif_service_info, canvas_id, manifest):
+def get_georeferencing_annotations(
+    identifier, iiif_service_info, canvas_id, manifest, embedded=False
+):
 
     annotation_page_id = f"{PREFIX}annotations/georeferencing/{identifier}.json"
 
@@ -72,7 +74,6 @@ def get_georeferencing_annotations(identifier, iiif_service_info, canvas_id, man
         return
 
     ap = r.json()
-    ap = {"id": annotation_page_id, **ap}
 
     # Change target from image to Canvas
     # ap["items"][0]["target"]["source"] = ap["items"][0]["target"]["source"]["partOf"][0]
@@ -83,14 +84,19 @@ def get_georeferencing_annotations(identifier, iiif_service_info, canvas_id, man
             "partOf": {"id": manifest.id, "type": "Manifest", "label": manifest.label},
         }
 
-    with open(f"annotations/georeferencing/{identifier}.json", "w") as outfile:
-        json.dump(ap, outfile, indent=2)
+    if not embedded:
+        ap = {"id": annotation_page_id, **ap}
 
-    return iiif_prezi3.Reference(
-        id=annotation_page_id,
-        label="Georeferencing Annotations made with Allmaps",
-        type="AnnotationPage",
-    )
+        with open(f"annotations/georeferencing/{identifier}.json", "w") as outfile:
+            json.dump(ap, outfile, indent=2)
+
+        return iiif_prezi3.Reference(
+            id=annotation_page_id,
+            label="Georeferencing Annotations made with Allmaps",
+            type="AnnotationPage",
+        )
+    else:
+        return ap
 
 
 def get_navplace_feature(iiif_service_info):
@@ -114,9 +120,11 @@ def get_navplace_feature(iiif_service_info):
     return feature_collection
 
 
-def main():
+def main(
+    selection_filepath="selectie.csv", output_filepath="manifest.json", embedded=False
+):
 
-    df = pd.read_csv("selectie.csv")
+    df = pd.read_csv(selection_filepath)
 
     # First, make the manifest
     manifest = make_manifest(df)
@@ -129,7 +137,7 @@ def main():
         canvas_id = i.Beeldbank_iiif_canvas
 
         ap = get_georeferencing_annotations(
-            identifier, iiif_service_info, canvas_id, manifest
+            identifier, iiif_service_info, canvas_id, manifest, embedded=embedded
         )
 
         if ap is None:
@@ -155,9 +163,18 @@ def main():
     ]
 
     # Save the manifest
-    with open("manifest.json", "w") as outfile:
+    with open(output_filepath, "w") as outfile:
         json.dump(manifest_jsonld, outfile, indent=2)
 
 
 if __name__ == "__main__":
-    main()
+
+    # One manifest with external (referenced) annotations
+    main(selection_filepath="selectie.csv", output_filepath="manifest.json")
+
+    # And one with embedded annotations
+    main(
+        selection_filepath="selectie.csv",
+        output_filepath="manifest_embedded.json",
+        embedded=True,
+    )
