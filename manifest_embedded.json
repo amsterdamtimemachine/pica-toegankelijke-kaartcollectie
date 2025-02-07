@@ -5673,6 +5673,328 @@
       ]
     },
     {
+      "id": "https://amsterdamtimemachine.github.io/berckenrode-iiif/manifest.json/canvas/0",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "A13 - Amstelredamum emporium Hollandi\u00e6 primarium totiusque Europ\u00e6 celeberrimum"
+        ]
+      },
+      "height": 34708,
+      "width": 39125,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Titel"
+            ]
+          },
+          "value": {
+            "nl": [
+              "A13 - Amstelredamum emporium Hollandi\u00e6 primarium totiusque Europ\u00e6 celeberrimum"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/11245/3.39844\">https://hdl.handle.net/11245/3.39844</a>"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URI (Catalogus)"
+            ]
+          },
+          "value": {
+            "en": [
+              "<a href=\"https://pid.uba.uva.nl/ark:/88238/b19941298426805131\">https://pid.uba.uva.nl/ark:/88238/b19941298426805131</a>"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Origineel manifest"
+            ]
+          },
+          "value": {
+            "en": [
+              "<a href=\"https://amsterdamtimemachine.github.io/berckenrode-iiif/manifest.json\">https://amsterdamtimemachine.github.io/berckenrode-iiif/manifest.json</a>"
+            ]
+          }
+        }
+      ],
+      "navPlace": {
+        "type": "FeatureCollection",
+        "features": [
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Polygon",
+              "coordinates": [
+                [
+                  [
+                    4.894838597,
+                    52.356294824
+                  ],
+                  [
+                    4.92131574,
+                    52.373863023
+                  ],
+                  [
+                    4.888428283,
+                    52.391723587
+                  ],
+                  [
+                    4.862014207,
+                    52.374394156
+                  ],
+                  [
+                    4.894838597,
+                    52.356294824
+                  ]
+                ]
+              ]
+            }
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/pica-toegankelijke-kaartcollectie/manifest.json/A13/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/pica-toegankelijke-kaartcollectie/manifest.json/A13/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://amsterdamtimemachine.github.io/berckenrode-iiif/KZL_W_X_020/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 34708,
+                "width": 39125,
+                "service": [
+                  {
+                    "@id": "https://amsterdamtimemachine.github.io/berckenrode-iiif/KZL_W_X_020",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level0.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/berckenrode-iiif/manifest.json/canvas/0"
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "type": "AnnotationPage",
+          "@context": "http://www.w3.org/ns/anno.jsonld",
+          "items": [
+            {
+              "id": "https://annotations.allmaps.org/maps/435ccc0ea633df34",
+              "type": "Annotation",
+              "@context": [
+                "http://iiif.io/api/extension/georef/1/context.json",
+                "http://iiif.io/api/presentation/3/context.json"
+              ],
+              "created": "2025-02-07T17:01:16.555Z",
+              "modified": "2025-02-07T17:01:16.555Z",
+              "motivation": "georeferencing",
+              "target": {
+                "type": "SpecificResource",
+                "source": {
+                  "id": "https://amsterdamtimemachine.github.io/berckenrode-iiif/manifest.json/canvas/0",
+                  "type": "Canvas",
+                  "partOf": {
+                    "id": "https://amsterdamtimemachine.github.io/pica-toegankelijke-kaartcollectie/manifest.json",
+                    "type": "Manifest",
+                    "label": {
+                      "nl": [
+                        "Selectie kaarten voor het PICA-project 'Toegankelijke Kaartencollectie' van de Universiteit van Amsterdam"
+                      ]
+                    }
+                  }
+                },
+                "selector": {
+                  "type": "SvgSelector",
+                  "value": "<svg width=\"39125\" height=\"34708\"><polygon points=\"304,323 434,34337 38699,34200 38760,476\" /></svg>"
+                }
+              },
+              "body": {
+                "type": "FeatureCollection",
+                "transformation": {
+                  "type": "polynomial",
+                  "options": {
+                    "order": 1
+                  }
+                },
+                "features": [
+                  {
+                    "type": "Feature",
+                    "properties": {
+                      "resourceCoords": [
+                        14991,
+                        25926
+                      ]
+                    },
+                    "geometry": {
+                      "type": "Point",
+                      "coordinates": [
+                        4.9022758,
+                        52.3764597
+                      ]
+                    }
+                  },
+                  {
+                    "type": "Feature",
+                    "properties": {
+                      "resourceCoords": [
+                        10329,
+                        17829
+                      ]
+                    },
+                    "geometry": {
+                      "type": "Point",
+                      "coordinates": [
+                        4.8998006,
+                        52.3700836
+                      ]
+                    }
+                  },
+                  {
+                    "type": "Feature",
+                    "properties": {
+                      "resourceCoords": [
+                        24822,
+                        13815
+                      ]
+                    },
+                    "geometry": {
+                      "type": "Point",
+                      "coordinates": [
+                        4.8843352,
+                        52.374654
+                      ]
+                    }
+                  },
+                  {
+                    "type": "Feature",
+                    "properties": {
+                      "resourceCoords": [
+                        12895,
+                        21043
+                      ]
+                    },
+                    "geometry": {
+                      "type": "Point",
+                      "coordinates": [
+                        4.9003476,
+                        52.3729023
+                      ]
+                    }
+                  },
+                  {
+                    "type": "Feature",
+                    "properties": {
+                      "resourceCoords": [
+                        8856,
+                        23639
+                      ]
+                    },
+                    "geometry": {
+                      "type": "Point",
+                      "coordinates": [
+                        4.9057089,
+                        52.372078
+                      ]
+                    }
+                  },
+                  {
+                    "type": "Feature",
+                    "properties": {
+                      "resourceCoords": [
+                        11799,
+                        10749
+                      ]
+                    },
+                    "geometry": {
+                      "type": "Point",
+                      "coordinates": [
+                        4.8932084,
+                        52.3670802
+                      ]
+                    }
+                  },
+                  {
+                    "type": "Feature",
+                    "properties": {
+                      "resourceCoords": [
+                        19411,
+                        17823
+                      ]
+                    },
+                    "geometry": {
+                      "type": "Point",
+                      "coordinates": [
+                        4.8921623,
+                        52.3742289
+                      ]
+                    }
+                  },
+                  {
+                    "type": "Feature",
+                    "properties": {
+                      "resourceCoords": [
+                        15552,
+                        21685
+                      ]
+                    },
+                    "geometry": {
+                      "type": "Point",
+                      "coordinates": [
+                        4.8985009,
+                        52.3745019
+                      ]
+                    }
+                  }
+                ],
+                "_allmaps": {
+                  "id": "https://annotations.allmaps.org/maps/435ccc0ea633df34",
+                  "version": "https://annotations.allmaps.org/maps/435ccc0ea633df34@9716e5e0c5ef5861",
+                  "image": {
+                    "id": "https://annotations.allmaps.org/images/899328143b23dc0a",
+                    "version": "https://annotations.allmaps.org/images/899328143b23dc0a@ed26687e6d196185",
+                    "canvases": [
+                      {
+                        "id": "https://annotations.allmaps.org/canvases/d118eddacb6e2c2f",
+                        "manifests": [
+                          {
+                            "id": "https://annotations.allmaps.org/manifests/f068318457a7df6a"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  "scale": 12.785432,
+                  "area": 7947960.8
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40093/pages/1/canvas/",
       "type": "Canvas",
       "label": {

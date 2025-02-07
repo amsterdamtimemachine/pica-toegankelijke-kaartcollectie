@@ -2892,6 +2892,141 @@
       ]
     },
     {
+      "id": "https://amsterdamtimemachine.github.io/berckenrode-iiif/manifest.json/canvas/0",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "A13 - Amstelredamum emporium Hollandi\u00e6 primarium totiusque Europ\u00e6 celeberrimum"
+        ]
+      },
+      "height": 34708,
+      "width": 39125,
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Titel"
+            ]
+          },
+          "value": {
+            "nl": [
+              "A13 - Amstelredamum emporium Hollandi\u00e6 primarium totiusque Europ\u00e6 celeberrimum"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URI (Beeldbank)"
+            ]
+          },
+          "value": {
+            "nl": [
+              "<a href=\"https://hdl.handle.net/11245/3.39844\">https://hdl.handle.net/11245/3.39844</a>"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "URI (Catalogus)"
+            ]
+          },
+          "value": {
+            "en": [
+              "<a href=\"https://pid.uba.uva.nl/ark:/88238/b19941298426805131\">https://pid.uba.uva.nl/ark:/88238/b19941298426805131</a>"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Origineel manifest"
+            ]
+          },
+          "value": {
+            "en": [
+              "<a href=\"https://amsterdamtimemachine.github.io/berckenrode-iiif/manifest.json\">https://amsterdamtimemachine.github.io/berckenrode-iiif/manifest.json</a>"
+            ]
+          }
+        }
+      ],
+      "navPlace": {
+        "type": "FeatureCollection",
+        "features": [
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Polygon",
+              "coordinates": [
+                [
+                  [
+                    4.894838597,
+                    52.356294824
+                  ],
+                  [
+                    4.92131574,
+                    52.373863023
+                  ],
+                  [
+                    4.888428283,
+                    52.391723587
+                  ],
+                  [
+                    4.862014207,
+                    52.374394156
+                  ],
+                  [
+                    4.894838597,
+                    52.356294824
+                  ]
+                ]
+              ]
+            }
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/pica-toegankelijke-kaartcollectie/manifest.json/A13/p0/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://amsterdamtimemachine.github.io/pica-toegankelijke-kaartcollectie/manifest.json/A13/p0/page/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://amsterdamtimemachine.github.io/berckenrode-iiif/KZL_W_X_020/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 34708,
+                "width": 39125,
+                "service": [
+                  {
+                    "@id": "https://amsterdamtimemachine.github.io/berckenrode-iiif/KZL_W_X_020",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level0.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://amsterdamtimemachine.github.io/berckenrode-iiif/manifest.json/canvas/0"
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://amsterdamtimemachine.github.io/pica-toegankelijke-kaartcollectie/annotations/georeferencing/A13.json",
+          "label": {
+            "nl": [
+              "Georeferencing Annotations made with Allmaps"
+            ]
+          },
+          "type": "AnnotationPage"
+        }
+      ]
+    },
+    {
       "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40093/pages/1/canvas/",
       "type": "Canvas",
       "label": {

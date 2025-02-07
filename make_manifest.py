@@ -101,6 +101,9 @@ def get_georeferencing_annotations(
 
 def get_navplace_feature(iiif_service_info):
 
+    if iiif_service_info.endswith("/info.json"):
+        iiif_service_info = iiif_service_info.replace("/info.json", "")
+
     allmaps_image_id = hashlib.sha1(iiif_service_info.encode()).hexdigest()[:16]
 
     try:

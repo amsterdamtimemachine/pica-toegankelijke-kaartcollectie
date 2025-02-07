@@ -117,6 +117,15 @@
       "type": "Manifest"
     },
     {
+      "id": "https://amsterdamtimemachine.github.io/berckenrode-iiif/manifest.json",
+      "label": {
+        "nl": [
+          "A13 - Amstelredamum emporium Hollandiæ primarium totiusque Europæ celeberrimum"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
       "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40093/manifest/",
       "label": {
         "nl": [
