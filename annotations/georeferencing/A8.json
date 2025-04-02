@@ -10,8 +10,8 @@
         "http://iiif.io/api/extension/georef/1/context.json",
         "http://iiif.io/api/presentation/3/context.json"
       ],
-      "created": "2024-11-22T15:34:54.743Z",
-      "modified": "2024-11-22T15:34:54.743Z",
+      "created": "2025-02-27T14:59:09.267Z",
+      "modified": "2025-02-27T14:59:09.267Z",
       "motivation": "georeferencing",
       "target": {
         "type": "SpecificResource",
@@ -141,10 +141,10 @@
         ],
         "_allmaps": {
           "id": "https://annotations.allmaps.org/maps/fb81263d704ae1c6",
-          "version": "https://annotations.allmaps.org/maps/fb81263d704ae1c6@8a6bdbcc42bd3ba7",
+          "version": "https://annotations.allmaps.org/maps/fb81263d704ae1c6@7d69c27e97e31239",
           "image": {
             "id": "https://annotations.allmaps.org/images/019416efb27fec59",
-            "version": "https://annotations.allmaps.org/images/019416efb27fec59@7cbbc4b6cb642c16",
+            "version": "https://annotations.allmaps.org/images/019416efb27fec59@3a99c9391abb6c53",
             "canvases": [
               {
                 "id": "https://annotations.allmaps.org/canvases/e64ef45a90c0a401",
