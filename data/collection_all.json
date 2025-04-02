@@ -1,0 +1,5866 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://amsterdamtimemachine.github.io/pica-toegankelijke-kaartcollectie/data/collection_all.json",
+  "type": "Collection",
+  "label": {
+    "en": [
+      "Overview of maps"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1000/manifest/",
+      "label": {
+        "en": [
+          "Kaart van het eiland Curaçao : benevens een plan van de stad en haven /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1005/manifest/",
+      "label": {
+        "en": [
+          "Amsterdam in 1882 /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_101/manifest/",
+      "label": {
+        "en": [
+          "Gviana siue Amazonvm regio"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1012/manifest/",
+      "label": {
+        "en": [
+          "Nova XVII Provinciarum Germaniae Inferioris tabula, Leonis effigie /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1021/manifest/",
+      "label": {
+        "en": [
+          "Kaart van Amsterdam : met aanwijzing der negen kiesdistricten /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1025/manifest/",
+      "label": {
+        "en": [
+          "Tafel vande XVII Nederlandze provincien : vertonende der zelver verdeling, grootte van landen en steden : mids-gaders haar regering, zo politicq als kerk-lyk, en veel andere merkweerdige zaken, ten nutte vande historien en geographie"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1028/manifest/",
+      "label": {
+        "en": [
+          "Deliniantur in hac tabula orae maritimae Abexiae, freti Mecani al Maris Rubri ... /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1036/manifest/",
+      "label": {
+        "en": [
+          "Frisia Occidentalis /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1037/manifest/",
+      "label": {
+        "en": [
+          "Hollandiae comitatus."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1064/manifest/",
+      "label": {
+        "en": [
+          "Komische Karte des Kriegsschauplatzes."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1074/manifest/",
+      "label": {
+        "en": [
+          "Nova totius terrarum orbis geographica ac hydrographica tabula /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1078/manifest/",
+      "label": {
+        "en": [
+          "Plan der belegering van het kasteel van Antwerpen."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1082/manifest/",
+      "label": {
+        "en": [
+          "Nieuwe kaart van het graafschap Zeeland /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1083/manifest/",
+      "label": {
+        "en": [
+          "Nova totius terrarum orbis tabula."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1089/manifest/",
+      "label": {
+        "en": [
+          "De stat Dordrecht met de aenpalende landen als Out Dubbeldam, den Zuyt en Noortpolder, den Alloysen of Boven polder, den polder van Wieldrecht met de aenwassen. Als mede de Merwedegront Crayesteyn en vordere rivieren voorby de voornoemden stadt loopende"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1109/manifest/",
+      "label": {
+        "en": [
+          "Cart topographique de l'isle St. Martin /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1120/manifest/",
+      "label": {
+        "en": [
+          "Tabula Islandiae"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1123/manifest/",
+      "label": {
+        "en": [
+          "Hyberniae regni in provincias Ultoniam, Connacham, Lageniam, Momoniamq. divisi tabula accuratissima"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1135/manifest/",
+      "label": {
+        "en": [
+          "Regium Belgium /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1145/manifest/",
+      "label": {
+        "en": [
+          "Delfs Ziel."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_115/manifest/",
+      "label": {
+        "en": [
+          "[Kaart van het beleg van Geertruidenberg] /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1166/manifest/",
+      "label": {
+        "en": [
+          "Nieuwe kaart van 't Kwartier Nymegen /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1167/manifest/",
+      "label": {
+        "en": [
+          "Frisiae Dominium vernaculè Friesland, verdeeld in de Hoofd-deelen van Oostergoo, Westergoo en Sevenwolden. Als ook der XI steden zynde noch onderscheiden de XXX Grietenĳen"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_117/manifest/",
+      "label": {
+        "en": [
+          "Europa : pascaarte /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1176/manifest/",
+      "label": {
+        "en": [
+          "Flandria /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1177/manifest/",
+      "label": {
+        "en": [
+          "[Kaart van het eiland Marken en het nabijgelegen deel van de Noordhollandse kust, met ingetekend het ontwerp voor een dijk in de Gouwzee] /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1182/manifest/",
+      "label": {
+        "en": [
+          "Freti Magellanici ac novi Freti vulgo Le Maire exactissima delineatio"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1184/manifest/",
+      "label": {
+        "en": [
+          "Brabantiae Batavae pars occidentalis, sive Antverpiensis tetrarchiae pars septentrionalis : comprehendens Baroniam Bredanam, Marchionatum Bergensem ad Zomam ... /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1185/manifest/",
+      "label": {
+        "en": [
+          "Orbis terrae compendiosa descriptio /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1186/manifest/",
+      "label": {
+        "en": [
+          "Insulae Moluccae celeberrimae sunt ob maximam aromatum copiam quam per totum terrarum orbem mittunt: harum praecipuae sunt Ternate, Tidoris, Motir, Machian & Bachian, his quidam adjungunt Gilolum, Celebiam, Borneonem, Amboinum & Bandam ... /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1187/manifest/",
+      "label": {
+        "en": [
+          "Nova XVII provinciarvm discriptio /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_12/manifest/",
+      "label": {
+        "en": [
+          "[Paskaart van Sumatra, West-Java en Zuid-Malakka] /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1201/manifest/",
+      "label": {
+        "en": [
+          "Kaarte van Schouwen en Duiveland"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1203/manifest/",
+      "label": {
+        "en": [
+          "Novissima et accuratissima totius Americae descriptio /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1204/manifest/",
+      "label": {
+        "en": [
+          "Franekera"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1208/manifest/",
+      "label": {
+        "en": [
+          "Nieuwe en naauwkeurige kaart van de drie landen van Overmaaze, Valkenburg, Daalhem en 's Hertogenrade /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1212/manifest/",
+      "label": {
+        "en": [
+          "Platte grond van de stad Paramaribo : zoo verre als dezelve tot het jaar 1804 door het Gouvernement aldaar is opgestelt /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1215/manifest/",
+      "label": {
+        "en": [
+          "Carte particuliere des environs de Roermonde, Venlo, le marais de Peel, &c. /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1217/manifest/",
+      "label": {
+        "en": [
+          "Nova totius terrarum orbis tabula."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1218/manifest/",
+      "label": {
+        "en": [
+          "Tabula geographica indicans iter novum inter Mediolanum et Antverpiam /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1220/manifest/",
+      "label": {
+        "en": [
+          "Humoristische-oorlogskaart."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1225/manifest/",
+      "label": {
+        "en": [
+          "Texel, en Flie Stroom /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1226/manifest/",
+      "label": {
+        "en": [
+          "Germaniae Inferioris omnium accuratissima delineatio /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1230/manifest/",
+      "label": {
+        "en": [
+          "Kaart van het vaarwater van Sourabaya tot Oedjong Pangka /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1240/manifest/",
+      "label": {
+        "en": [
+          "Nova tabula insularum Iavae, Sumatrae, Borneonis et aliarum Malaccam usque /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1244/manifest/",
+      "label": {
+        "en": [
+          "Europa."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1246/manifest/",
+      "label": {
+        "en": [
+          "Kaart van Amsterdam en omstreken /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1250/manifest/",
+      "label": {
+        "en": [
+          "XVII Provinciarum Inferioris Germaniae nec non totius tractus Rheni ultra Francofurtum ... Nova et accurata descriptio /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1259/manifest/",
+      "label": {
+        "en": [
+          "Plan van Straatsburg, hooftstadt van der Elsas ... den 30 September 1680, door den Koning van Vrankryk vermeestert ... als meede het fort Kehl ... den Keyser toebehoorende /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1263/manifest/",
+      "label": {
+        "en": [
+          "Caerte van Waterland vertonende de gelegentheyt der Meer en onlangs bedyckt als Buyckslooter Broecker en Belmer meer met de naest gelegen steden."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1284/manifest/",
+      "label": {
+        "en": [
+          "Belgii Inferioris descriptio emendata cum circumiacentium regionum confinijs."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1293/manifest/",
+      "label": {
+        "en": [
+          "Meridionalis Americae pars in quinque regiones ab Hispanis dividitur, quae sunt Castella aurea, ut vocant: Popaianum, Peruvia, Chila & Brasilia ... /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1299/manifest/",
+      "label": {
+        "en": [
+          "Pas caart van de Zuyder-Zee Texel, ende Vlie-stroom, als mede 't Amelander gat."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1300/manifest/",
+      "label": {
+        "en": [
+          "Wijsgeerige en staatkundige waereldkaart, waar op de reizen van Cook en La Perouse geteekend zijn /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1302/manifest/",
+      "label": {
+        "en": [
+          "Plan van Amsterdam met aanduiding der omnibus lijnen /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1303/manifest/",
+      "label": {
+        "en": [
+          "Nieuwe kaart van het Oostelijk Dok voor de stad Amsterdam met de daarbij behoorende grachten, enz., aangelegd in de jaren 1829, 1830 en 1831 /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1304/manifest/",
+      "label": {
+        "en": [
+          "Aria Atoll."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1309/manifest/",
+      "label": {
+        "en": [
+          "Nieuwe aftekening tot droogmakinge van de uytgeveende landen geleegen in Rynland Amstelland & Utrecht als Nieukoop, Sevenhoven, Nieuveen, Schoot de Graaflykheyt, Korteraar, Aarlanderveen en d' Proosdy /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_132/manifest/",
+      "label": {
+        "en": [
+          "Frisia occidentalis typus."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1326/manifest/",
+      "label": {
+        "en": [
+          "Wassende graade paskaart, vertonende alle de zeekusten van Europa, de geheele Middelandsche Zee, als oock ten Noordwesten, en Noordoosten soo veer als ons tot noch toe bekent is /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1330/manifest/",
+      "label": {
+        "en": [
+          "Tabvla Bergarum ad Zomam Stenbergæ et novorum ibi operum /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1331/manifest/",
+      "label": {
+        "en": [
+          "Afbeeldingh vande Zype /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1335/manifest/",
+      "label": {
+        "en": [
+          "To the citizens of Philadelphia this plan of the city and its environs is respectfully dedicated by the editor /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1338/manifest/",
+      "label": {
+        "en": [
+          "Carte particuliere d'une partie du Brabant Hollandois, du Gueldre et de Cleves ou les environs de Grave, Ravestein, Helmont, Nimégue, Fort de Schenk, Cleves, Gennip, Emmerick &c."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1348/manifest/",
+      "label": {
+        "en": [
+          "Plan der gronden aan de Zuid zijde van de gemeente Amsterdam /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_135/manifest/",
+      "label": {
+        "en": [
+          "Afbeeldingh van 't oost-ent van Vlielant alsmede van 't westent van der Schelling [Terschelling] ende de wijte van 't Vlie /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1370/manifest/",
+      "label": {
+        "en": [
+          "Tabula Frisiae, Groninghae, et territory Embdensis nec non circumjacentium regionum puta Transisalaniae, Benthemiae, Westphaliae, et Oldenburgi /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1371/manifest/",
+      "label": {
+        "en": [
+          "Typus orbis terrarum /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1380/manifest/",
+      "label": {
+        "en": [
+          "Totius Europae littora novissimè edita = Pascaert vertoonende alle de see-custen van Europa."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1394/manifest/",
+      "label": {
+        "en": [
+          "Middelburgum Selandiae opp. situ opere et mercimonijs florentiss."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1413/manifest/",
+      "label": {
+        "en": [
+          "Groot toneel des tegenwoordigen oorlogs in verscheiden gewesten van Duitschland, Frankryk en de Nederlanden : bĳzonder langs de rivieren Rhyn, Moesel en Saar, - Maas en Sambre, - Schelde, Scarpe, Deule, Lĳe enz. vertoonende deeze landkaart teffens onze geheele Republiek in haare water-sterkte en zoo voordeelige ligging voor de commercie en navigatie door middel van alle die bevaarbaare rivieren, welke er in of naast aan uitwateren; alle welke rivieren, met de daar langs gelegene koop-steden en commercieerende landen op deeze kaart aangeweezen en in een bĳgevoegd hand-boek tot gerieflĳk en leerzaam gebruik nader beschreven zijn"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1414/manifest/",
+      "label": {
+        "en": [
+          "'t Ontzet van Leyden."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1420/manifest/",
+      "label": {
+        "en": [
+          "Nieuwe volledige platte grond van Amsterdam, benevens de ontworpen grachten, straten enz."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1423/manifest/",
+      "label": {
+        "en": [
+          "Frisia occidentalis."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1428/manifest/",
+      "label": {
+        "en": [
+          "Rhenoberca obsessa et capta armis ordinum Belgicae Foederatae ductu ill.mi principis Mauritii Nassovii Arausionensium principis, Nassaviae comitis, etc. Anno 1601."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1440/manifest/",
+      "label": {
+        "en": [
+          "Plan and section for the lower locks at the Great Falls of Potomak."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_145/manifest/",
+      "label": {
+        "en": [
+          "Hannonia."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1467/manifest/",
+      "label": {
+        "en": [
+          "Aria Atoll : A° 1728 t' Middelburg bij Abrm. Anias."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1468/manifest/",
+      "label": {
+        "en": [
+          "Omnibus kaart, of Nieuwe platte grond der stad Amsterdam : waarop alle de omnibus liniën zijn aangetekend = Carte des omnibus, ou Nouveau plan de la ville d'Amsterdam."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1478/manifest/",
+      "label": {
+        "en": [
+          "Dvcatvs Vplandia"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1480/manifest/",
+      "label": {
+        "en": [
+          "Tabula nova provinciae Ultrajectinae /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1487/manifest/",
+      "label": {
+        "en": [
+          "Evropa exactissime descripta /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1498/manifest/",
+      "label": {
+        "en": [
+          "Wassende-graade paskaart, vertoonende nevens het Oostelyckste van Africa, meede de zeekusten van Asia, van de C. de Bona Esperanca tot Eso, boven Iapan."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1501/manifest/",
+      "label": {
+        "en": [
+          "De stad haven en mouillie van Algiers neven desselfs kasteelen."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1516/manifest/",
+      "label": {
+        "en": [
+          "Exacta Hollandiae tabula /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1519/manifest/",
+      "label": {
+        "en": [
+          "Caarte ofte afteeckening van de rivier de Merwede van Gorichem af benedenwaarts etc."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1525/manifest/",
+      "label": {
+        "en": [
+          "Gorc[h]um : anno 1600 /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_153/manifest/",
+      "label": {
+        "en": [
+          "Nova ac verissima urbis St. Petersburg ab imperatore Russico Petro Alexii f. conditae, item fl. Nevae fossae iussu imp. Russ. factae ac regionis circumiacentis delineatio /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1540/manifest/",
+      "label": {
+        "en": [
+          "Comitatis Zelandiae nova descriptio : Anno 1636 /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1568/manifest/",
+      "label": {
+        "en": [
+          "Nova totius terrarum orbis geographica ac hydrographica tabula /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1572/manifest/",
+      "label": {
+        "en": [
+          "Amsterdam, met aanwijzing der grachten, verdeeld volgens de 50 buurten met vermelding van derzelven bevolking en de sterfte aan mazelen in 1855 /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1579/manifest/",
+      "label": {
+        "en": [
+          "Gids voor wielrijders door Amsterdam : met graphische aanduiding der betreffende verordening ... overeenkomstig de bij de politie berustende kennisgevingen omtrent het inrijden van straten en stegen /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1582/manifest/",
+      "label": {
+        "en": [
+          "Plan de l'entreprise et de l'attacque de l'armée Francoise commandée par le mar.l De Villars sur le camp retranchée a Denain commandée par mylord Albemarle le 24 Juillet 1712 /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1584/manifest/",
+      "label": {
+        "en": [
+          "Pascaert van 't eylandt Ceylon, voordesen Taprobana; bij de inwoonders genaemt Lankaun."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1594/manifest/",
+      "label": {
+        "en": [
+          "West-Indische paskaert waer in de graden der breedde over wederzijden vande middellijn wassende so vergrooten dat die geproportioneert sijn tegen hunne nevenstaende graden der lengde : vertonende (behalven Europaes zuydelijckste) alle de zeekusten van Africa en America, begrepen in 't Octroy bij de H.M.H. Staten Generael der vereenichde Nederl. verleent aende Generale West Indische Compagnie : mitsgaders die van Peru en Chili inde groote Zuyd-Zee."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1611/manifest/",
+      "label": {
+        "en": [
+          "Novam hanc territorii Francofvrtensis tabulam"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1617/manifest/",
+      "label": {
+        "en": [
+          "Terra Sancta quae in Sacris Terra Promissionis olim Palestina"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1619/manifest/",
+      "label": {
+        "en": [
+          "Edamvm vulgo Edam : Ampliss. Prudentiss. D.D. praetori, consulibus, scabinis, et senatui urbis Edamensis tabulam hanc d.d.d. J. Blaeu"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_162/manifest/",
+      "label": {
+        "en": [
+          "Nouveau plan de la ville et de la forteresse de St. Petersbourg /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1620/manifest/",
+      "label": {
+        "en": [
+          "Les XVII provinces du Païs-Bas avec les terres contiguës : Carte la plus recente, la plus ample, et la plus exacte qui ait encore paru; on y trouve distinctement les villes, les villages, les châteaux, les forteresses, les abbaïes, cloîtres, couvents, etc. ... /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1623/manifest/",
+      "label": {
+        "en": [
+          "Amstelodamum celebre emporium forma plana."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1625/manifest/",
+      "label": {
+        "en": [
+          "Lvtzenbvrg dvcatvs"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1632/manifest/",
+      "label": {
+        "en": [
+          "Caerte vande Vereenichde Nederlanden : mitsgaders de Landen daer aen grensende, als Vlaenderen, Braba[n]t, Limburg, Gulick, Cleef en Berchs-lant, idem een gedeelte van 't Bisdom Collen Westphalen, en Embderlant, uijtgegeven A° 1633."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1661/manifest/",
+      "label": {
+        "en": [
+          "Flandria /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1671/manifest/",
+      "label": {
+        "en": [
+          "tHooge heemraedschap van Delflant /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1676/manifest/",
+      "label": {
+        "en": [
+          "Amsteldam ten tweede mael vergroot is eerst met steene mueren omvangen inden jaere 1482 /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1680/manifest/",
+      "label": {
+        "en": [
+          "Hollandia quae olim Cattorum sedes fuit nulli regioni fertilitate cedit divitijs abundat... /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1683/manifest/",
+      "label": {
+        "en": [
+          "Carta noua accurata del passagio et strada dalli Paesi Bassi per via de Allemagna per Italia et per via di Paesi Suizeri à Geneua, Lione et Roma per seruizio delli marchanti et viagianti in generale ad instanza delli Ss. Scherer et di Momforti speditori delli marchantie in Bregens /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1691/manifest/",
+      "label": {
+        "en": [
+          "Caerte van Noorthollant : beghinende van Noortendt, Zuijtwarts up tot om Leijden toe; voorts streckende Oostwaerts tot om Utrecht weder Noortwarts up in de Zuider Zee met alle sijn steden, dorpen, dijcken, weghen, wateren en vaerten, daer inne begrepen elcx na sijne rechte gheleghentheit."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1695/manifest/",
+      "label": {
+        "en": [
+          "Nova orbis terrarum delineatio singulari ratione accommodata meridiano tabb. Rudolphi astronomicarum"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1703/manifest/",
+      "label": {
+        "en": [
+          "Hollandiae Batavor[um] veteris insulae et locorum adiacentium exacta descriptio /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1705/manifest/",
+      "label": {
+        "en": [
+          "Kaart van geheel Guajana of de Wilden-kust, en die der Spaansche Westindiën, op het Noord-end van Zuid Amerika"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1717/manifest/",
+      "label": {
+        "en": [
+          "[Paskaart van de rede van Bantam en Batavia]."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1722/manifest/",
+      "label": {
+        "en": [
+          "Picardiae Belgicae regionis descriptio"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1730/manifest/",
+      "label": {
+        "en": [
+          "Caletensium et Bononiensium ditionis accurata delineatio / Veromanduorum eorumque confinium exactissima descript. / Iohanne Surhonio auctore."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1735/manifest/",
+      "label": {
+        "en": [
+          "Amsteldam ten vierde mael vergroot is versterckt met Aerde wallen en Bolwercken inden jaere 1585 /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_174/manifest/",
+      "label": {
+        "en": [
+          "Fezzae et Marocchi regna Africae celeberrima,"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1750/manifest/",
+      "label": {
+        "en": [
+          "Kaart van het Haarlemmerhout naar den laatsten aanleg van den architect J.D. Zocher /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1753/manifest/",
+      "label": {
+        "en": [
+          "Evropa"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1767/manifest/",
+      "label": {
+        "en": [
+          "Xantvng, Sinarvm Imperii provincia qvarta"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1768/manifest/",
+      "label": {
+        "en": [
+          "Algemeene kaart van het Groot Amsterdamsch Kanaal door Noord Holland : voor de koopvaardijvaart en s' Konings Marine tusschen het Y en de reede van Texel, ondernomen in 1819 en voltooid in 1825 /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1774/manifest/",
+      "label": {
+        "en": [
+          "[Paskaart van de kust van Atlantische Oceaan]."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1775/manifest/",
+      "label": {
+        "en": [
+          "Portugalliae et Algarbiae Regna"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1782/manifest/",
+      "label": {
+        "en": [
+          "Delflandia, Schielandia, et insulae trans Mosam illis objacentes ut sunt Voorna, Overflackea, Goerea, Yselmonda, etc. /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1784/manifest/",
+      "label": {
+        "en": [
+          "Americae sive novi orbis, nova descriptio"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1795/manifest/",
+      "label": {
+        "en": [
+          "Texel, en Vlie Stroom /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1797/manifest/",
+      "label": {
+        "en": [
+          "Die generale pascaerte vanden vermaerden Adriaen Gerritsen van Haerlem stierman ende een leermeester aller stierluijden : seer gebetert omt verloopen der sanden ende gaten : ende dit mitsgaders alle sijn werck int licht gebracht van sijne weduwe met hulpe van zeer eerbare luijden /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1805/manifest/",
+      "label": {
+        "en": [
+          "Tabula Gaeographica amplissimae ditionis Westphaliae conterminarumque provinciarum : delineata eo, quo Admirandus Arragoniae potentissimi Hispaniarum Regis archistrategus , eam occupaverat, tempore : continenturque haec tabella ducatus Cliviae ... /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1813/manifest/",
+      "label": {
+        "en": [
+          "Drentia comitatvs. Transiselaniæ tabula II. /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1818/manifest/",
+      "label": {
+        "en": [
+          "Nieuwe perfecte caert van 't Coningrijk Poortugael en Algarve met de naburige grenzen /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_184/manifest/",
+      "label": {
+        "en": [
+          "Chaerte vande Wieringer waert : de welcke inden jaere xvi c acht begost is bedyckt te worden ... dat de landen daer inne bedyckt ter nombre van 1895 morgens van 720 roeden de morgen Geestmeerambachts landtmaete of 600 roen binnenbanse ofte Sypse dyckmaete : by alle Contribuanten en gewillighe Bedyckers op den xij.de Julii Ao. xvj c xi by blinde lotinge gekavelt ende gedeelt zyn"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1865/manifest/",
+      "label": {
+        "en": [
+          "Das heutige Europa."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1878/manifest/",
+      "label": {
+        "en": [
+          "Hemispheriu[m] ab aequinoctiali linea, ad circulu[m] Poli Arctici : hemispheriu[m] ab aequinoctiali linea, ad circulu[m] Poli A[n]tarctici."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1881/manifest/",
+      "label": {
+        "en": [
+          "Het Watergraafs of Diemer-Meer."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1884/manifest/",
+      "label": {
+        "en": [
+          "Nova tabula India Orientalis /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1888/manifest/",
+      "label": {
+        "en": [
+          "Comitatus Hollandiae denuo forma Leonis"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1889/manifest/",
+      "label": {
+        "en": [
+          "Platte grond van het St. Pieters Gasthuis : benevens alle de daaraan behoorende huizen en tuinen /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1894/manifest/",
+      "label": {
+        "en": [
+          "Tabula Ducatus Brabantiae : continens Marchionatum sacri Imperij et Dominium Mechliniense /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1898/manifest/",
+      "label": {
+        "en": [
+          "'t Graefschap Holland /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1902/manifest/",
+      "label": {
+        "en": [
+          "Lugdunum Batavorum = Leyden in Hollant."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1905/manifest/",
+      "label": {
+        "en": [
+          "Hollandiae Cattorum regionis typus."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1908/manifest/",
+      "label": {
+        "en": [
+          "Afbeeldinge van de Maes van de stadt Rotterdam tot in zee, met de aengelege steden, plaetsen, sanden, drooghten en goersen, soo als die tegenwoordigh bevaren wert /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_191/manifest/",
+      "label": {
+        "en": [
+          "Haerlem /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1927/manifest/",
+      "label": {
+        "en": [
+          "Gvinea"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1938/manifest/",
+      "label": {
+        "en": [
+          "Beemsterlants caerte met zĳne dycken, ringslooten, wegen, wateringen, polders, poldercaden, molens en molentochten : item omleggende plaetsen, landen en andere eygenschappen, soo als de selve tegenwoordich gheleghen is : droochgemalen met XL molens : gecavelt ende den bedyckers en eygenaars toegeeygendt inden Iare M.DC.XII op den 30 Iulĳ"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1955/manifest/",
+      "label": {
+        "en": [
+          "Amsterdam."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1969/manifest/",
+      "label": {
+        "en": [
+          "'T Hooghe Heymraedtschap vanden Lande van Woerden."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_197/manifest/",
+      "label": {
+        "en": [
+          "Totius orbis cogniti universalis descriptio : cui etiam eandem orbis terrae delineationem, duorum circulorum capitate, huius descriptinonis mundi longitudinem documento admirantibus, adiecimus, A° M.D.L.xxxix /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1975/manifest/",
+      "label": {
+        "en": [
+          "Nova Galliae descriptio multis in locis de integro emendata, simulque effigies Principum, praecipuas Gallorum urbes ac habitus exhibens /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1977/manifest/",
+      "label": {
+        "en": [
+          "Pascaarte van alle de zè-custen van Europa /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2001/manifest/",
+      "label": {
+        "en": [
+          "Nova et accurata comitatus Zelandiae tabula /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2005/manifest/",
+      "label": {
+        "en": [
+          "Africa."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2006/manifest/",
+      "label": {
+        "en": [
+          "Daniae regni typus"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2007/manifest/",
+      "label": {
+        "en": [
+          "Zvtphania comitatvs."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2015/manifest/",
+      "label": {
+        "en": [
+          "Effigies ampli Regni auriferi Guineae in Africa siti : extensum inde ab insulis Atlanticis, vulgo dictis, de Cabo Verde: ad flumen Benin usqe, ad cujus ripam sita est Regia urbs et magna Benin, atque inde ad promontorium Lopi Gonsalvi, delineata per S. Rovelascum, et politioribus lineamentis figurata per Ludovicum Texeram, protocosmographum Regis Hispaniarum, eodem anno editus est liber, amplam harum regionum descriptionem continens, per P.D.M. /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_202/manifest/",
+      "label": {
+        "en": [
+          "Nieuwe Perfecte Caert Vertoonende de Zee kust van Oost vrieslant af tot Havre de Grace in Vranckryck : voors de XVII Nederlantse Provincie, met een groot Gedeelte van Vranckryck tot Boven Paris, Mede heel Munsterlant en een gedeelte van Duytslant tot Franckfurt ..."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2027/manifest/",
+      "label": {
+        "en": [
+          "Dvcatvs Limbvrgvm /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_204/manifest/",
+      "label": {
+        "en": [
+          "Kaart der landeryen, gelegen aan of onder de rooyinge der Honderd Gaarden, ten westen van de Kostverlooren Vaart; van welken de gestreepten voor 't Geregt van Slooten, en de gestipten voor 't Geregt van Amsterdam moeten worden opgedraagen, in gevolge der overeenkomst van den jaare 1669 /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2049/manifest/",
+      "label": {
+        "en": [
+          "De Wormer."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2068/manifest/",
+      "label": {
+        "en": [
+          "Belgium sive Inferior Germania post omnes in hac forma exactissime descripta /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2069/manifest/",
+      "label": {
+        "en": [
+          "Tvrcici Imperii descriptio"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_207/manifest/",
+      "label": {
+        "en": [
+          "Kaerte van T Landt van Waes en Hulster Ambacht : mitgaders een gedeelte van Zelandt, waer in mede vertoont wert, het verdeelen vande Rivieren t'Scheldt ende de Honte, met haer ondiepten, Schorren,Polders, Schansen,Redouten, ende Dycken /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2077/manifest/",
+      "label": {
+        "en": [
+          "Wachtendonck /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2081/manifest/",
+      "label": {
+        "en": [
+          "Paskaarte van de, Zuyder Zee, met alle des zelfs inkomende gaaten: sooals die op 't zeekerts konnen bezeyld worden: naa haare correkte course, opdoeningen, droogten en diepten. A° 1771."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2082/manifest/",
+      "label": {
+        "en": [
+          "Comitatus Hannoniae et Archiepiscopatus Cameracensis tabula"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2091/manifest/",
+      "label": {
+        "en": [
+          "[Fragment van een kaart der XVII Verenigde Nederlanden, waarop Henegouwen, het westelijk deel der provincie Namen en het oostelijk deel van het huidige Franse Département du Nord]."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2103/manifest/",
+      "label": {
+        "en": [
+          "Humoristische Karte von Europa im Jahre 1870"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2104/manifest/",
+      "label": {
+        "en": [
+          "Nova et denuo correcta Germaniae tabula, comprehendens X circulos, Regnum Bohemiae, ac universum Helvetiam; cum coeteris regionibus in annexis"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2108/manifest/",
+      "label": {
+        "en": [
+          "Belgii veteris typvs"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2109/manifest/",
+      "label": {
+        "en": [
+          "Kennemaria et Westfrisia vulgo et vernaculé Noord-Holland tam in minores quam praecipuas ditiones peraccuraté distincta et edita /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2112/manifest/",
+      "label": {
+        "en": [
+          "Frisiae Dominium vernacule Friesland : verdeeld in de Hoofd-deelen van Oostergoo, Westergoo en Sevenwolden : als ook de 11 Steden zynde noch onderschyden in XXX Grieteneyn /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2113/manifest/",
+      "label": {
+        "en": [
+          "Tabula Aphfricae nova /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2114/manifest/",
+      "label": {
+        "en": [
+          "Agri Zypani nova descript[io]."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2126/manifest/",
+      "label": {
+        "en": [
+          "Caerte van de Wormer met haere weegen wateringen en waeter-molens : bestaende in 119 cavelingen elck groot sĳnde 15 morgen van 600 Rĳnlantse roeden."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2129/manifest/",
+      "label": {
+        "en": [
+          "Kaart der landeryen, gelegen aan of onder de honderd gaarden, zo in de Buitenvelder- als Stads-polder; van welken de gestreepten, voor 't geregt van Nieuwer-Amstel of Amsterveen, en de gestipten, voor 't geregt van Amsterdam, moeten opgedraagen worden, in gevolge der overeenkomst van den jaare 1669 /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2138/manifest/",
+      "label": {
+        "en": [
+          "Wegwijzer op de Tentoonstelling Amsterdam : extra gids = Guide unique de l'Exposition 1883."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2140/manifest/",
+      "label": {
+        "en": [
+          "Kaart van het eiland Walcheren"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2159/manifest/",
+      "label": {
+        "en": [
+          "Wieringer-waert /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_217/manifest/",
+      "label": {
+        "en": [
+          "Fezzae et Marocchi regna Africae celeberrima,"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2171/manifest/",
+      "label": {
+        "en": [
+          "Nieuwe kaart der stad Amsterdam : waarop zijn gebragt alle de voorgevallen veranderingen : benevens de uitgevoerd wordende kapitale werken van afsluiting der haven door een dijk met sluizen voorzien /... uit echte stukken zamengesteld ; gegraveerd door Dl. Veelwaard Junior."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2181/manifest/",
+      "label": {
+        "en": [
+          "Florentissimi Trajectini principatus typus antehac nunq visus in quo urbis oppidorum pagorum castrorum provinciae atq praecipuoru nobilium monasteriorum fluviorum aquaeductuum principalumq, viaru, necnon finitimoru locorum situs accurate delineatus est /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2184/manifest/",
+      "label": {
+        "en": [
+          "Kaart aanwijzende de verspreiding der cholera en het aantal sterfgevallen aan deze ziekte in elk der 50 buurten van Amsterdam  [1 Juni-18 October 1866] /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2196/manifest/",
+      "label": {
+        "en": [
+          "Haec tabella hydrographicé oras maritimas Africae a promontorio dicto Capo de Cantin, Angolam usque, ob oculos ponit, cum situ insularum Hesperidum, vel Promontorij viridis, vulgó Del Cabo Verdo. ... /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2206/manifest/",
+      "label": {
+        "en": [
+          "Pascaerte van Brazil en Nieu Nederlandt, van Corvo en Flores tot de Barbados"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2211/manifest/",
+      "label": {
+        "en": [
+          "Africae nova tabula"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2231/manifest/",
+      "label": {
+        "en": [
+          "[Kaart van de Bommelerwaard met het beleg van Zaltbommel door Mendoza]."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2240/manifest/",
+      "label": {
+        "en": [
+          "Schetskaart van Midden Sumatra : behoorende bij een verslag eener reis van Padang naar Djambi en Palembang /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2260/manifest/",
+      "label": {
+        "en": [
+          "Amsterdam uitgelegen aan de IJ-zijde /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2261/manifest/",
+      "label": {
+        "en": [
+          "Alpinae seu Foederatae Rhaetiae subditarumque ei terrarum nova descriptio /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_227/manifest/",
+      "label": {
+        "en": [
+          "Angling in troubled waters : a serio-comic map of Europe /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2272/manifest/",
+      "label": {
+        "en": [
+          "Humoristische Karte von Europa"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2273/manifest/",
+      "label": {
+        "en": [
+          "Territorii Bergensis accuratissima descriptio /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2282/manifest/",
+      "label": {
+        "en": [
+          "Kaarte van eenige landeryen, tuinen, lakenramen enz., gelegen in de Buitenveldersche stads polders, toebehoorende het St. Pieters Gasthuis in Amsterdam : zynde alles gemeten en getekend door den ondergetekenden landmeter by den Hove van Holland geadmitteerd, behalven de kampen N. O. A. B. C. D en E rondom het Pesthuis, benevens de platte grond van 't zelve huis, dewelke uit een oude kaart, gemaakt den 20 July 1676 door Cornelis Koel, overgenomen zyn /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_229/manifest/",
+      "label": {
+        "en": [
+          "Freti Magellanici ac novi Freti vulgó Le Maire exactissima delineatio /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2290/manifest/",
+      "label": {
+        "en": [
+          "Regni Angliae nova tabula, exhibens principatum Walliae & aliarum provinciarum, civitatum, oppidorum, una cum itineribus ab uno in aliam civitatem."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2298/manifest/",
+      "label": {
+        "en": [
+          "Barbaria"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2300/manifest/",
+      "label": {
+        "en": [
+          "Seer net gemeete kaarte van de respective polders Mase en Achterdyken, met der selver sluysen, wateringen, weg slooten, stegen en wegen, in den quartiere van Maasland, gelegen aan de rivier de Mase, en in de Mayerye van 's Hertogenbossche, sig uytstreckende van de gemelte stad, langs de Dieskant, tot aan de stad Ravensteyn."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2301/manifest/",
+      "label": {
+        "en": [
+          "Platte grond van Amsterdam in 1875 : benevens nieuw ontworpen straten enz. /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2303/manifest/",
+      "label": {
+        "en": [
+          "Dominio Veneto nell' Italia"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2312/manifest/",
+      "label": {
+        "en": [
+          "Tractus Rheni et Mosae totusque Vahalis à Rhenoberca Gorcomium usque cum terris adjacentibus ducatus Cliviae regno Noviomagensi et Bommelerwaert parte insuper veteris Bataviae quae continet de Betouwe Tielerwaert et com. Buyren, Cuylenborch et Leerdam"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2316/manifest/",
+      "label": {
+        "en": [
+          "Geographica Artesiae comitatus tabula"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2328/manifest/",
+      "label": {
+        "en": [
+          "Belgii sive Germaniae Inferioris accuratissima tabula /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_233/manifest/",
+      "label": {
+        "en": [
+          "[Kaart van Alkmaar]"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2340/manifest/",
+      "label": {
+        "en": [
+          "Xansi, Imperii Sinarvm provincia secvnda"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2345/manifest/",
+      "label": {
+        "en": [
+          "Pascaarte van alle de zee-custen van Europa /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2346/manifest/",
+      "label": {
+        "en": [
+          "'T Hoogh-Heemraetschap van de Uytwaterende Sluysen in Kennemerlant ende West-Frieslant"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2349/manifest/",
+      "label": {
+        "en": [
+          "Gelriae, Cliviae, Iuliae, nec non aliarum regionum adiacentium nova descriptio /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2350/manifest/",
+      "label": {
+        "en": [
+          "Pascaarte van de Oostzyde van Brasi[lien] /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2359/manifest/",
+      "label": {
+        "en": [
+          "Typvs orbis terrarvm"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_236/manifest/",
+      "label": {
+        "en": [
+          "Corectissima nec non novissima dominii et provinciae Groningae et Omlandiae tabula"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2361/manifest/",
+      "label": {
+        "en": [
+          "Carte particuliere de la partie orientale du Flandre Hollandois, le Païs de Waas et le Marquisat du St. Empire ou les environs d'Anvers, Gand, Hulst &c"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2362/manifest/",
+      "label": {
+        "en": [
+          "Pas caart van de custen van Hispania : Andaluzia, Portugal, Gallissien, Biscajen, en een gedeelt van Vranckryck, beginnende van Heysant tot aan Larache."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2365/manifest/",
+      "label": {
+        "en": [
+          "Topograhia Enchusae /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2371/manifest/",
+      "label": {
+        "en": [
+          "Geographia sacra"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2377/manifest/",
+      "label": {
+        "en": [
+          "Generale kaart van het Koningrijk der Nederlanden, verdeeld in zeventien provinciën met het groot hertogdom Luxemburg met aanwijzing der jongste begrenzingen, als ook de post-routes, kanalen, enz. = Carte générale du Royaume des Pays Bas ... /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_238/manifest/",
+      "label": {
+        "en": [
+          "Harlingen."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2383/manifest/",
+      "label": {
+        "en": [
+          "Gouda."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2388/manifest/",
+      "label": {
+        "en": [
+          "Tvrcicvm Imperivm"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_24/manifest/",
+      "label": {
+        "en": [
+          "Topographical chart of the Island Saint Eustatius /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2404/manifest/",
+      "label": {
+        "en": [
+          "America noviter delineata"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2413/manifest/",
+      "label": {
+        "en": [
+          "Caarte ende afbeeldinge der heerlykheyd van Abbenbroek 1701"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2420/manifest/",
+      "label": {
+        "en": [
+          "Plan de la ville de Paris représentant les nouvelles voitures publiques a 30 cent. la course et donnant leurs stationnemens et l'itinéraire des lignes qu'elles parcourent : augmenté du tarif des voitures de place, à la course ou à l'heure, de jour et de nuit /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2423/manifest/",
+      "label": {
+        "en": [
+          "Nieuwe beschrijvinghe der Graefschap Hollandt met de landen daer an grensen /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_243/manifest/",
+      "label": {
+        "en": [
+          "Regnorvm Hispaniae nova descriptio"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2434/manifest/",
+      "label": {
+        "en": [
+          "Geldria dvcatvs, et Zvtfania comitatvs."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2436/manifest/",
+      "label": {
+        "en": [
+          "Comitatus Hollandiae tabula /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2443/manifest/",
+      "label": {
+        "en": [
+          "Pas-Caart van de Middelandsche Zee : vertoonende in twee deelen"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2445/manifest/",
+      "label": {
+        "en": [
+          "Caerte van de Schermeer bedyckt ende by cavels van 15 morgen suyver lant, door lotinge uytgedeelt den 25 October anno 1635"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2446/manifest/",
+      "label": {
+        "en": [
+          "Chekiang, Imperii Sinarvm provincia decima"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2448/manifest/",
+      "label": {
+        "en": [
+          "Illustrissimo celsissimoque principi Guilielmo Henrico D.G. Arausionum principi... hanc Comitatus Meursensis et annexarum dinastiarum accuratam tabulam /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2451/manifest/",
+      "label": {
+        "en": [
+          "Haerlema."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_246/manifest/",
+      "label": {
+        "en": [
+          "Traiecti ad Rhenum delineatio ichnographica et scenographica /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2484/manifest/",
+      "label": {
+        "en": [
+          "Königreich Griechenland /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2492/manifest/",
+      "label": {
+        "en": [
+          "Nieuwe platte grond van Bergen op Zoom : met de forten op de linie derselver belegeringe en attaque der Franse, zedert den 16. July 1747 : na de origineele aftekening op de plaats, door een voornaam Hollands officier in 't ligt gegeven = Nouveau plan de la ville de Berge sur le Zoom : avec le[!] forts sur la ligne assiegée par le François le 16. Juillet 1747 : sur le dessein fait sur la place, par un Officier Hollandois pendant le Siége."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2514/manifest/",
+      "label": {
+        "en": [
+          "Amsteldam /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_253/manifest/",
+      "label": {
+        "en": [
+          "Nieuwe kaart van Mynden en de Loosdrecht"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2543/manifest/",
+      "label": {
+        "en": [
+          "De custen van Noorwegen en Finmarcken : vande uitweerclippen tot aende Noortcaap, als mede hoemen van Hitlandt na Ian Mayen Eylant seylen sal."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2544/manifest/",
+      "label": {
+        "en": [
+          "Kaart van de omleggende plaatsen van Amsterdam : vertoonende de versterkte toegangen met de overstroomingen rontom deeze vermaarde stad, zo als dezelve waren, omtrend het eynde van de maand September 1787, en op dezelve tyd de kwartieren der Pruyssische troupen; en hunne aanvallen den anderen dag den 1e. October, onder het bestier van zyn Hooghyt den regeerende hartog van Brunswyk, om te dienen ter gedachtenis van de geschiedenis van dit aanmerkelyk tydstip"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2545/manifest/",
+      "label": {
+        "en": [
+          "Amsterdam"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2559/manifest/",
+      "label": {
+        "en": [
+          "Urbis Traiecti ad Rhenum novissima et accuratissima delineatio /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2565/manifest/",
+      "label": {
+        "en": [
+          "Serenissimae reipvblicae Genvensis dvcatvs et dominii nova descriptio"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2591/manifest/",
+      "label": {
+        "en": [
+          "Kaerte van Suyt-Hollants grootste deel, vervatende geheel Rynlandt ende Suytkennemerlandt, mitsgaders een gedeelte van Delflandt, Amstellandt ende het Sticht van Uytrecht, vertoonende alle de Steeden, Dorpen, Casteelen, weegen, uytwateringen ende Sluysen, waar inmede te sien is hoe eertyts de Haerlemmermeer ende de Leytsemeer van een gescheyden waren,ende geen gemeenschap en hebben gehat met de Spieringmeer, oock hoe men met de Wagen konde ryden van Haerlem door Vyfhuysen ende Nieuwerkerck na Amsterdam en Uytrecht, mede van Hillegom over de Vennep (alwaer men aen t'Veer met een Schouwe wierde overgeset) ende ryden konde door Aelsmeer, Ryck ende Slooten naer Amsterdam, als mede op Uytrecht, ende was doen ter tyt het vastelandt van den Ruygenhoeck sich streckende tot aen t'voornoemde Veer, gelyck sulx in dese kaerte is afgebeelt, welcke kaerte by Pieter Bruynsen (in syn leeven gesworen Landtmeeter van Ryn ende Kennemerlandt woonachtich tot Haerlem) is gekopieert in den Jare 1591, na sekere kaerte gedateert int Jaer ons Heeren 1531, ende is nae de voorsz. Copye in Druck uytgegegeven door Claes Jansz. Visscher. En nu wederom op ordre van de Heeren Burgemeesteren van Leiden op nieuws gedrukt door Pieter vander Aa, in 't Jaer 1724."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2599/manifest/",
+      "label": {
+        "en": [
+          "Qvantvng, Imperii Sinarvm provincia dvodecima"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_26/manifest/",
+      "label": {
+        "en": [
+          "[Walcheren] /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2602/manifest/",
+      "label": {
+        "en": [
+          "Kaart van den loop der rivieren de Rhijn, de Maas, de Waal, de Merwe, en de Lek, door de provincien van Gelderland, Holland en Utrecht /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2603/manifest/",
+      "label": {
+        "en": [
+          "Delineatio orarum maritimarum, Terrae vulgo indigetatae Terra do Natal ... /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2605/manifest/",
+      "label": {
+        "en": [
+          "Limburgi ducatus et comitatus Valckenburgi nova descriptio /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2610/manifest/",
+      "label": {
+        "en": [
+          "[Paskaart van Straat Soenda]."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2611/manifest/",
+      "label": {
+        "en": [
+          "Lewardvm, occidentalis Frisiæ opp: 1581."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2618/manifest/",
+      "label": {
+        "en": [
+          "Asia noviter delineata"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2636/manifest/",
+      "label": {
+        "en": [
+          "Gorchum."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2638/manifest/",
+      "label": {
+        "en": [
+          "Erfordiae primariae Thuringiae urbis novissima ichnographia /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2651/manifest/",
+      "label": {
+        "en": [
+          "Zeelandia Comitatus."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2655/manifest/",
+      "label": {
+        "en": [
+          "Nouvelle carte du Roijaume de Hollande, ou l'on trouve la route itinéraire, ainsi que celle des postes établies, pour la commodie des voijageurs = Nieuwe kaart van het Koningrijk Holland, met de juiste post en andere wegen, aangewezen voor reizigers /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2684/manifest/",
+      "label": {
+        "en": [
+          "[Paskaart van de Baai van Gala en de Valsche Baai (Ceylon)]."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2691/manifest/",
+      "label": {
+        "en": [
+          "America."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2695/manifest/",
+      "label": {
+        "en": [
+          "Peruvianae pars /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2697/manifest/",
+      "label": {
+        "en": [
+          "Tetrachia ducatus Geldriae Ruremondana sive Hispanica /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2702/manifest/",
+      "label": {
+        "en": [
+          "Europam ab Asia & Africa segregant Mare mediterraneum, Euxinus Pontus (nunc Mare Majus) Palus Meotides, Fluminaque Tanais et Duina, ... /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2709/manifest/",
+      "label": {
+        "en": [
+          "Nova regni Hispaniae descriptio /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_271/manifest/",
+      "label": {
+        "en": [
+          "De haven van Curaçao"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2714/manifest/",
+      "label": {
+        "en": [
+          "Nieuwe kaart van Amsterdam : waarop zijn gebragt alle de voorgevallen veranderingen : benevens de uitgevoerd wordende kapitale werken van afsluiting der haven door een dijk met sluizen voorzien ... /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2715/manifest/",
+      "label": {
+        "en": [
+          "Iaponia Regnvm"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2728/manifest/",
+      "label": {
+        "en": [
+          "[Amsterdam : plattegrond] /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2732/manifest/",
+      "label": {
+        "en": [
+          "Flie en Schellinger stroom Aldus gepylt in 't Nieu gat na Langersandt op den 8 Julij 1708, in presentatie vande Heeren Commissarissen vande Pilotagi, [...] Nicolaes Witsen [...]."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2734/manifest/",
+      "label": {
+        "en": [
+          "Helvetiae Rhaetiae et Valesiae caeterorumque confoederatorum ut & finitimorum populorum tabula geographica et hydrographica nova & exacta /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2742/manifest/",
+      "label": {
+        "en": [
+          "Pecheli, sive Peking Imperii Sinarvm provincia prima"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_27446/manifest/",
+      "label": {
+        "en": [
+          "Limburgi Ducatus et Comitatus Valckenburgi nova descriptio"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_27447/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_27448/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_27449/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_27450/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_27451/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_27452/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_27453/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_27454/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_27455/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_27456/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_27457/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_27458/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_27459/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_27460/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_27461/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_27462/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_27463/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_27464/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_27465/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_27466/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_27467/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_27468/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_27469/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_27470/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_27471/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_27472/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_27473/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_27474/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_27475/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_27476/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_27477/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_27478/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_27479/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_27480/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_27481/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_27482/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_27483/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_27484/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_27485/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_27486/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_27487/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_27488/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_27489/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_27490/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_27491/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_27492/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_27493/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_27494/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_27495/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_27496/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_27497/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_276/manifest/",
+      "label": {
+        "en": [
+          "Royaume des Pays-Bas, pour servir à l'instruction de la jeunesse /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2760/manifest/",
+      "label": {
+        "en": [
+          "Carte particuliere de la plus grande partie de l'isle de Walcheren"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2761/manifest/",
+      "label": {
+        "en": [
+          "Leeuwerden de hooftstadt van Frislant = Leoverdia metropolis frisiæ MCDIII, 1603 /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2764/manifest/",
+      "label": {
+        "en": [
+          "L'Europe animale : physiologie comique /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2773/manifest/",
+      "label": {
+        "en": [
+          "Die stadt Enchuijsen /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_278/manifest/",
+      "label": {
+        "en": [
+          "Graecia"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2780/manifest/",
+      "label": {
+        "en": [
+          "Het Friessche doolhoff, het beruchte dorp Molk-Worren in Friesland; in de griettenije van Heemelumer Olde Ferd; tusschen Staaveren en Hindeloopen /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2794/manifest/",
+      "label": {
+        "en": [
+          "[Paskaart van de kust van de Chinese Zee]."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2802/manifest/",
+      "label": {
+        "en": [
+          "Nova et accurata comitatus Zelandiae tabula /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2819/manifest/",
+      "label": {
+        "en": [
+          "Caarte van de Buyckslooter, Broecker ende Belmer Meeren in Waterlandt"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2824/manifest/",
+      "label": {
+        "en": [
+          "Angliae regnum /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_283/manifest/",
+      "label": {
+        "en": [
+          "Gemeente Amsterdam : gemiddelde betrekkelijke sterfte (buurtsgewijs) over 19 jaren (1859-1877), alsmede hoogte ligging van iedere buurt /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2834/manifest/",
+      "label": {
+        "en": [
+          "Ducatus Geldriae nova tabula in tetrarchias Noviomagi, Arnhemii, Ruremondae in Zutphaniae comitatûm distincta, et edita à auctore Joachimo Ottens geographo Amstelodamensi"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2835/manifest/",
+      "label": {
+        "en": [
+          "Gallia, vulgo La France"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2836/manifest/",
+      "label": {
+        "en": [
+          "Die vermaerde Coopstadt van Amstelredam : gheconterfeyt met alle zijn Wateren, Brugghen, Straeten, Kercken, Cloosteren, Huysen, Toornen, Poorten, ende mueren, ende omlegghende situatie, ghemaeckt ter eeren der K.M. ende oock den Eersamen Raedt der selver Stadt, ende allen Liefhebberen der Consten etc. /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2847/manifest/",
+      "label": {
+        "en": [
+          "Nieuwe kaart der Vereenigde Nederlanden"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2854/manifest/",
+      "label": {
+        "en": [
+          "Pascaarte vande Oost Zee : van t eylandt Rugen of van de hoeck van Valsterbon tot aen Wyborg"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2856/manifest/",
+      "label": {
+        "en": [
+          "Xensi, Imperii Sinarvm provincia tertia"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2875/manifest/",
+      "label": {
+        "en": [
+          "Status ecclesiasticus et magnus ducatus Thoscanae"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2899/manifest/",
+      "label": {
+        "en": [
+          "Nieuwe afteekening van het eyland en Koninkryk Sicilia : vertoonende alle desselfs zee havenen anker plaetsen riviere dieptens klippen steeden en vastigheeden"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2901/manifest/",
+      "label": {
+        "en": [
+          "Svecia, Dania, et Norvegia, regna Europae Septentrionalia. /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2919/manifest/",
+      "label": {
+        "en": [
+          "Nieuwe kaart van de wydberoemde koopstat Amsteldam met deszelfs gebied : beneevens alle de plaisante weegen en paden buiten de stat, als naa Diemen, de geheele Diemer Meer, alsmeede naa Slooterdyk en den Overtoom &c. /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2923/manifest/",
+      "label": {
+        "en": [
+          "Amsteldam ten vierde mael vergroot is versterckt met Aerde wallen en bolwercken in den jaere 1585 = Amstelodamum quartâ vice auctem moenibus terreis vallisque munitum est A° 1585 /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_293/manifest/",
+      "label": {
+        "en": [
+          "Pas caart van de Zuyder-Zee Texel, ende Vlie-stroom, als mede 't Amelander gat."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2939/manifest/",
+      "label": {
+        "en": [
+          "Nieuwe kaart van India over de Ganges, of van Malakka, Siam, Cambodia, Chiampa, Kochinchina, Laos, Pegu, Ava, enz"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2941/manifest/",
+      "label": {
+        "en": [
+          "Orbis terrarum typus de integro multis in locis emendatus"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2944/manifest/",
+      "label": {
+        "en": [
+          "Etappe kaart der Sumatrasche Bovenlanden van Padang tot Aijerbangies /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2949/manifest/",
+      "label": {
+        "en": [
+          "Nova Poloniae delineatio."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2963/manifest/",
+      "label": {
+        "en": [
+          "Pascaart. vant Canaal : begrijpende in sich Engelandt, Schotlandt, en Ierlandt, als mede een gedeelte van Francryck."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2969/manifest/",
+      "label": {
+        "en": [
+          "Civitas Bommelia sicuti fortificabatur, dum Admirantus Arragoniae cum toto exercitu eam obsidebat ac reliquere cogebatur, Anno [1599]."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2980/manifest/",
+      "label": {
+        "en": [
+          "L'Europe /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2983/manifest/",
+      "label": {
+        "en": [
+          "Caarte vande zee gaaten tusschen Derschelling ende Vlielandt: volgens de verclaring daer van ghedaen (voor den drossert ende burgemeesters vander Schelling) door de ooverluyden ende lootsluyden aldaer, soo 't selve jongst is affgepeylt ende oock daagelyx bevonden wordt met een ordinaris vloet, verthoont den 14 marci a° 1641."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2985/manifest/",
+      "label": {
+        "en": [
+          "Afbeelding van Delft /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2996/manifest/",
+      "label": {
+        "en": [
+          "Status et ducatus Mediolenensis et Parmensis; quin etiam Veneti dominii ac ducatûs Mantuani partes occidentaliores. Adhibitis Genuae reipublicae reliorumq. /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3002/manifest/",
+      "label": {
+        "en": [
+          "Qvarta pars Brabantiae cujus caput Sylvadvcis /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_301/manifest/",
+      "label": {
+        "en": [
+          "Asiae nova descriptio /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3011/manifest/",
+      "label": {
+        "en": [
+          "Pascaarte. Vande Noort-Zee : vertonende van Caliz tot Dronten, als oock tusschen Doeveren en Hitlandt."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3014/manifest/",
+      "label": {
+        "en": [
+          "Sup.s et Inferioris ducatus Silesiae in suos XVII minores principatus et dominia divisi nova tabula"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3020/manifest/",
+      "label": {
+        "en": [
+          "Rhenolandiae et Amstellandiae exactissima tabula /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_305/manifest/",
+      "label": {
+        "en": [
+          "Pars septentrionalis Brabantiae et circumiacentium provinciarum."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3060/manifest/",
+      "label": {
+        "en": [
+          "Schiedam."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3061/manifest/",
+      "label": {
+        "en": [
+          "Romani Imperii imago"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3071/manifest/",
+      "label": {
+        "en": [
+          "Situatie van het Bloemendaalsche park /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3072/manifest/",
+      "label": {
+        "en": [
+          "Nieuwe caerte verthonende hoe, ende in wat maniere, de Haerlemmer, Leydse, ende Spieringh Meer ... bedyckt soude moghen werden..."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3078/manifest/",
+      "label": {
+        "en": [
+          "Asia."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3079/manifest/",
+      "label": {
+        "en": [
+          "Palatinatus Rheni nova et accurata descriptio, A° 1621 /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3093/manifest/",
+      "label": {
+        "en": [
+          "Molvccæ insvlæ Celeberrimæ"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3097/manifest/",
+      "label": {
+        "en": [
+          "Hollandia comitatvs."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3098/manifest/",
+      "label": {
+        "en": [
+          "Platte grond der Parochie van de H. Catharina te Amsterdam."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3106/manifest/",
+      "label": {
+        "en": [
+          "Generale caarte ende afbeeldinge vanden eylande van West Voorn"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3112/manifest/",
+      "label": {
+        "en": [
+          "Nativus Sueciae adiacentiumque regnorum typus /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3113/manifest/",
+      "label": {
+        "en": [
+          "L'Europe dressée sur les observations de Mrs. de l'Academie Royale des Sciences et quelques autres; & sur les memoires les plus recens /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3117/manifest/",
+      "label": {
+        "en": [
+          "Goae Indiae Orientalis Metropolis & Emporij longe ditis pro rege Archi-episcopi & supremo senalocupletis exacta descriptio /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3119/manifest/",
+      "label": {
+        "en": [
+          "Afbeelding van West Vlielant mitsgaders van 't Eyer-Lant, de wijte van gat en de breete der strande /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3127/manifest/",
+      "label": {
+        "en": [
+          "Nieuwe kaerte van Breda : belegert door syne Altesa Frederick Hendrick van Nassou Prince van Orangien den 23 Iuly 1637."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_313/manifest/",
+      "label": {
+        "en": [
+          "Transiselania dominivm vernaculè Over-Yssel."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3131/manifest/",
+      "label": {
+        "en": [
+          "Frisia occidentalis."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3135/manifest/",
+      "label": {
+        "en": [
+          "Caerte ende voorbereijdinge tot het bedijcken ende droochmaken vande Haerlemer-Meer : om te vertoonen aende E. Wijse vorsienige Heeren Borgemeesteren raden ende regenten vande stadt Amsterdam dat die geluc met goede raet ende daet de hant daer mede willen aenhouwen om't gemene landts beste te soecken om dit groote heerlijcke lofbaerlijcke werck eens bijder hant te neemen om te bedijcken, ende met godes hulpe tot goet landt te brengen, ende profijt doen A° 1640 /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3150/manifest/",
+      "label": {
+        "en": [
+          "Germaniae veteris, typus"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3152/manifest/",
+      "label": {
+        "en": [
+          "Hollandiae quae olim Catthorum sedes fuit nulli regioni fertilitate cedit divitiis abundat... = In dese caerte is met arbeijt cost ende moeite beschreven nae der conste der geographie tgraefschap van Hollandt... /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3163/manifest/",
+      "label": {
+        "en": [
+          "A new map of the city of Amsterdam : most humbly inscrib'd to Iohn Hedworth Esqr."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3167/manifest/",
+      "label": {
+        "en": [
+          "Transisalania vulgo Over-Yssel /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3172/manifest/",
+      "label": {
+        "en": [
+          "Imperii Sinarvm nova descriptio"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3181/manifest/",
+      "label": {
+        "en": [
+          "Plan van Hamburg na den grooten brand van den 5 tot 8 mei 1842."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3188/manifest/",
+      "label": {
+        "en": [
+          "Norvegia regnum divisum in suos dioeceses Nidrosiensem, Bergensem, Opsloensem, et Stavangriensem et praefecturam Bahusiae quae et sont subdivisa in in caeteras partes minores"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3189/manifest/",
+      "label": {
+        "en": [
+          "Caerte van de Scher-meer Alsoo de selve is Bedyckt ende by Cavels van 15 Morgen suyver landt door lotinge uytgedelt, op den 25 October Anno 1635 ende aldus met groote verbeteringe int licht gegeven."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3191/manifest/",
+      "label": {
+        "en": [
+          "Afbeeldinge van Rhynlands waterstaat ten opzigte van 't vergrooten der Haarlemmer of Leydse Meer met de byna gecombineerde en omleggende veenplassen"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3193/manifest/",
+      "label": {
+        "en": [
+          "Nova Brabantiae Ducatus Tabula /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3196/manifest/",
+      "label": {
+        "en": [
+          "Fluviorum Rheni Mosae Mosellae Moeni Neccaris aliorumque minorum in eosdem se exonerantium et regionum circumjacentium descriptio /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_321/manifest/",
+      "label": {
+        "en": [
+          "Amsterdam"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3213/manifest/",
+      "label": {
+        "en": [
+          "Nanking, sive Kiangnan, Imperii Sinarvm provincia nona"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3218/manifest/",
+      "label": {
+        "en": [
+          "Inferioris Germaniae provinciarum nova descriptio."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3235/manifest/",
+      "label": {
+        "en": [
+          "Fezzae et Marocchi regna Africae celeberrima, /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3252/manifest/",
+      "label": {
+        "en": [
+          "Naeuw-keurige afbeeldinge van alle de posten en vastigheden, by dese weerende oorlogh gemaeckt, in Holland, Utrecht en gedeelte van Gelderlandt /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3254/manifest/",
+      "label": {
+        "en": [
+          "Episcopatus Leodiensis in se continens ducatum Bouillonensem marchionatum Francimontensem et comitatum Borchlonensem et Hasbaniae cum aliquot Baronatibus /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3257/manifest/",
+      "label": {
+        "en": [
+          "Mappe-monde geo-hydrographique ou Description generale du globe terrestre et aquatique en deux-plans-hemispheres ou sont exactement remarquées en general toutes les parties de la terre et de l'eau suivant les relations les plus nouvelles /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_326/manifest/",
+      "label": {
+        "en": [
+          "Tabvla Rvssiae"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3269/manifest/",
+      "label": {
+        "en": [
+          "Silesiae ducatus nova descriptio /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3276/manifest/",
+      "label": {
+        "en": [
+          "Danvbivs, fluvius Europæ maximus, a fontibvs ad ostia, cum omnibus fluminibus, ab utroque latere, in illum defluentibus."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3279/manifest/",
+      "label": {
+        "en": [
+          "Leeuwerden."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3283/manifest/",
+      "label": {
+        "en": [
+          "Transisalania Provincia; vulgo Over-yssel /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_33/manifest/",
+      "label": {
+        "en": [
+          "Frisiae occidentalis typus."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3302/manifest/",
+      "label": {
+        "en": [
+          "Bohemia."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3304/manifest/",
+      "label": {
+        "en": [
+          "Scotia Regnvm cum insulis adjacentibus"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3305/manifest/",
+      "label": {
+        "en": [
+          "Amsteldam ten vierdemael vergroot is versterckt met Aerde wallen en Bolwercken in den Iaare 1585"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3309/manifest/",
+      "label": {
+        "en": [
+          "Drentia comitatvs : Transisulaniae tabula II /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3319/manifest/",
+      "label": {
+        "en": [
+          "Carte de l'Afrique Meridionale ou Pays entre la Ligne & le Cap de Bonne Esperance et l'isle de Madagascar."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3324/manifest/",
+      "label": {
+        "en": [
+          "Medenblick in West-Vrieslandt"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3329/manifest/",
+      "label": {
+        "en": [
+          "Plan de la ville, et citadelle de Lille, assiegée par les Alliez, avec les lignes de circumvalation, aproches, bateries; et le nom de chaque regiment = Afbeeldinge van de stercke stad Ryssel en des selfs kasteel door de Geallieerde beleegert, met haar linie van circumvalatie, aproches, battaryen, en de naamen van jder regement"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3331/manifest/",
+      "label": {
+        "en": [
+          "De Purmer /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3335/manifest/",
+      "label": {
+        "en": [
+          "De cust van Barbaria, Gualata, Arguyn, en Geneheo, van Capo S. Vincente tot Capo Verde."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3339/manifest/",
+      "label": {
+        "en": [
+          "Carte particuliere d'une partie de la Hollande, de la Zelande, et du Brabant Hollandois, ou les environs de Bergen op Zoom, Steenbergen, Willemstadt, Clundert, Tolen, Goes, Ziericzee et Hellevoetsluis &c."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3353/manifest/",
+      "label": {
+        "en": [
+          "Nieuwe kaart van het Koningrijk der Nederlanden /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3355/manifest/",
+      "label": {
+        "en": [
+          "Plan de la ville et faubourg de Paris : divise en ses 48 sections /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3361/manifest/",
+      "label": {
+        "en": [
+          "Carte du teatre de la guerre dans la Pologne, Moscovie & Turquie /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3362/manifest/",
+      "label": {
+        "en": [
+          "Clivia dvcatvs et Ravestein dominivm."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3363/manifest/",
+      "label": {
+        "en": [
+          "Paris, ses fauxbourgs et ses environs, où se trouve le détail des villages, maisons, grands chemins pavez et autres, des hauteurs, bois, vignes, terres et prez /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3371/manifest/",
+      "label": {
+        "en": [
+          "A new and exact map of the United Provinces, or Netherlands &c"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_338/manifest/",
+      "label": {
+        "en": [
+          "[Walcheren]."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3383/manifest/",
+      "label": {
+        "en": [
+          "Kaart van de omstreeken der stad Haarlem van de Beverwijk tot Hillegom /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3388/manifest/",
+      "label": {
+        "en": [
+          "Delineatio omnium orarum totius Australis partis Americae, dictae Peruvianae, à R. de la Plata, Brasiliam, Pariam, & Castellam auream ... /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_340/manifest/",
+      "label": {
+        "en": [
+          "Nova Francia, alio nomine dicta Terra nova : anno 1504 à Britonibus primum detecta [...] /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_341/manifest/",
+      "label": {
+        "en": [
+          "Caerte van het lant van Huijsduijnen : met sijn dijcken stranden hoofden ende palen mits gaders het Nieuwe Diep in wijte koers ende diepte tsamen gestelt /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_342/manifest/",
+      "label": {
+        "en": [
+          "Alckmaria"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_353/manifest/",
+      "label": {
+        "en": [
+          "Ultraiectum Dominium /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_355/manifest/",
+      "label": {
+        "en": [
+          "Caerte van t'Vrije : sijnde een gedeelte en lidt van Vlaenderen : waer in vertoont wert de tegenwoordige ghelegentheijt van de stadt Sluys Cadsand en de doorgesteken polders /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_360/manifest/",
+      "label": {
+        "en": [
+          "Deze nieuwe kaart van Gooilandt word met schuldige eerbiedigheidt aan ... Henrick Bicker ... opgedragen door ... Reinier & Iosua Ottens"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3618/manifest/",
+      "label": {
+        "en": [
+          "Europae nova descriptio"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_367/manifest/",
+      "label": {
+        "en": [
+          "Groninga Dominivm /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_372/manifest/",
+      "label": {
+        "en": [
+          "Franeker /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38/manifest/",
+      "label": {
+        "en": [
+          "Delineatio orarum Manicongi, Angolae, Monomotapae, terrae natalis Zofalae, Mozambicae, Abyssinorum &c. : una cum vadis, et sirtibus adjacentibus : item insulae magna vulgo S. Laurentii aliâs Madagascar dictae, inter maximas totius Orientis habitae /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_385/manifest/",
+      "label": {
+        "en": [
+          "[Wereldkaart : in twee halfronden] /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38559/manifest/",
+      "label": {
+        "en": [
+          "Caerte van de rivieren van Suriname en Commowine : met der selver uytstroomende creecken, met alle de landen soo verre de selve bewoonde worden."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38560/manifest/",
+      "label": {
+        "en": [
+          "Carte Réduite des costes de la Guyane depuis la Riviere d'Orenoque jusqu'au Cap de Nord à l'entrée de la Riviere des Amazones : dressée au Depost des Cartes et Plans de la Marine, pour le Service des Vaisseaux du Roy /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38561/manifest/",
+      "label": {
+        "en": [
+          "A new chart of the Coast of Guyana, from River Berbice to Cape North, and the River of the Amazons : Containing the Dutch Colonies of Berbice and Surinam, with the French Colony of Cayenne."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38562/manifest/",
+      "label": {
+        "en": [
+          "A new chart of Guyana : comprehending the Colonies of Cayenne, Suriname & Trinidad /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38563/manifest/",
+      "label": {
+        "en": [
+          "Carte génerale & particulière de la Colonie d'Essequebe & Demerarie : située dans la Guiane, en Amérique /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38564/manifest/",
+      "label": {
+        "en": [
+          "Naaukeurige platte grond van den staat en den loop van Rio de Berbice : met derzelver plantagien in de Geoctrojeerde Colonie de Berbice gelegen /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38565/manifest/",
+      "label": {
+        "en": [
+          "Kaart van de Zuykerplantagie Nieuwzorg : geleegen aan de Commetewane Kreek aan de linker hand in 't afvaaren /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38566/manifest/",
+      "label": {
+        "en": [
+          "A chart of the coast of Guyana : from the entrance of the river Orinoco (in the Lat. 8°.30'.N. Long. 61°. W. from London) to the entrance of the river Amazones /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38567/manifest/",
+      "label": {
+        "en": [
+          "Kaart, van een gedeelte van het Groot-Vlaggen-Eijland in de Rivier Essequebo in het Landschap-Guiana op de vaste-kust van Zuijd-America /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38568/manifest/",
+      "label": {
+        "en": [
+          "Plattegrond der Plantage Adrichem."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38569/manifest/",
+      "label": {
+        "en": [
+          "[Kaart van de plantages Acaribo en Waterland, gelegen aan de Suriname-rivier] /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38570/manifest/",
+      "label": {
+        "en": [
+          "[Kaart van de plantages Acaribo, Waterlandt, Larencontre en Domburgh, gelegen aan de Suriname-rivier /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38571/manifest/",
+      "label": {
+        "en": [
+          "Accurate afteekening van de Plantage Waterland : geleegen inde Rivier Zuriname aan de regterhand int opvaaren ... /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38572/manifest/",
+      "label": {
+        "en": [
+          "Kaart van de Situatie der Kolonie Surinamen."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38573/manifest/",
+      "label": {
+        "en": [
+          "Kaart van de Plantagie genaamd Haijamma : geleegen aan de westwal in 't opvaaren der Rivier van Rio Demmerary zoo als dezelve bevonden is in Maart 1772."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38574/manifest/",
+      "label": {
+        "en": [
+          "Kaart van de Colonie Demerary."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38575/manifest/",
+      "label": {
+        "en": [
+          "Accurate en origineele afbeeldinge, van Paramaribo, of Nieuw Middelburg, geleegen in de Colonie Zuriname."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38577/manifest/",
+      "label": {
+        "en": [
+          "Caarte, representeerende een gedeelte der rivier Van Suriname : van de post, aan de boven schijd linie van Acaribo, nederwaarts tot de molen op Waterland /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38580/manifest/",
+      "label": {
+        "en": [
+          "Situatie kaart van een gedeelte der colonie Suriname : tot gebruyk bij militaire togten in t bosch /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38581/manifest/",
+      "label": {
+        "en": [
+          "Kaarte van de Plantagie genaamd Rynestyn : toebehoorende ... K. van den Helm Boddaert /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38582/manifest/",
+      "label": {
+        "en": [
+          "Nieuwe caerte van het wonderbaer ende goudrijcke landt Guiana : gelegen onder de Linie Æquinoctiael, tusschen Brasilien ende Peru : nieuwelick besocht door Sir Wa[!]ter Ralegh, Ridder van Engelandt, in het jaer 1594, 95 ende 1596."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38583/manifest/",
+      "label": {
+        "en": [
+          "The Dutch Colony of Surinam /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38584/manifest/",
+      "label": {
+        "en": [
+          "Kaart van geheel Guajana of de Wilden-kust, en die der Spaansche Westindiën, op het Noord-end van Zuid Amerika"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38585/manifest/",
+      "label": {
+        "en": [
+          "A Map of the Colony of Surinam : to ... George Dunk Montague, Earl of Halifax, one of His Majesty's principal Secretaries of State &c. &c. &c. this map laid down from actual observations /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38586/manifest/",
+      "label": {
+        "en": [
+          "A draught of the coast of Guiana : from the river Orinoque, to the river Amazones."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38588/manifest/",
+      "label": {
+        "en": [
+          "[Kaart van de plantage Acaribo, gelegen aan de Suriname-Rivier]."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38589/manifest/",
+      "label": {
+        "en": [
+          "Carte de la Guiane Française & Hollandaise."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38590/manifest/",
+      "label": {
+        "en": [
+          "Caerte van de rivier Demerary van ouds Immenary : gelegen op Suyd Americaes Noordkust, op de Noorder Breedte van 6 gr. 40 min. 1759 /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38591/manifest/",
+      "label": {
+        "en": [
+          "Caerte van de rivier Demerary van ouds Immenary : gelegen op Suyd Americaes Noordkust, op de Noorder Breedte van 6 gr. 40 min. 1759 /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38592/manifest/",
+      "label": {
+        "en": [
+          "Algemeene kaart van de Colonie of Provintie van Suriname : met de rivieren, districten, ontdekkingen door militaire togten en de grootte der gemeeten plantagien /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38593/manifest/",
+      "label": {
+        "en": [
+          "Generale caart van de provintie Suriname : rivieren & districten met alle d ondekkingen van van [!] militaire togten mitsgaders de groote der gemeetene plantagien gecarteert op de naauwkeurigste waarnemingen /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38594/manifest/",
+      "label": {
+        "en": [
+          "Rivier Suriname : opgenomen tot de Plantagien Morgenstond en Susanna's-Daal /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38595/manifest/",
+      "label": {
+        "en": [
+          "Kaart van Situatie der Kolonie Suriname /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38596/manifest/",
+      "label": {
+        "en": [
+          "Land-kaart van het eiland en de volksplanting van Cayenne aan de kust van Zuid-Amerika."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38597/manifest/",
+      "label": {
+        "en": [
+          "Topographische Charte von der Kolonie Surinam : welche in dem Theile des vesten Landes von dem Mittäglichen America, unter dem 6ton Grade mitternächtlicher Breite und dem 19ten Grade 15 Min. der Länge gelegen ist : worauf alle Wohnplätze und deren Nahmen, wie man sie in der unmittelbar nach dieser Charte folgenden Haupt Liste verzeichnet findet, numerirt sind /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38598/manifest/",
+      "label": {
+        "en": [
+          "Kaart van het bebouwde gedeelte van Surinamen"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38599/manifest/",
+      "label": {
+        "en": [
+          "Kaart van het bovenstroomgebied der Coppename /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38600/manifest/",
+      "label": {
+        "en": [
+          "Kaart van de Beneden-Marowĳne"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38601/manifest/",
+      "label": {
+        "en": [
+          "Kaart van Suriname /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38602/manifest/",
+      "label": {
+        "en": [
+          "Kaart van Guiana, Engelsch, Nederlandsch en Fransch"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38603/manifest/",
+      "label": {
+        "en": [
+          "Schetskaart aangevende de in verschillende tractaten en uitspraken vastgestelde grenzen der 3 Guyana's en de uitkomsten van de aardrijkskundige onderzoekingen."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38604/manifest/",
+      "label": {
+        "en": [
+          "Gviana sive Amazonvm regio"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38605/manifest/",
+      "label": {
+        "en": [
+          "Gviana siue Amazonvm regio"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38606/manifest/",
+      "label": {
+        "en": [
+          "Generale kaart der kolonie Suriname : hoofdzakelijk voorstellende de tegenwoordige bebouwing dier kolonie /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38607/manifest/",
+      "label": {
+        "en": [
+          "Schets kaart van de kolonie Suriname of Nederlandsch Guiana, 1853"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38608/manifest/",
+      "label": {
+        "en": [
+          "Nieuwe Kaart van Suriname : vertonende de stromen en land-streken van Suriname, Comowini, Cottica, en Marawini, gelegen in Zuid America op de kusten van Caribana. 6 gr. benoorden de Linie Equinoct. met naauwkeurige aanwijzinge van alle de steden, sterktens en plantagien mitsgaders de diepte der stromen en banken volgens de nieuwste waarnemingen."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38609/manifest/",
+      "label": {
+        "en": [
+          "Kaart van de rivier de Suriname"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38610/manifest/",
+      "label": {
+        "en": [
+          "Kaart van de rivier Suriname en het Gat /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38611/manifest/",
+      "label": {
+        "en": [
+          "Paramaribo 1916-17"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38612/manifest/",
+      "label": {
+        "en": [
+          "Suriname /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38613/manifest/",
+      "label": {
+        "en": [
+          "[Kaart van Suriname]."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38614/manifest/",
+      "label": {
+        "en": [
+          "Kaart van de Colonie Suriname in Suid-America /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38615/manifest/",
+      "label": {
+        "en": [
+          "Nieuwe gemeten kaart van de Colonie Berbice : met der zelver plantagien en de namen der bezitters /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38616/manifest/",
+      "label": {
+        "en": [
+          "Landkaart van de Volkplantingen Suriname en Berbice"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38617/manifest/",
+      "label": {
+        "en": [
+          "Plan of Paramaribo (Capital) /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38618/manifest/",
+      "label": {
+        "en": [
+          "Guaiana : ofte de Provincien tusschen Rio de las Amazonas ende Rio de Yuiapari ofte Orinoque."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38619/manifest/",
+      "label": {
+        "en": [
+          "Algemeene kaart van de Colonie of Provintie van Suriname : met de rivieren, districten, ontdekkingen door militaire togten en de grootte der gemeeten plantagien /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38620/manifest/",
+      "label": {
+        "en": [
+          "Caerte van de rivier Demerary van ouds Immenary : gelegen op Suyd Americaes Noordkust, op de Noorder Breedte van 6 gr. 40 min. 1759 /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38621/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38622/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38623/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38624/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38625/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38626/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38627/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_389/manifest/",
+      "label": {
+        "en": [
+          "Ultrajecti ejusdemque territorii delineatio geometrica"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_393/manifest/",
+      "label": {
+        "en": [
+          "Exactissima Belgii Foederati tabula : cum annexis divisa in provincias, earumque partes minores"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_394/manifest/",
+      "label": {
+        "en": [
+          "Nieuwelijx gegraavene doorvaart bij Panderen getrokken van de Waal in den Rijn; zijnde in de over Betuwe in Gelderland"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_396/manifest/",
+      "label": {
+        "en": [
+          "Plan de la ville de Tholose."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_403/manifest/",
+      "label": {
+        "en": [
+          "Obsessi apud Bommeliam Hispani an. 1585."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_406/manifest/",
+      "label": {
+        "en": [
+          "Italiae, Sardiniae, Corsicae et confinium regionum nova tabula, effigies praecipuarum urbium et habituum inibi simul complectens /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_413/manifest/",
+      "label": {
+        "en": [
+          "Fokien Imperii Sinarvm provincia vndecima"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_419/manifest/",
+      "label": {
+        "en": [
+          "Afcontrafeijtinge van t'Landt van den Zijpe : bedyckt inden jaere 1597, begrijpende binnen den ring zijner dijcken (lanck zijnde 5475 roeden, streckende van den Pettemer dijck bij de Laij, tot aen-den ouden Vrieschen Zeedijck bij oosten de Keijns) de nombre van 9060 morgens, tot 600 roeden de morgen, ende de roede van 12 voeten /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_425/manifest/",
+      "label": {
+        "en": [
+          "[Kaart van het eiland Schokland]."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_432/manifest/",
+      "label": {
+        "en": [
+          "Het Bloemendaalsche park /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_44/manifest/",
+      "label": {
+        "en": [
+          "Kaart van het eiland Aruba /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_447/manifest/",
+      "label": {
+        "en": [
+          "Nobilis Hannoniae comitatvs descrip. /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_448/manifest/",
+      "label": {
+        "en": [
+          "Tabula Regnorum Sueciae et Norvegiae /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_453/manifest/",
+      "label": {
+        "en": [
+          "Nieuwe kaart van Mynden, en de 2 Loosdrechten : midtsgaders van s'Gravenland, nevens het Gerecht van Breukelen, en Loendersloot &c. /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_459/manifest/",
+      "label": {
+        "en": [
+          "Brabantiae Batavae pars orientalis, comprehendens tetrarchiam sive majoratum Sylvaeducensem in ejusdem subjacentes ditiones, accuratissime divisum /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_471/manifest/",
+      "label": {
+        "en": [
+          "Nieuwe kaart van het Koningrijk der Nederlanden benevens de Nederlandsche bezittingen in andere werelddeelen /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_505/manifest/",
+      "label": {
+        "en": [
+          "Nova XVII. Belgicarum provinciarum descriptio /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_513/manifest/",
+      "label": {
+        "en": [
+          "Plan van het Hoog en Laag Philippine."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_519/manifest/",
+      "label": {
+        "en": [
+          "Beemsterlants caerte."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_52/manifest/",
+      "label": {
+        "en": [
+          "Kaart van den Haarlemmer-Hout cum annexis : zynde gemeeten en gekaarteerd door my ondergetekenden in het jaar 1756, en nu met de daar ingemaakte veranderingen in plaat gebragt; wordende deeze ... opgedraagen aan ... burgemeesteren en regeerders der stad Haarlem ... mitsgaders aan de ... houtvester en commissarissen over den Haarlemmer-Hout /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_523/manifest/",
+      "label": {
+        "en": [
+          "Novissima Russiae vulgo Moscoviae tabula"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_527/manifest/",
+      "label": {
+        "en": [
+          "Moravia marchionatus = Merhern /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_528/manifest/",
+      "label": {
+        "en": [
+          "Novissima et perfectissima Africae descriptio /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_529/manifest/",
+      "label": {
+        "en": [
+          "Palestinae sive totivs terrae promissionis nova descriptio"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_532/manifest/",
+      "label": {
+        "en": [
+          "Hollandiae pars meridionalior, vulgo Zuyd-Holland /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_554/manifest/",
+      "label": {
+        "en": [
+          "Hollandiae Batavor[um] veteris insulae locorum adiacentium exacta descriptio /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_557/manifest/",
+      "label": {
+        "en": [
+          "Nieuwe kaart van Europa 1870."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_573/manifest/",
+      "label": {
+        "en": [
+          "Carte de la Sicile /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_578/manifest/",
+      "label": {
+        "en": [
+          "Die stat Groeningen ingenomen."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_581/manifest/",
+      "label": {
+        "en": [
+          "Novissima Regni Scotiae Septentrionalis et Meridionalis tabula, divisae in ducatus, comitatus, vice-comitatus,  provincias, praefecturas, dominia et insulas /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_587/manifest/",
+      "label": {
+        "en": [
+          "Kaart der provincie Utrecht 1839 /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_59/manifest/",
+      "label": {
+        "en": [
+          "Texel, en Vlie Stroom /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_592/manifest/",
+      "label": {
+        "en": [
+          "Regno di Napoli"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_594/manifest/",
+      "label": {
+        "en": [
+          "[Bologna] /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_60/manifest/",
+      "label": {
+        "en": [
+          "Afbeelding Van de Platte Grond Der Stad Delft, in den Jare 1672 : Door Zeker Ingenieur Gedaan, tegelijk Aanwijzende hoemen Deze Stad indien tijt Soude Hebben Kunnen Fortificeeren."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_61/manifest/",
+      "label": {
+        "en": [
+          "Nieuwe kaart van het Koningrijk der Nederlanden en het Groot-Hertm. Luxemburg."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_612/manifest/",
+      "label": {
+        "en": [
+          "Nieuwe caerte van het wonderbaer ende goudrijcke landt Guiana : gelegen onder de Linie Æquinoctiael, tusschen Brasilien ende Peru : nieuwelick besocht door Sir Wa[!]ter Ralegh, Ridder van Engelandt, in het jaer 1594, 95 ende 1596."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_615/manifest/",
+      "label": {
+        "en": [
+          "Comitatus Hollandiae tabula"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_616/manifest/",
+      "label": {
+        "en": [
+          "[Kaart van Wieringen met het Koegras]."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_621/manifest/",
+      "label": {
+        "en": [
+          "Plano de Barcelona y sus alrededores en 1890 : aprobado por el exemo. ayuntamiento en session del dia 13 de Enero de 1891 /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_625/manifest/",
+      "label": {
+        "en": [
+          "[Paskaart van de Baai van Nilewelle]."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_634/manifest/",
+      "label": {
+        "en": [
+          "Nova Helvetiae tabula."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_635/manifest/",
+      "label": {
+        "en": [
+          "Abrahami patriarchae peregrinatio et vita"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_647/manifest/",
+      "label": {
+        "en": [
+          "Elba isola olim Ilva"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_650/manifest/",
+      "label": {
+        "en": [
+          "Nova totius terrarum orbis tabula /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_653/manifest/",
+      "label": {
+        "en": [
+          "Nouvelle carte du Roijaume de Hollande, ou l'on trouve la route itinéraire, ainsi que celle des postes établies, pour la commodité des voijageurs = Nieuwe kaart van het Koningrijk Holland, met de juiste post en andere wegen, aangewezen voor reizigers /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_663/manifest/",
+      "label": {
+        "en": [
+          "Pascaerte van West Indien van de Caribes tot aen de Golfo van Mexico."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_67/manifest/",
+      "label": {
+        "en": [
+          "Tabula Comitatus Frisiae /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_68/manifest/",
+      "label": {
+        "en": [
+          "Humoristische kaart van Europa 1870."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_688/manifest/",
+      "label": {
+        "en": [
+          "Typus orarum maritimarum Guineae, Manicongo & Angolae ultra promontorium Bonae spei usque ... /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_702/manifest/",
+      "label": {
+        "en": [
+          "Tabula Ducatus Brabantiae : continens Marchionatum sacri Imperij et Dominium Mechliniense /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_718/manifest/",
+      "label": {
+        "en": [
+          "Namurcum comitatus /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_728/manifest/",
+      "label": {
+        "en": [
+          "Italiae novissima descriptio"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_739/manifest/",
+      "label": {
+        "en": [
+          "Uitlegging der stad Amsterdam aan de IJ zijde met een brug over het IJ /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_74/manifest/",
+      "label": {
+        "en": [
+          "Alcmaer /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_740/manifest/",
+      "label": {
+        "en": [
+          "Comitatus Zelandiae accurata & novissima delineatia."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_744/manifest/",
+      "label": {
+        "en": [
+          "Kiangsi, Imperii Sinarvm provincia octava"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_749/manifest/",
+      "label": {
+        "en": [
+          "Lugdunum Batavorum Anno 1675 /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_753/manifest/",
+      "label": {
+        "en": [
+          "Asia recens summa cura delineata /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_761/manifest/",
+      "label": {
+        "en": [
+          "Carte particuliere de la partie occidentale du Flandre Hollandois &c. ou les environs de l'Ecluse, Bruges, Ostende &c"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_763/manifest/",
+      "label": {
+        "en": [
+          "[Zeekaart van de Azoren en de Canarische eilanden /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_765/manifest/",
+      "label": {
+        "en": [
+          "Zvydhollandia stricte sumta."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_772/manifest/",
+      "label": {
+        "en": [
+          "Zeelandia comitatus."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_777/manifest/",
+      "label": {
+        "en": [
+          "Platte grond der stad Amsterdam"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_786/manifest/",
+      "label": {
+        "en": [
+          "Orbis terrarum typus de integro multis in locis emendatus /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_790/manifest/",
+      "label": {
+        "en": [
+          "Lacvs Lemanni locorvmqve circvmiacentivm accvratissima descriptio"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_791/manifest/",
+      "label": {
+        "en": [
+          "Comitatus Flandria."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_796/manifest/",
+      "label": {
+        "en": [
+          "Spoorwegkaart van Nederland."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_797/manifest/",
+      "label": {
+        "en": [
+          "De Heerlycheyt van Over-yssel /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_8/manifest/",
+      "label": {
+        "en": [
+          "GeneralKarte von Europa /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_803/manifest/",
+      "label": {
+        "en": [
+          "Generale caarte vanden lande van Voorne aande oost zyde van Flacquee /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_808/manifest/",
+      "label": {
+        "en": [
+          "Het dorp Egmondt op Zee."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_812/manifest/",
+      "label": {
+        "en": [
+          "Caerte van de Purmer /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_825/manifest/",
+      "label": {
+        "en": [
+          "Ultraiectini Dominii tabula /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_838/manifest/",
+      "label": {
+        "en": [
+          "Kaerte van t' Koegras : geleegen tusschen Wieringen, en Wieringer Waerdt, Zype, Callants-ooge, ende Huysduyne /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_859/manifest/",
+      "label": {
+        "en": [
+          "Messina citta di Maria Vergine /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_86/manifest/",
+      "label": {
+        "en": [
+          "Plan van eenen steenen brug over het IJ voor de stad Amsterdam /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_866/manifest/",
+      "label": {
+        "en": [
+          "Ducatus Franciae Orientalis seu Sac. Rom. Imperij  principatus et episcopatus Herbipolensis vulgo Würtzburgensis cum omnibus suis officiis et pertinentijs geographice exhibitus /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_87/manifest/",
+      "label": {
+        "en": [
+          "Afbeeldinge van de wydvermaarde en beroemde koopstad Amsteldam met d'omleggende landen"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_881/manifest/",
+      "label": {
+        "en": [
+          "Amsterdam /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_901/manifest/",
+      "label": {
+        "en": [
+          "Middelburg /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_918/manifest/",
+      "label": {
+        "en": [
+          "De Paltz te Soesterberg : groot hectn. 67.13.83."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_922/manifest/",
+      "label": {
+        "en": [
+          "[Atlantische Oceaan]."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_925/manifest/",
+      "label": {
+        "en": [
+          "Italia antiqua /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_930/manifest/",
+      "label": {
+        "en": [
+          "[Nieuwe pas-kaart van Texel en den Horst]."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_935/manifest/",
+      "label": {
+        "en": [
+          "Belgium, sive Inferior Germania post omnes in hac forma exactissime descripta /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_936/manifest/",
+      "label": {
+        "en": [
+          "Exacta & accurate delineatio cùm orarum maritimarum tùm etiam locorum terrestrium quae in regionibus China, Cauchinchina, Camboia sive Champa, Syao, Malacca, Arracamn & Pegu ... = Waarachtige uitworpinghe ofte afbeeldinge van alle die custen ende landen van China, Cauchinchina, Camboja, Sijao, Malacca Arracan ende Pegu : mitsgaders alle die bijleggende eijlanden groote ende cleinen, mit noch die clippen, riffen, sanden, droochten ende ondiepten /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_963/manifest/",
+      "label": {
+        "en": [
+          "Bird's-eye view of the interoceanic canal of Nicaragua and Costa Rica /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_979/manifest/",
+      "label": {
+        "en": [
+          "Carta noua accurata del passagio et strada dalli Paesi Bassi per via de Allemagna per Italia et per via di Paesi Suizeri à Geneua, Lione et Roma per seruizio delli marchanti et viagianti in generale ad instanza delli Ss. Scherer et di Momforti speditori delli marchantie in Bregens"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_980/manifest/",
+      "label": {
+        "en": [
+          "Novissima et accuratissima XVII provinciarum Germaniae Inferioris delineatio /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_981/manifest/",
+      "label": {
+        "en": [
+          "[Kaart van het Crake Sandt bij de Vliet Stroom] /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_985/manifest/",
+      "label": {
+        "en": [
+          "Carte particuliere d'Amstelland, ou Les environs d'Amsteldam, Muyden, Weesp, Naarden &c. = Particuliere kaart van Amstellandt, of Het omleggende van Amsteldam, Muyden, Weesp, Naarden &c."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_989/manifest/",
+      "label": {
+        "en": [
+          "Peregrinatie Iesu Christi : een ordentlicke bescrijvinge des Heijlighen landts daer ten tijde des Nieuwen Testaments ... /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_991/manifest/",
+      "label": {
+        "en": [
+          "Caerte van Noorthollant beghinende van Noortendt, Zuytwarts up tot om Leyden toe; voorts streckende Oostwaerts tot om Utrecht weder Noortwarts up in de Zuider Zee met alle sijn steden, dorpen, dijcken, weghen, wateren en vaerten, daer inne begrepen elcx na syne rechte gheleghet."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_997/manifest/",
+      "label": {
+        "en": [
+          "Tabula Hollandiae Borealis, cognitae olim sub nomine Kennemariae et Westfrisiae /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1117/manifest/",
+      "label": {
+        "en": [
+          "Nieuwe kaart van de XVII Nederlandsche Provincien : waar in aangewezen worden de landen door den Koning van Vrankryk geconquesteerd als mede die van het Huis van Oostenryk, van den Koning van Pruisen en den Staat der Vereenigde Nederlanden, alles volgens het laatste tractaat van Barriere"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1379/manifest/",
+      "label": {
+        "en": [
+          "Amsteldam soo het selve is omhaynt geweest met houte Vesten en Toorens inden Iaere 1400"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1387/manifest/",
+      "label": {
+        "en": [
+          "Amstelodami veteris et novissimae urbis accuratissima delineatio"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1464/manifest/",
+      "label": {
+        "en": [
+          "Tetrachia ducatus Geldriae Neomagensis"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1496/manifest/",
+      "label": {
+        "en": [
+          "Regni Poloniae et ducatus Lithvaniae Voliniae, Podoliae Vcraniae Prvssiae, Livoniae et Cvrlandiae /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1523/manifest/",
+      "label": {
+        "en": [
+          "Dania regnum in quo sunt ducatus Holsatia et Slesvicum insulae Danicae et provinciae Iutia, Scania, Blekingia et Hallandia /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1771/manifest/",
+      "label": {
+        "en": [
+          "Ducatus Geldriae Tetrachia Arnhemiensis sive Velavia"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1779/manifest/",
+      "label": {
+        "en": [
+          "Terra Sancta, sive Promissionis, olim Palestina /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1819/manifest/",
+      "label": {
+        "en": [
+          "Tabula nova provinciae Ultrajectinae"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1870/manifest/",
+      "label": {
+        "en": [
+          "Accuratissima totius regni Hispaniae tabula /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1997/manifest/",
+      "label": {
+        "en": [
+          "Tabula ducatus Brabantiae : continens marchionatum Sacri Imperii et dominium Mechliniensis /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2088/manifest/",
+      "label": {
+        "en": [
+          "De Wormer."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_216/manifest/",
+      "label": {
+        "en": [
+          "Les duchés de Savoye, de Genevois, de Chablais; les comtés de Morienne, de Tarentaise et la baronie de de Faussigny, le baillage de Gex et la seigneurie de Geneve"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2253/manifest/",
+      "label": {
+        "en": [
+          "Accuratissima Galliae tabula vulgo Royaume de France"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2257/manifest/",
+      "label": {
+        "en": [
+          "Asiae nova delineatio /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2450/manifest/",
+      "label": {
+        "en": [
+          "Afbeeldinge van zeker concept tot bedykinge van de Haarlemer, Leydse en andere byleggende meeren"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2538/manifest/",
+      "label": {
+        "en": [
+          "Flandriae comitatus accuratissima descriptio /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2556/manifest/",
+      "label": {
+        "en": [
+          "Kennemaria et Westfrisia vulgo et vernaculé Noord-Holland tam in minores quam praecipuas ditiones peraccuraté distincta et edita"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2688/manifest/",
+      "label": {
+        "en": [
+          "Transisalania Provincia vulgo Over-Yssel"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_2777/manifest/",
+      "label": {
+        "en": [
+          "Leo Belgicus"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3026/manifest/",
+      "label": {
+        "en": [
+          "Nova totius Hungariae, Serviae, Romaniae, Bulgariae, Walachiae, Moldaviae, Sclavoniae, Croatiae, Bosniae, Dalmatiae, maximq. partis Danubii fluminis /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3288/manifest/",
+      "label": {
+        "en": [
+          "Comitatus Zutphaniae sive Geldriae Tetrachiae Zutphaniensis Isalaeque fluvii"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3352/manifest/",
+      "label": {
+        "en": [
+          "Galletiae regni descriptio : ubi Compostella civitas, in cuius cathedrali ecclesia B. Iacobi Hispaniarum protectoris, et tutelaris patroni corpus summa veneratione asservatur ... /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3370/manifest/",
+      "label": {
+        "en": [
+          "Regnum Bohemiæ eique annexæ provinciæ ut ducatus Silesiæ marchionatus Moraviæ et Lusatiæ vulgo die Erbländeren /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3381/manifest/",
+      "label": {
+        "en": [
+          "Carte de l'enclavement de la Gueldre Autrichienne."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_350/manifest/",
+      "label": {
+        "en": [
+          "Carte des Provinces unies des Pays Bas : tirée des cartes les plus correcte qui en ont été faites sur les lieux, rectifiées par les observations et opérations géometriques de Snellius et par celles que Mr. Cassini y a faites en dernier lieu"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_3706/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38576/manifest/",
+      "label": {
+        "en": [
+          "[Dieptekaart van de monding van de Suriname-rivier]."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38578/manifest/",
+      "label": {
+        "en": [
+          "Plan van Defensie van de Rivier Surinamen."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38579/manifest/",
+      "label": {
+        "en": [
+          "[Dieptekaart van de monding van de Nickerie-Rivier]."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38587/manifest/",
+      "label": {
+        "en": [
+          "Waterland."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38628/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_503/manifest/",
+      "label": {
+        "en": [
+          "Novissima et accuratissima totius Italiæ, Corsicæ et Sardiniæ"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_537/manifest/",
+      "label": {
+        "en": [
+          "Niewe Kaerte van T Landt van Waes ende Hulster Ambacht : vertoonende oock de Stroomen van de Ooster ende Wester Schelde"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_654/manifest/",
+      "label": {
+        "en": [
+          "Europa /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_675/manifest/",
+      "label": {
+        "en": [
+          "Nova Persiae Armeniae Natoliae et Arabiae."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_682/manifest/",
+      "label": {
+        "en": [
+          "Ducatus Geldria et Zutphania Comitatus."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_795/manifest/",
+      "label": {
+        "en": [
+          "Nova totius Angliae, Scotiae, et Hiberniae tab. /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_816/manifest/",
+      "label": {
+        "en": [
+          "Comitatus Flandriae accuratissima descriptio /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_862/manifest/",
+      "label": {
+        "en": [
+          "Africæ accurata tabula."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40073/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40075/manifest/",
+      "label": {
+        "en": [
+          "Exactissima Belgii Foederati tabula : cum annexis divisa in provincias, earumque partes minores"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40076/manifest/",
+      "label": {
+        "en": [
+          "Belgium foederatum /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40093/manifest/",
+      "label": {
+        "en": [
+          "Asiae in tabula geographica delineatio"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40094/manifest/",
+      "label": {
+        "en": [
+          "Carte des Indes et de la Chine"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40095/manifest/",
+      "label": {
+        "en": [
+          "Le royaume de Siam : auec les royaumes qui luy sont tributaires, et les isles de Sumatra, Andemaon etc. et les isles voisine[!] avec les observations des six pères Jesuites envojez par le roy en qualité de ses mathematiciens dans les Indes, et à la Chine ou est aussi tracée la route qu'ils ont tenüe par le destroit de la Sonde jusqu'à Siam"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40096/manifest/",
+      "label": {
+        "en": [
+          "Insulae Iavae Pars Orientalis"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40097/manifest/",
+      "label": {
+        "en": [
+          "Insulae Iavae Pars Occidentalis"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40098/manifest/",
+      "label": {
+        "en": [
+          "Het Koningryk Japan, verdeelt in acht en zestig provintien /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40099/manifest/",
+      "label": {
+        "en": [
+          "Amstelodamum celebre emporium forma plana."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40100/manifest/",
+      "label": {
+        "en": [
+          "Plan tot uitbreiding van Amsterdam."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40101/manifest/",
+      "label": {
+        "en": [
+          "Kaart van Amsterdam 1:10.000 /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_20465/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_38668_01/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_39624/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_39632/manifest/",
+      "label": {
+        "en": [
+          "Nieuwe en nette aftekening vande door gravinge die er staat te geschieden beginnende van de stadt Utrecht tot aan Spakenborg in de Zuyder Zee met des zelfs afbakinge &c"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_39633/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_39634/manifest/",
+      "label": {
+        "en": [
+          "Ultrajecti ejusdemque territorii delineatio geometrica"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_39635/manifest/",
+      "label": {
+        "en": [
+          "Kaart van de stad Utrecht en eene zyde van de revier de Leck : met de batteryen retranchementen die door de burgers van Utrecht op orders van den Hr. Rhyn grave Von Salm buiten de stad en omleggende plaatsen in den jaare 1787 zyn opgeworpen"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_39636/manifest/",
+      "label": {
+        "en": [
+          "Ducatus Geldriae nova tabula in tetrarchias Noviomagi, Arnhemii, Ruremondae in Zutphaniae comitatûm distincta, et edita à auctore Joachimo Ottens geographo Amstelodamensi"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_39642/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_39643/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_39644/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_39646/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_39649/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_39650/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_39651/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_39652/manifest/",
+      "label": {
+        "en": [
+          "De Hofstad van der Duijn, met het bosch en reijgerie, en de landen daaraan behoorende beginnende uijtte Meer en Rotte, en strekkende voords Noord Oost ten Oosten tot aan d' ander zijde van 't dorp Zeven-huijsen, eertijds toebehoord hebbende de Jon[khee]r Jacob van der Duijn, Heere van Sprangh met zijn broederen /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_39835/manifest/",
+      "label": {
+        "en": [
+          "Nieuwe landkaart van het koningrijk der Nederlanden versierd met de wapens der voornaamste landen van Europa : aanwijzende hoofdzakelijk al de spoorwegen en stations al de andere groote wegen en bestraatte binnewegen, kanaalen, meeren, rivieren, steden, dorpen, gehuchten enz. verdeelt in provincien, arrondissementen en kantons /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_39836/manifest/",
+      "label": {
+        "en": [
+          "Nieuwe landkaart van het koningrijk der Nederlanden versierd met de wapens der voornaamste landen van Europa : aanwijzende hoofdzakelijk al de spoorwegen en stations al de andere groote wegen en bestraatte binnenwegen, kanaalen, meeren, rivieren, steden, dorpen, gehuchten enz. verdeelt in provinciën, arrondissementen en kantons."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_39837/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_39838/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_39839/manifest/",
+      "label": {
+        "en": [
+          "Bivak op den avond van 8n. April 1873 ; Bivak in de sawahvlakte voor de Missigit"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_39840/manifest/",
+      "label": {
+        "en": [
+          "Nieuw plan van de stad Rotterdam /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_39841/manifest/",
+      "label": {
+        "en": [
+          "Schets van de Missigit en omstreken"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_39842/manifest/",
+      "label": {
+        "en": [
+          "Schets van de Missigit en omstreken"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_39843/manifest/",
+      "label": {
+        "en": [
+          "Kaart van Sumatra naar de beste bronnen bewerkt"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_39854/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_39867/manifest/",
+      "label": {
+        "en": [
+          "Kaart van het terrein des oorlogs in het rijk Atjeh nabij de hoofdplaats opgenomen in April 1873 door de expeditionaire verkennings brigade"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40074/manifest/",
+      "label": {
+        "en": [
+          "Nieuwe kaart van de XVII Nederlandsche Provincien : waar in aangewezen worden de landen door den Koning van Vrankryk geconquesteerd als mede die van het Huis van Oostenryk, van den Koning van Pruisen en den Staat der Vereenigde Nederlanden, alles volgens het laatste tractaat van Barriere"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40077/manifest/",
+      "label": {
+        "en": [
+          "Hollandiae Comitatus una cum Ultrajectino Dominio nec non maximis partibus Geldriae Ducatus = Kaart van 't graafschap Holland naauwkeurig afgedeelt in zyne Heemraadschappen, Baljuwschappen en Waarden nevens verscheide andere minder afdeelingen en onderhorige landen als mede van de Heerlykheit Utrecht en het grootste gedeelte van Gelderlandt"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40078/manifest/",
+      "label": {
+        "en": [
+          "Hollandiae Comitatus una cum Ultrajectino Dominio nec non maximis partibus Geldriae Ducatus = Kaart van 't graafschap Holland naauwkeurig afgedeelt in zyne Heemraadschappen, Baljuwschappen en Waarden nevens verscheide andere minder afdeelingen en onderhorige landen als mede van de Heerlykheit Utrecht en het grootste gedeelte van Gelderlandt"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_27214/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_39630/manifest/",
+      "label": {
+        "en": [
+          "Ultraiectini Dominii tabula"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_39631/manifest/",
+      "label": {
+        "en": [
+          "Tabula nova provinciae Ultrajectinae"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_39637/manifest/",
+      "label": {
+        "en": [
+          "Ducatus Geldriae Tetrachia Arnhemiensis sive Velavia"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_39638/manifest/",
+      "label": {
+        "en": [
+          "Tetrachia ducatus Geldriae Neomagensis"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_39639/manifest/",
+      "label": {
+        "en": [
+          "Comitatus Zutphaniae sive Geldriae Tetrachiae Zutphaniensis Isalaeque fluvii"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_39640/manifest/",
+      "label": {
+        "en": [
+          "Tetrachia ducatus Geldriae Ruremondana secundum divisiones tractatuum Ultrajecti &c"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_39641/manifest/",
+      "label": {
+        "en": [
+          "Transisalania Provincia vulgo Over-Yssel"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_39645/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_39647/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_39648/manifest/",
+      "label": {},
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_39844/manifest/",
+      "label": {
+        "en": [
+          "Amstelredamum emporium Hollandiæ primarium totiusque Europæ celeberrimum /"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_39946/manifest/",
+      "label": {},
+      "type": "Manifest"
+    }
+  ]
+}
