@@ -23,6 +23,44 @@ graph LR
     I -- schema:mainEntityOfPage --> H
 ```
 
+Alternatieve representatie:
+
+```mermaid
+flowchart TD
+
+ subgraph subGraph0["**Conceptual Level**"]
+        E["**Expression**<br>(schema:CreativeWork)"]:::dottedClass
+        A["**Manifestation**<br>(schema:CreativeWork)"]
+  end
+ subgraph subGraph1["**Physical Instance**"]
+        I["**Item**<br>(schema:CreativeWork)"]
+        C["**Map**<br>(schema:Map)"]
+  end
+ subgraph subGraph2["**Digital Representations**"]
+        M["**IIIF Manifest**<br>(iiif:Manifest)"]
+        X["**IIIF Canvas**<br>(iiif:Canvas)"]
+        H["**Viewer (Permalink)**<br>(schema:WebPage)"]
+  end
+    A -. schema:exampleOfWork .-> E
+    I -- schema:exampleOfWork --> A
+    C -- schema:isPartOf --> I
+    M -- rdfs:seeAlso --> I
+    X -- rdfs:seeAlso --> C
+    H -- schema:mainEntity --> I
+     E:::dottedClass
+     A:::conceptualObj
+     I:::physicalObj
+     C:::physicalObj
+     M:::conceptualObj
+     H:::conceptualObj
+     X:::conceptualObj
+    classDef conceptualObj fill:#FDDC34,stroke:#333,stroke-width:2px 
+    classDef physicalObj fill:#C78E66,stroke:#333,stroke-width:2px
+    classDef dottedClass fill:#fef4c2,stroke:grey,stroke-width:2px,stroke-dasharray: 5
+
+```
+
+
 ## Overwegingen
 
 - We hebben toch onderscheid gemaakt tussen Manifestation (of 'Staat' van een kaart), Item én visuele voorstelling op basis van de informatie die we voor een samengesteld werk (Atlas) hebben. Moeten we voor de consistentie dit niet ook doorvoeren voor de losse kaartbladen? Dan trekken we materiële drager en visuele voorstelling deels uit elkaar.
