@@ -4,14 +4,143 @@
   "@context": "http://www.w3.org/ns/anno.jsonld",
   "items": [
     {
+      "id": "https://annotations.allmaps.org/maps/00df8009ae936d1d",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "created": "2025-06-24T19:54:24.826Z",
+      "modified": "2025-06-24T19:54:24.826Z",
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_40073/pages/1/canvas/",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://amsterdamtimemachine.github.io/pica-toegankelijke-kaartcollectie/manifest.json",
+            "type": "Manifest",
+            "label": {
+              "nl": [
+                "Selectie kaarten voor het PICA-project 'Toegankelijke Kaartencollectie' van de Universiteit van Amsterdam"
+              ]
+            }
+          }
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"6000\" height=\"5368\"><polygon points=\"2731,2892 2729,1788 3797,1793 3793,2892\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "polynomial",
+          "options": {
+            "order": 1
+          }
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2894,
+                2047
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.900321,
+                52.3727619
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2804,
+                2501
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.8952383,
+                52.3684134
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                3767,
+                2344
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.9134955,
+                52.3655636
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                3379,
+                2818
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.9030622,
+                52.3622176
+              ]
+            }
+          }
+        ],
+        "_allmaps": {
+          "id": "https://annotations.allmaps.org/maps/00df8009ae936d1d",
+          "version": "https://annotations.allmaps.org/maps/00df8009ae936d1d@1076a5daa79c4a57",
+          "image": {
+            "id": "https://annotations.allmaps.org/images/c4f41ade9143ce41",
+            "version": "https://annotations.allmaps.org/images/c4f41ade9143ce41@daf3e99f2966cc59",
+            "canvases": [
+              {
+                "id": "https://annotations.allmaps.org/canvases/2d96328b055d629f",
+                "manifests": [
+                  {
+                    "id": "https://annotations.allmaps.org/manifests/c644ddad8dda24b6"
+                  },
+                  {
+                    "id": "https://annotations.allmaps.org/manifests/71cb5a36cf53c4a7"
+                  }
+                ]
+              }
+            ]
+          },
+          "scale": 0.764917,
+          "area": 2004962.99
+        }
+      }
+    },
+    {
       "id": "https://annotations.allmaps.org/maps/26c29ba923c73228",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
         "http://iiif.io/api/presentation/3/context.json"
       ],
-      "created": "2024-08-09T11:22:39.590Z",
-      "modified": "2024-08-09T11:22:39.590Z",
+      "created": "2025-06-24T19:54:24.826Z",
+      "modified": "2025-06-24T19:54:24.826Z",
       "motivation": "georeferencing",
       "target": {
         "type": "SpecificResource",
@@ -141,16 +270,19 @@
         ],
         "_allmaps": {
           "id": "https://annotations.allmaps.org/maps/26c29ba923c73228",
-          "version": "https://annotations.allmaps.org/maps/26c29ba923c73228@248274d08cb07f85",
+          "version": "https://annotations.allmaps.org/maps/26c29ba923c73228@2a84de092f74172d",
           "image": {
             "id": "https://annotations.allmaps.org/images/c4f41ade9143ce41",
-            "version": "https://annotations.allmaps.org/images/c4f41ade9143ce41@c64d6ea1e69a7e8f",
+            "version": "https://annotations.allmaps.org/images/c4f41ade9143ce41@daf3e99f2966cc59",
             "canvases": [
               {
                 "id": "https://annotations.allmaps.org/canvases/2d96328b055d629f",
                 "manifests": [
                   {
                     "id": "https://annotations.allmaps.org/manifests/c644ddad8dda24b6"
+                  },
+                  {
+                    "id": "https://annotations.allmaps.org/manifests/71cb5a36cf53c4a7"
                   }
                 ]
               }
@@ -161,5 +293,6 @@
         }
       }
     }
-  ]
+  ],
+  "purpose": "georeferencing"
 }

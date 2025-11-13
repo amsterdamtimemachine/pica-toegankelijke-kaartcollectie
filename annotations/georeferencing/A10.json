@@ -4,14 +4,14 @@
   "@context": "http://www.w3.org/ns/anno.jsonld",
   "items": [
     {
-      "id": "https://annotations.allmaps.org/maps/2fcf8bfc03d6790a",
+      "id": "https://annotations.allmaps.org/maps/0be409d41de7b68c",
       "type": "Annotation",
       "@context": [
         "http://iiif.io/api/extension/georef/1/context.json",
         "http://iiif.io/api/presentation/3/context.json"
       ],
-      "created": "2025-02-27T14:59:14.543Z",
-      "modified": "2025-02-27T14:59:14.543Z",
+      "created": "2025-06-24T20:41:50.419Z",
+      "modified": "2025-06-24T20:41:50.419Z",
       "motivation": "georeferencing",
       "target": {
         "type": "SpecificResource",
@@ -30,7 +30,208 @@
         },
         "selector": {
           "type": "SvgSelector",
-          "value": "<svg width=\"7373\" height=\"8724\"><polygon points=\"157,186 137,8488 7191,8522 7160,1848 5714,1853 5138,1347 5133,208\" /></svg>"
+          "value": "<svg width=\"7373\" height=\"8724\"><polygon points=\"7151,8489 170,8470 189,2143 7160,2164 7160,2565\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "polynomial",
+          "options": {
+            "order": 1
+          }
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                5802,
+                7297
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.9401816,
+                52.3477862
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                1231,
+                6683
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.8627616,
+                52.3542627
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                5486,
+                3087
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.9348875,
+                52.3908014
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                4268,
+                7867
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.9139375,
+                52.3419984
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                1583,
+                3555
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.8680663,
+                52.3860304
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                3116,
+                5245
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.8939525,
+                52.3687453
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2507,
+                3954
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.8834384,
+                52.382216
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                3245,
+                5829
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.8960486,
+                52.3624155
+              ]
+            }
+          }
+        ],
+        "_allmaps": {
+          "id": "https://annotations.allmaps.org/maps/0be409d41de7b68c",
+          "version": "https://annotations.allmaps.org/maps/0be409d41de7b68c@e1f2ae86ea74c4f6",
+          "image": {
+            "id": "https://annotations.allmaps.org/images/68066f5d52bfe57a",
+            "version": "https://annotations.allmaps.org/images/68066f5d52bfe57a@b596f2a89ddf4a06",
+            "canvases": [
+              {
+                "id": "https://annotations.allmaps.org/canvases/3d54031a3dc34db9",
+                "manifests": [
+                  {
+                    "id": "https://annotations.allmaps.org/manifests/501ad62b00d729b7"
+                  }
+                ]
+              },
+              {
+                "id": "https://annotations.allmaps.org/canvases/7cb66fa51f94cb45",
+                "manifests": [
+                  {
+                    "id": "https://annotations.allmaps.org/manifests/c644ddad8dda24b6"
+                  },
+                  {
+                    "id": "https://annotations.allmaps.org/manifests/345225f25292da8e"
+                  }
+                ]
+              }
+            ]
+          },
+          "scale": 0.870271,
+          "area": 58270235.31
+        }
+      }
+    },
+    {
+      "id": "https://annotations.allmaps.org/maps/2fcf8bfc03d6790a",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "created": "2025-06-24T20:41:50.419Z",
+      "modified": "2025-06-24T20:41:50.419Z",
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://uvaerfgoed.nl/viewer/api/v1/records/11245_3_1246/pages/1/canvas/",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://amsterdamtimemachine.github.io/pica-toegankelijke-kaartcollectie/manifest.json",
+            "type": "Manifest",
+            "label": {
+              "nl": [
+                "Selectie kaarten voor het PICA-project 'Toegankelijke Kaartencollectie' van de Universiteit van Amsterdam"
+              ]
+            }
+          }
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"7373\" height=\"8724\"><polygon points=\"157,186 152,2130 137,8488 174,8488 1777,8503 7191,8522 7161,2146 7160,1848 5714,1853 5138,1347 5133,208\" /></svg>"
         }
       },
       "body": {
@@ -205,10 +406,10 @@
         ],
         "_allmaps": {
           "id": "https://annotations.allmaps.org/maps/2fcf8bfc03d6790a",
-          "version": "https://annotations.allmaps.org/maps/2fcf8bfc03d6790a@dba1190aa1e864c5",
+          "version": "https://annotations.allmaps.org/maps/2fcf8bfc03d6790a@237402d7a2d9a965",
           "image": {
             "id": "https://annotations.allmaps.org/images/68066f5d52bfe57a",
-            "version": "https://annotations.allmaps.org/images/68066f5d52bfe57a@31d9ef085f36ce2a",
+            "version": "https://annotations.allmaps.org/images/68066f5d52bfe57a@b596f2a89ddf4a06",
             "canvases": [
               {
                 "id": "https://annotations.allmaps.org/canvases/3d54031a3dc34db9",
@@ -223,15 +424,19 @@
                 "manifests": [
                   {
                     "id": "https://annotations.allmaps.org/manifests/c644ddad8dda24b6"
+                  },
+                  {
+                    "id": "https://annotations.allmaps.org/manifests/345225f25292da8e"
                   }
                 ]
               }
             ]
           },
-          "scale": 0.868812,
-          "area": 73082477.69
+          "scale": 0.868782,
+          "area": 73120371.62
         }
       }
     }
-  ]
+  ],
+  "purpose": "georeferencing"
 }

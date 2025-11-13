@@ -10,8 +10,8 @@
         "http://iiif.io/api/extension/georef/1/context.json",
         "http://iiif.io/api/presentation/3/context.json"
       ],
-      "created": "2024-08-05T09:43:10.965Z",
-      "modified": "2024-08-05T09:43:10.965Z",
+      "created": "2025-10-24T09:45:04.171Z",
+      "modified": "2025-10-24T09:45:04.171Z",
       "motivation": "georeferencing",
       "target": {
         "type": "SpecificResource",
@@ -55,6 +55,22 @@
               "coordinates": [
                 4.8962973,
                 52.3683855
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                9941,
+                4722
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.8839392,
+                52.3745311
               ]
             }
           },
@@ -185,30 +201,14 @@
                 52.3743541
               ]
             }
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "resourceCoords": [
-                9941,
-                4722
-              ]
-            },
-            "geometry": {
-              "type": "Point",
-              "coordinates": [
-                4.8839392,
-                52.3745311
-              ]
-            }
           }
         ],
         "_allmaps": {
           "id": "https://annotations.allmaps.org/maps/f5efada1b28fb4bf",
-          "version": "https://annotations.allmaps.org/maps/f5efada1b28fb4bf@9c543be6821d1225",
+          "version": "https://annotations.allmaps.org/maps/f5efada1b28fb4bf@7778e52173530c48",
           "image": {
             "id": "https://annotations.allmaps.org/images/f8d551fce60795f3",
-            "version": "https://annotations.allmaps.org/images/f8d551fce60795f3@07c7e231d2df00e1",
+            "version": "https://annotations.allmaps.org/images/f8d551fce60795f3@7448543a451e5752",
             "canvases": [
               {
                 "id": "https://annotations.allmaps.org/canvases/f97e5c408112f2f7",
@@ -241,5 +241,6 @@
         }
       }
     }
-  ]
+  ],
+  "purpose": "georeferencing"
 }

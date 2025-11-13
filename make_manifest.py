@@ -85,16 +85,17 @@ def get_georeferencing_annotations(
         }
 
     if not embedded:
-        ap = {"id": annotation_page_id, **ap}
+        ap = {"id": annotation_page_id, **ap, "purpose": "georeferencing"}
 
         with open(f"annotations/georeferencing/{identifier}.json", "w") as outfile:
             json.dump(ap, outfile, indent=2)
 
-        return iiif_prezi3.Reference(
-            id=annotation_page_id,
-            label="Georeferencing Annotations made with Allmaps",
-            type="AnnotationPage",
-        )
+        return {
+            "id": annotation_page_id,
+            "label": "Georeferencing Annotations made with Allmaps",
+            "type": "AnnotationPage",
+            "purpose": "georeferencing",
+        }
     else:
         return ap
 
